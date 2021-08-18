@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('../fonts/Montserrat-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: pacifico;
+    src: url('../fonts/Pacifico-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: indie;
+    src: url('../fonts/IndieFlower-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: rufina;
+    src: url('../fonts/Rufina-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: regular;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: frederick;
+    src: url('../fonts/FrederickatheGreat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: regular;
+    font-display: swap;
+}
+
+#body {
+    background-image: url('/images/BG2old.jpg');
+    background-position: 0px 0px;
+    background-size: contain;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#MainWelcomePhoto {
+    width: 100%;
+    height: auto;
+}
+
+.font-montserrat {
+    font-family: Montserrat-Light, sans-serif;
+}
+
+.font-indie {
+    font-family: pacifico, sans-serif;
+}
+
+.font-pacifico {
+    font-family: indie, sans-serif;
+}
+
+.font-rufina {
+    font-family: rufina, sans-serif;
+}
+
+.font-frederick {
+    font-family: frederick, sans-serif;
+}
+
+.text-blau {
+    color: #13c5eb;
+}
+
+.bg-blau {
+    background-color: #13c5eb;
+}
