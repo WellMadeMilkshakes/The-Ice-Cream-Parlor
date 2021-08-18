@@ -1,4 +1,4 @@
-### HEYO BANANAS!
+### HEYO CONES!
 
 The website is made with Next.js + Tailwind CSS Example
 
