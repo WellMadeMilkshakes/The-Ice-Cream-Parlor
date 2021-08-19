@@ -188,6 +188,17 @@ return (
             </div>
           </div>
 
+          <div className="grid gap-4 grid-cols-3 p-2 items-center">
+            <div className="image">
+              <img className="rounded-full shadow-lg" src="/images/profiles/Astronaut.png"></img>
+            </div>
+            <div className="description col-span-2">
+              <p class="text-xl font-medium">MetaverseMogul</p>
+              <p class="">Developer</p>
+              <a class="text-lg text-blau font-indie" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
