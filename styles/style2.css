@@ -51,6 +51,11 @@
     height: auto;
 }
 
+#roadmap-img {
+    width: 100%;
+    height: auto;
+}
+
 .font-montserrat {
     font-family: Montserrat-Light, sans-serif;
 }

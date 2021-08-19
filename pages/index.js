@@ -34,8 +34,8 @@ return (
         <a href="#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
         <a href="#team" className="text-4xl text-white hover:text-black m-6">Team</a>
         <a href="#Gallery" className="text-4xl text-white hover:text-black m-6">Gallery</a>
-        <a href="https://twitter.com/boringbananasco" className="text-2xl font-montserrat hover:text-white m-6 text-blau">twitter</a>
-        <a href="https://discord.gg/hTq2v7fwxf" className="text-2xl font-montserrat hover:text-white m-6 text-blau">discord</a>
+        <a href="https://twitter.com/IceCreamNFT" className="text-4xl hover:text-white m-6 text-blau">twitter</a>
+        <a href="https://discord.com/channels/876818020633313290/876819378623086624" className="text-4xl hover:text-white m-6 text-blau">discord</a>
       </nav>
       {/* <a href="/" className=""><img src="/images/Ice_Cream_gif.gif" width="240" alt="" className="logo-image" /></a> */}
     </div>
@@ -71,36 +71,39 @@ return (
 
 {/* -------------------------------------------------------------------- */}
 
-<div id="roadmap" className="content-center">
-        <img className="pb-8" src="/images/Roadmap.png"/>
-        <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
-        <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">WHY BACK US?</h2>
-          <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
-          <p className="text-2xl text-white text-center my-6"> After looking at the NFT space we came to a conclusion. There are simply too many projects! Not to mention, the art just looks too… random! We are sick and tired of lazy projects and clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
-          </p>
+    <div id="roadmap" className="border-t-2 p-4 content-center">
+      <img id="roadmap-img" className="pb-8 " src="/images/Roadmap.png"/>
+      <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
-          <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION!</h2>
-          <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space.  
-          </p>
-          <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and then don’t deliver once they have your money. NO MORE MONEY GRABS. Our goal is to push everyone to do better than before on delivering a good product that isn’t JUST a money grab.</p>
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION!</h2>
+      <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space.  
+      </p>
+      <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. NO MORE MONEY GRABS! Our goal is to push everyone to do better than before on delivering a good product that has purpose!</p>
 
-          <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
-          <p className="text-xl text-white text-center my-6 font-indie">OVER <span className="text-3xl text-blau">ONE MILLION</span> COMBINATIONS!</p>
-          <p className="text-2xl text-white text-center my-6">We have designed our cones to have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
+      <p className="text-xl text-white text-center my-6 font-indie"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
+      <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
 
 
-          <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
-          <ul className="">
-            <li className="text-2xl text-white my-6"></li>
-            <li className="text-2xl text-white my-6"></li>
-            <li className="text-2xl text-white my-6"></li>  
-          </ul>
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
 
-          <p className="text-2xl text-white my-6"> In addition, we have been, and continue to make <span className="font-bold underline"> high quality content for the NFT community!</span>
-          </p>
+      <p className="text-2xl text-white my-6">Fullfilling our roadmap will allow us to...</p>
+      <ul className="">
+        <li className="pl-6 text-2xl text-white my-6">1) Donate 10 ETH to a charity chosen by our community!</li>
+        <li className="pl-6 text-2xl text-white my-6">2) Give 8 giveaways of .8888 ETH to our amazing community!</li>
+        <li className="pl-6 text-2xl text-white my-6">3) Launch our next project and really start to push the boundaries of NFTs!</li>  
+      </ul>
 
-        </div>
-      </div>
+      <p className="text-2xl text-white my-6"> In addition, we have been, and continue to make <span className="font-bold underline"> high quality content for the NFT community!</span>
+      </p>
+
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4 mt-10">WHY BACK US?</h2>
+      <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
+      <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
+      </p>
+
+    </div>
+  </div>
       
 {/* -------------------------------------------------------------------- */}
 
@@ -109,19 +112,19 @@ return (
       <div className="grid gap-4 grid-cols-3">
         <div className="">
           <h3 className="text-2xl font-indie">Meet Our Team!</h3>
-          <p className="text-2xl my-4">Hey welcome we are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
-          <p className="text-2xl">Let's not forget why we came togther! #QualityNFTs #ConeLife</p>
+          <p className="text-2xl my-4">Welcome! We are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
+          <p className="text-2xl">Let's not forget why we came togther! #IntoTheUnknown #ConeLife</p>
         </div>
-        <div className="">
+        <div className="">  
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Mermaid.png"></img>
+              <img className="rounded-full shadow-lg" src="/images/profiles/Jasmine.jpg"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-pacifico font-medium">Jasmine</p>
               <p class="font-pacifico">Art Director</p>
-              <a class="text-lg text-blau font-indie" href="">@twitter</a>
+              <a class="text-lg text-blau font-indie" href="https://twitter.com/FlowerConeNFT">@FlowerConeNFT</a>
             </div>
           </div>
 
@@ -152,12 +155,12 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Bee.png"></img>
+              <img className="rounded-full shadow-lg" src="/images/profiles/Abby.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">Abby</p>
-              <p class="">Junior Artist</p>
-              <a class="text-lg text-blau font-indie" href="">@twitter</a>
+              <p class="">Senior Artist</p>
+              <a class="text-lg text-blau font-indie" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
             </div>
           </div>
 
@@ -168,7 +171,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">Shaphan</p>
               <p class="">Marketing / Branding</p>
-              <a class="text-lg text-blau font-indie" href="">@twitter</a>
+              <a class="text-lg text-blau font-indie" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
             </div>
           </div>
         </div>
@@ -181,11 +184,11 @@ return (
     <h2 className="text-7xl text-center my-8 text-gray-200 font-frederick">Art Gallery</h2>
       <div className="grid gap-4 grid-cols-3 p-2 items-center pb-4">
         <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
+        <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
+        <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
+        <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
+        <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
+        <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
       </div>
     </div>
 {/* -------------------------------------------------------------------- */}
@@ -194,7 +197,7 @@ return (
             <div className="flex flex-col justify-between py-6 ">
               <h2 className="text-blau text-3xl text-center font-indie">We'd Love to Hear From You!</h2>
               <p className="text-xl text-white my-6 montserrat">Reach out to us on Twitter <a className="text-blau underline font-bold" target="_blank" href="https://twitter.com/IceCreamNFT">@theIceCreamParlor</a><br/> 
-              Or alternatively, join our <a className="text-bla underline font-bold" target="_blank" href="https://discord.gg/hTq2v7fwxf">Discord Server</a>.
+              Or alternatively, join our <a className="text-bla underline font-bold" target="_blank" href="https://discord.com/channels/876818020633313290/876819378623086624">Discord Server</a>.
               </p>
             </div>
           </div>   
