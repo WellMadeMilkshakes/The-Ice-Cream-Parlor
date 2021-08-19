@@ -9,18 +9,18 @@ return (
     <link rel="icon" href="/images/favicon.jpg" />
 
     <meta property="og:title" content="Ice Cream Parlor" key="ogtitle" />
-    <meta property="og:description" content="Here at Boring Bananas company, we specialise in the world's finest digital bananas. We've put together a team spanning 3 continents, to bring you some of the most ‍NUTRITIOUS and DELICIOUS bananas out known to man." key="ogdesc" />
+    <meta property="og:description" content="Welcome to the Ice Cream Parlor" key="ogdesc" />
     <meta property="og:type" content="website" key="ogtype" />
-    <meta property="og:url" content="https://boringbananas.co/" key="ogurl"/>
-    <meta property="og:image" content="https://boringbananas.co/images/Hola.gif" key="ogimage"/>
-    <meta property="og:site_name" content="https://boringbananas.co/" key="ogsitename" />
+    <meta property="og:url" content="https://theicecreamparlor.io/" key="ogurl"/>
+    <meta property="og:image" content="https://theicecreamparlor.io/images/profile/Hippie.png" key="ogimage"/>
+    <meta property="og:site_name" content="https://theicecreamparlor.io/" key="ogsitename" />
 
     <meta name="twitter:card" content="summary_large_image" key="twcard"/>
-    <meta property="twitter:domain" content="boringbananas.co" key="twdomain" />
-    <meta property="twitter:url" content="https://boringbananas.co/" key="twurl" />
-    <meta name="twitter:title" content="Boring Bananas Co." key="twtitle" />
-    <meta name="twitter:description" content="Here at boring Bananas company, we specialise in the world's finest digital bananas. We've put together a team spanning 3 continents, to bring you some of the most ‍NUTRITIOUS and DELICIOUS bananas out known to man." key="twdesc" />
-    <meta name="twitter:image" content="https://boringbananas.co/images/Hola.gif" key="twimage" />
+    <meta property="twitter:domain" content="theicecreamparlor.io" key="twdomain" />
+    <meta property="twitter:url" content="https://theicecreamparlor.io/" key="twurl" />
+    <meta name="twitter:title" content="The Ice Cream Parlor" key="twtitle" />
+    <meta name="twitter:description" content="Welcome to the Ice Cream Parlor" key="twdesc" />
+    <meta name="twitter:image" content="https://theicecreamparlor/images/profile/Hippie.png" key="twimage" />
   </Head>
 
   <div className="" id="Art">
@@ -101,6 +101,8 @@ return (
       <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
       <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
       </p>
+
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
 
     </div>
   </div>
