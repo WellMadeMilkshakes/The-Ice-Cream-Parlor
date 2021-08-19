@@ -50,8 +50,9 @@ return (
           <div className="w-3/4 text-center items-center justify-center">
             <h1 className="text-5xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
             <h2 className="text-3xl text-gray-200 ">IT'S HAPPENING!!! <br/><span className="">Be the first to mint your cone in ...</span></h2>
-            <div className="pl-20">
-              <iframe src="https://free.timeanddate.com/countdown/i7xx9koe/n1170/cf12/cm0/cu4/ct0/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs350/szw576/szh243/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="658" height="170"></iframe>
+            <div className="pl-2 md:pl-3 lg:pl-20 xl:pl-20">
+
+              <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7xx9koe/n1170/cf12/cm0/cu4/ct0/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs350/szw576/szh243/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="658" height="170"></iframe>
             </div>
             <p className="text-2xl text-gray-200 my-6">
               <strong>LAUNCH DATE:</strong> Tuesday, 24 August 2021, 6pm EST. <br />‍
@@ -103,6 +104,10 @@ return (
       </p>
 
       <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
+      <p className="text-2xl text-white my-6">We are in this for the long run!
+      </p>
+      <p className="text-2xl text-white my-6">Why is the drop so soon? Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
+      </p>
 
     </div>
   </div>
