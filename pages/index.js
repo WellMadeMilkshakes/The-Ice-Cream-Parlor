@@ -53,7 +53,8 @@ return (
           <h1 className="text-center text-5xl md:text-8xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
 
             <div className="grid gap-4 sm:grid-cols-0 md:grid-cols-5">
-              <div className="col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
+
+              <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
                 <h2 className="text-3xl text-gray-200 mt-3">IT'S HAPPENING!!! <br/><span className="">Be the first to mint your cone in ...</span></h2>
                 <div className="pl-auto">
                   <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs200/szw256/szh108/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="152" height="44"></iframe>
@@ -64,9 +65,11 @@ return (
                   <span className="text-gray-200 text-2xl"><strong>TOTAL SUPPLY:</strong> 8888 Cones.<br/><strong>PRICE:</strong> 0.04 ETH each.</span>
                 </p>
                 {/* <iframe src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-06-29T21:00:00" allowtransparency="true" frameBorder="0" width="425" height="25"></iframe> */}
-              </div>
+              </div> 
 
-              <img className="col-span-2 rounded-xl shadow-2xl" src="/images/NewGIF.gif"></img>
+              <div className="col-span-1 md:col-span-2">
+                <img className="rounded-xl shadow-2xl" src="/images/NewGIF.gif"></img>
+              </div>
 
             </div>
 
