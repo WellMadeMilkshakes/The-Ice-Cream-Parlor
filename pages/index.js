@@ -29,13 +29,13 @@ return (
 
   <div className="bg-gray-700 w-full shadow-md font-indie">
     <div className="flex items-center justify-between">
-      <nav className="ml-10 flex flex-wrap flex-row">
+      <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
         {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
-        <a href="#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
-        <a href="#team" className="text-4xl text-white hover:text-black m-6">Team</a>
-        <a href="#Gallery" className="text-4xl text-white hover:text-black m-6">Gallery</a>
-        <a href="https://twitter.com/IceCreamNFT" className="text-4xl hover:text-white m-6 text-blau">twitter</a>
-        <a href="https://discord.com/channels/876818020633313290/876819378623086624" className="text-4xl hover:text-white m-6 text-blau">discord</a>
+        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="#team" className=" text-white hover:text-black m-6">Team</a>
+        <a href="#Gallery" className=" text-white hover:text-black m-6">Gallery</a>
+        <a href="https://twitter.com/IceCreamNFT" className=" hover:text-white m-6 text-blau">twitter</a>
+        <a href="https://discord.com/channels/876818020633313290/876819378623086624" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
       {/* <a href="/" className=""><img src="/images/Ice_Cream_gif.gif" width="240" alt="" className="logo-image" /></a> */}
     </div>
@@ -44,13 +44,13 @@ return (
   <div className="font-pacifico" id="about">
   
 {/* -------------------------------------------------------------------- */}
-    <div class="w-10/12 m-auto mt-10">
+    <div class="w-11/12 md:w-10/12 m-auto mt-10">
       <div id="countdown" className="py-6 content-center my-8 p-8">
         <div className="flex flex-wrap lg:flex-nowrap justify-around items-center mt-8">
           <div className="w-3/4 text-center items-center justify-center">
-            <h1 className="text-5xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
+            <h1 className="text-3xl md:text-5xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
             <h2 className="text-3xl text-gray-200 ">IT'S HAPPENING!!! <br/><span className="">Be the first to mint your cone in ...</span></h2>
-            <div className="pl-2 md:pl-10 lg:pl-0 xl:pl-20">
+            <div className="pl-0 md:pl-10 lg:pl-0 xl:pl-20">
               <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y07dh3/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw320/szh135/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="238" height="68"></iframe>
               <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7xx9koe/n1170/cf12/cm0/cu4/ct0/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs350/szw576/szh243/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="658" height="170"></iframe>
             </div>
@@ -74,19 +74,19 @@ return (
 
     <div id="roadmap" className="content-center">
       <img id="roadmap-img" className="pb-8" src="/images/Roadmap.png"/>
-      <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
+      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
+      <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
       <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space.  
       </p>
       <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. NO MORE MONEY GRABS! Our goal is to push everyone to do better than before on delivering a good product that has purpose!</p>
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
+      <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
       <p className="text-xl text-white text-center my-6 font-indie"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
       <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
 
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
+      <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
 
       <p className="text-2xl text-white my-6">Fullfilling our roadmap will allow us to...</p>
       <ul className="">
@@ -98,12 +98,12 @@ return (
       <p className="text-2xl text-white my-6"> In addition, we have been, and continue to make <span className="font-bold underline"> high quality content for the NFT community!</span>
       </p>
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4 mt-10">WHY BACK US?</h2>
+      <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4 mt-10">WHY BACK US?</h2>
       <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
       <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
       </p>
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
+      <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
       <p className="text-2xl text-white text-center my-6">We are in this for the long run!
       </p>
       <p className="text-2xl text-white text-center my-6">Why is the drop so soon? Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
@@ -115,14 +115,16 @@ return (
 {/* -------------------------------------------------------------------- */}
 
     <div id="team" className="text-white bg-gray-500 shadow-lg p-8">
-      <h2 className="text-7xl my-8 text-white font-frederick border-b-2 py-4">The Team</h2>
-      <div className="grid gap-4 grid-cols-3">
+      <h2 className="text-4xl md:text-7xl my-8 text-white font-frederick border-b-2 py-4">The Team</h2>
+      <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+
         <div className="">
           <h3 className="text-2xl font-indie">Meet Our Team!</h3>
           <p className="text-2xl my-4">Welcome! We are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
           <p className="text-2xl">Let's not forget why we came togther! #IntoTheUnknown #ConeLife</p>
         </div>
-        <div className="">  
+
+        <div className="md:col-span-2 lg:col-span-1">  
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
@@ -158,6 +160,7 @@ return (
           </div>  
 
         </div>
+
         <div className="">
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
@@ -181,6 +184,7 @@ return (
               <a class="text-lg text-blau font-indie" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
             </div>
           </div>
+
         </div>
       </div>
     </div>
@@ -189,7 +193,7 @@ return (
 
 <div id="Gallery" className="bg-gray-700 shadow-lg p-4">
     <h2 className="text-7xl text-center my-8 text-gray-200 font-frederick">Art Gallery</h2>
-      <div className="grid gap-4 grid-cols-3 p-2 items-center pb-4">
+      <div className="grid gap-4 grid-cols-1 md:grid-cols-3 p-2 items-center pb-4">
         <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
         <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
         <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
