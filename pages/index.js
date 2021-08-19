@@ -72,7 +72,7 @@ return (
 
 {/* -------------------------------------------------------------------- */}
 
-    <div id="roadmap" className="border-t-2 content-center">
+    <div id="roadmap" className="content-center">
       <img id="roadmap-img" className="pb-8 " src="/images/Roadmap.png"/>
       <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
@@ -104,9 +104,9 @@ return (
       </p>
 
       <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
-      <p className="text-2xl text-white my-6">We are in this for the long run!
+      <p className="text-2xl text-white text-center my-6">We are in this for the long run!
       </p>
-      <p className="text-2xl text-white my-6">Why is the drop so soon? Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
+      <p className="text-2xl text-white text-center my-6">Why is the drop so soon? Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
       </p>
 
     </div>
