@@ -75,7 +75,7 @@ return (
       <img id="roadmap-img" className="pb-8 " src="/images/Roadmap.png"/>
       <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
-      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION!</h2>
+      <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
       <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space.  
       </p>
       <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. NO MORE MONEY GRABS! Our goal is to push everyone to do better than before on delivering a good product that has purpose!</p>
