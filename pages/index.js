@@ -193,7 +193,7 @@ return (
 {/* -------------------------------------------------------------------- */}
 
 <div id="Gallery" className="bg-gray-700 shadow-lg p-4">
-    <h2 className="text-7xl text-center my-8 text-gray-200 font-frederick">Art Gallery</h2>
+    <h2 className="text-4xl md:text-7xl text-center my-8 text-gray-200 font-frederick">Art Gallery</h2>
       <div className="grid gap-4 grid-cols-1 md:grid-cols-3 p-2 items-center pb-4">
         <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
         <img className="rounded-md shadow-md" src="/images/gallery/Template.png"></img>
