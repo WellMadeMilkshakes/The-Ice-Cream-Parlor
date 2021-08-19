@@ -60,7 +60,7 @@ return (
                   <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw576/szh243/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="428" height="121"></iframe>
                 </div>
                 <p className="text-2xl text-gray-200 my-6">
-                  <strong>LAUNCH DATE:</strong> Tuesday, 24 August 2021, 6pm EST. <br />‍
+                  <strong>LAUNCH DATE:</strong> Thursday, 26 August 2021, 6pm EST. <br />‍
                   <span className="text-gray-200 text-2xl"><strong>TOTAL SUPPLY:</strong> 8888 Cones.<br/><strong>PRICE:</strong> 0.04 ETH each.</span>
                 </p>
                 {/* <iframe src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-06-29T21:00:00" allowtransparency="true" frameBorder="0" width="425" height="25"></iframe> */}
