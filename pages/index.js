@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default function Home() {
 
 return (
-<div id="body" className="flex flex-col items-center justify-center min-h-screen">
+<div id="body" className="">
   <Head>
     <title>Ice Cream Parlor</title>
     <link rel="icon" href="/images/favicon.jpg" />
@@ -50,9 +50,9 @@ return (
           <div className="w-3/4 text-center items-center justify-center">
             <h1 className="text-5xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
             <h2 className="text-3xl text-gray-200 ">IT'S HAPPENING!!! <br/><span className="">Be the first to mint your cone in ...</span></h2>
-            <div className="pl-2 md:pl-3 lg:pl-20 xl:pl-20">
-
-              <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7xx9koe/n1170/cf12/cm0/cu4/ct0/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs350/szw576/szh243/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="658" height="170"></iframe>
+            <div className="pl-2 md:pl-10 lg:pl-0 xl:pl-20">
+              <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y07dh3/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw320/szh135/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="238" height="68"></iframe>
+              <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7xx9koe/n1170/cf12/cm0/cu4/ct0/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs350/szw576/szh243/iso2021-08-24T18:00:00" allowtransparency="true" frameborder="0" width="658" height="170"></iframe>
             </div>
             <p className="text-2xl text-gray-200 my-6">
               <strong>LAUNCH DATE:</strong> Tuesday, 24 August 2021, 6pm EST. <br />‍
@@ -73,7 +73,7 @@ return (
 {/* -------------------------------------------------------------------- */}
 
     <div id="roadmap" className="content-center">
-      <img id="roadmap-img" className="pb-8 " src="/images/Roadmap.png"/>
+      <img id="roadmap-img" className="pb-8" src="/images/Roadmap.png"/>
       <div class="px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
       <h2 className="text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
