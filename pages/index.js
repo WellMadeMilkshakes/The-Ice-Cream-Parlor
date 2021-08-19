@@ -73,7 +73,8 @@ return (
 {/* -------------------------------------------------------------------- */}
 
     <div id="roadmap" className="content-center">
-      <img id="roadmap-img" className="pb-8" src="/images/Roadmap.png"/>
+      <img id="roadmap-img" className="pb-8 hidden md:block" src="/images/Roadmap.png"/>
+      <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/RoadmapMobile.png"/>
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
       <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
