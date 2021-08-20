@@ -124,7 +124,7 @@ return (
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
         <p className="text-2xl text-white text-center my-6">We are in this for the long run!
         </p>
-        <p className="text-2xl text-white text-center my-6">Why is the drop so soon? Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
+        <p className="text-2xl text-white text-center my-6">Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
         </p>
 
       </div>
