@@ -33,7 +33,7 @@ return (
         {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
         <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
         <a href="#team" className=" text-white hover:text-black m-6">Team</a>
-        <a href="#Gallery" className=" text-white hover:text-black m-6">Gallery</a>
+        <a href="#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
         <a href="https://twitter.com/IceCreamNFT" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
@@ -78,7 +78,7 @@ return (
         
           <div className="flex flex-col items-center font-indie mt-10">
             {/* href="/mint" */}
-            <a href="" className="shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Mint!</a>
+            <a href="" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Mint!</a>
           </div>
       </div>
     </div>
@@ -96,9 +96,9 @@ return (
         <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. NO MORE MONEY GRABS! Our goal is to push everyone to do better than before on delivering a good product that has purpose!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
-        <p className="text-xl text-white text-center my-6 font-indie"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
+        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
         <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
-        <p className="text-xl text-white text-center my-6 font-indie"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
+        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
         <p className="text-2xl text-white text-center my-6">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
@@ -127,7 +127,7 @@ return (
 
       </div>
     </div>
-      
+
 {/* -------------------------------------------------------------------- */}
 
     <div id="team" className="text-white bg-gray-500 shadow-lg p-8">
@@ -144,7 +144,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Jasmine.jpg"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Jasmine.jpg"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-pacifico font-medium">Jasmine</p>
@@ -155,7 +155,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Pirate.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Pirate.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">thepirateking</p>
@@ -166,7 +166,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Hippie.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hippie.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">wellMadeMilkshakes</p>
@@ -178,7 +178,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Mummy.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Mummy.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">TheScoopy1</p>
@@ -193,7 +193,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Abby.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Abby.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">Abby</p>
@@ -204,7 +204,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Hoodie.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hoodie.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">Shaphan</p>
@@ -215,7 +215,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Astronaut.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Astronaut.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">MetaverseMogul</p>
@@ -226,7 +226,7 @@ return (
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
-              <img className="rounded-full shadow-lg" src="/images/profiles/Shark.png"></img>
+              <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Shark.png"></img>
             </div>
             <div className="description col-span-2">
               <p class="text-xl font-medium">Annonymous</p>
