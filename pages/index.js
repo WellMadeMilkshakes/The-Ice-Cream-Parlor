@@ -93,7 +93,8 @@ return (
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
         <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space with all our crazy ideas and your positive vibes! Thanks!  
         </p>
-        <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. Our goal is to push everyone to do better than before on delivering a good product that has purpose! We're making something special! Get ready to stuff the worlds best ice cream cones in your back pocket!</p>
+        <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. Our goal is to push everyone to do better than before on delivering a good product that has purpose! We're making something special!</p>
+        <p className="text-2xl text-white text-center my-6">Get ready to stuff the worlds best ice cream cones in your back pocket!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
