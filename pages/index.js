@@ -55,7 +55,7 @@ return (
             <div className="grid gap-4 sm:grid-cols-0 md:grid-cols-5">
 
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
-                <h2 className="text-3xl text-gray-200 mt-3">IT'S HAPPENING!!! <br/><span className="">Be the first to mint your cone in ...</span></h2>
+                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new stadard of NTFs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party hast started yet!</h2>
                 <div className="pl-auto">
                   <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs200/szw256/szh108/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="152" height="44"></iframe>
                   <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw576/szh243/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="428" height="121"></iframe>
@@ -91,13 +91,13 @@ return (
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
-        <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space.  
+        <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space with all our crazy ideas and your positive vibes! Thanks!  
         </p>
-        <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. NO MORE MONEY GRABS! Our goal is to push everyone to do better than before on delivering a good product that has purpose!</p>
+        <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. Our goal is to push everyone to do better than before on delivering a good product that has purpose! We're making something special! Get ready to stuff the worlds best ice cream cones in your back pocket!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
-        <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
+        <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 sexy variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
         <p className="text-2xl text-white text-center my-6">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
 
@@ -106,8 +106,8 @@ return (
         <p className="text-2xl text-white my-6">Fullfilling our roadmap will allow us to...</p>
         <ul className="">
           <li className="pl-6 text-2xl text-white my-6">1) We will donate to a charity chosen by our community!</li>
-          <li className="pl-6 text-2xl text-white my-6">2) Give x8 ETH giveaways to our amazing community!</li>
-          <li className="pl-6 text-2xl text-white my-6">3) Launch our next project and really start to push the boundaries of NFTs!</li>  
+          <li className="pl-6 text-2xl text-white my-6">2) My beautiful people we have x8 ETH giveaways to give to you our amazing community!</li>
+          <li className="pl-6 text-2xl text-white my-6">3) Launch our next project and really start to push the boundaries of NFTs! We have some <span className="text-3xl underline">CRAZY WACK</span> ideas we can't wait to give you!</li>  
           <li className="pl-6 text-2xl text-white my-6">4) We have set aside 88 NFTs just for you guys! #giveAways</li>  
         </ul>
 
@@ -118,6 +118,7 @@ return (
         <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
         <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
         </p>
+        <p className="text-2xl text-white text-center my-6">This is the new stadard of NTFs! Let'sraise a cone to that!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
         <p className="text-2xl text-white text-center my-6">We are in this for the long run!
@@ -137,7 +138,6 @@ return (
         <div className="">
           <h3 className="text-2xl font-indie">Meet Our Cone Heads!</h3>
           <p className="text-2xl my-4">We've assembled a team of the worlds top performing ice cream scoopers!</p>
-          <p className="text-2xl my-4">We are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
           <p className="text-2xl">Let's not forget why we came togther! #IntoTheUnknown #ConeLife</p>
         </div>
 
