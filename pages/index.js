@@ -55,7 +55,7 @@ return (
             <div className="grid gap-4 sm:grid-cols-0 md:grid-cols-5">
 
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
-                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new stadard of NTFs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
+                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new stadard of NFTs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
                 <div className="pl-auto">
                   <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs200/szw256/szh108/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="152" height="44"></iframe>
                   <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw576/szh243/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="428" height="121"></iframe>
