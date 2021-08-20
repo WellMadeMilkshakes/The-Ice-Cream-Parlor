@@ -189,7 +189,7 @@ return (
 
         </div>
 
-        <div className="">
+        <div className="md:col-span-2 lg:col-span-1">
 
           <div className="grid gap-4 grid-cols-3 p-2 items-center">
             <div className="image">
