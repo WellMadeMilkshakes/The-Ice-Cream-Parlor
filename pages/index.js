@@ -106,7 +106,7 @@ return (
         <p className="text-2xl text-white my-6">Fullfilling our roadmap will allow us to...</p>
         <ul className="">
           <li className="pl-6 text-2xl text-white my-6">1) We will donate to a charity chosen by our community!</li>
-          <li className="pl-6 text-2xl text-white my-6">2) Give 8 ETH giveaways to our amazing community!</li>
+          <li className="pl-6 text-2xl text-white my-6">2) Give x8 ETH giveaways to our amazing community!</li>
           <li className="pl-6 text-2xl text-white my-6">3) Launch our next project and really start to push the boundaries of NFTs!</li>  
           <li className="pl-6 text-2xl text-white my-6">4) We have set aside 88 NFTs just for you guys! #giveAways</li>  
         </ul>
