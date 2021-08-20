@@ -55,7 +55,7 @@ return (
             <div className="grid gap-4 sm:grid-cols-0 md:grid-cols-5">
 
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
-                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new stadard of NTFs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party hast started yet!</h2>
+                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new stadard of NTFs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
                 <div className="pl-auto">
                   <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs200/szw256/szh108/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="152" height="44"></iframe>
                   <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw576/szh243/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="428" height="121"></iframe>
@@ -118,7 +118,7 @@ return (
         <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
         <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that shit! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
         </p>
-        <p className="text-2xl text-white text-center my-6">This is the new stadard of NTFs! Let'sraise a cone to that!</p>
+        <p className="text-2xl text-white text-center my-6">This is the new stadard of NTFs! Let's raise a cone to that!</p>
 
         <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GAURENTEE</h2>
         <p className="text-2xl text-white text-center my-6">We are in this for the long run!
