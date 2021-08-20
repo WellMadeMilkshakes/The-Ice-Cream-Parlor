@@ -107,87 +107,75 @@ export default function Mint() {
 
 
 
-  return (
-    <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
-      <Head>
-        <title>Boring Bananas Company</title>
-        <link rel="icon" href="/images/favicon.jpg" />
+return (
+  <div id="body" className="font-pacifico">
+    <Head>
+      <title>Ice Cream Parlor</title>
+      <link rel="icon" href="/images/favicon.jpg" />
 
-        <meta property="og:title" content="Boring Bananas Co." key="ogtitle" />
-        <meta property="og:description" content="Here at Boring Bananas company, we specialise in the world's finest digital bananas. We've put together a team spanning 3 continents, to bring you some of the most ‍NUTRITIOUS and DELICIOUS
-bananas out known to man." key="ogdesc" />
-        <meta property="og:type" content="website" key="ogtype" />
-        <meta property="og:url" content="https://boringbananas.co/" key="ogurl"/>
-        <meta property="og:image" content="https://boringbananas.co/images/Hola.gif" key="ogimage"/>
-        <meta property="og:site_name" content="https://boringbananas.co/" key="ogsitename" />
+      <meta property="og:title" content="Ice Cream Parlor" key="ogtitle" />
+      <meta property="og:description" content="Welcome to the Ice Cream Parlor" key="ogdesc" />
+      <meta property="og:type" content="website" key="ogtype" />
+      <meta property="og:url" content="https://theicecreamparlor.io/" key="ogurl"/>
+      <meta property="og:image" content="https://theicecreamparlor.io/images/profile/Hippie.png" key="ogimage"/>
+      <meta property="og:site_name" content="https://theicecreamparlor.io/" key="ogsitename" />
 
-        <meta name="twitter:card" content="summary_large_image" key="twcard"/>
-        <meta property="twitter:domain" content="boringbananas.co" key="twdomain" />
-        <meta property="twitter:url" content="https://boringbananas.co/" key="twurl" />
-        <meta name="twitter:title" content="Boring Bananas Co." key="twtitle" />
-        <meta name="twitter:description" content="Here at boring Bananas company, we specialise in the world's finest digital bananas. We've put together a team spanning 3 continents, to bring you some of the most ‍NUTRITIOUS and DELICIOUS
-bananas out known to man." key="twdesc" />
-        <meta name="twitter:image" content="https://boringbananas.co/images/Hola.gif" key="twimage" />
-      </Head>
+      <meta name="twitter:card" content="summary_large_image" key="twcard"/>
+      <meta property="twitter:domain" content="theicecreamparlor.io" key="twdomain" />
+      <meta property="twitter:url" content="https://theicecreamparlor.io/" key="twurl" />
+      <meta name="twitter:title" content="The Ice Cream Parlor" key="twtitle" />
+      <meta name="twitter:description" content="Welcome to the Ice Cream Parlor" key="twdesc" />
+      <meta name="twitter:image" content="https://theicecreamparlor/images/profile/Hippie.png" key="twimage" />
+    </Head>
 
 
-      <div >
-          <div className="flex items-center justify-between w-full border-b-2	pb-6">
-            <a href="/" className=""><img src="images/Hola.gif" width="108" alt="" className="logo-image" /></a>
-            <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
-              <a href="/#about" className="text-4xl text-white hover:text-black m-6">About</a>
-              <a href="/mint" className="text-4xl text-white hover:text-black m-6">Mint!</a>
-              <a href="/#traits" className="text-4xl text-white hover:text-black m-6">Banana traits</a>
-              <a href="/#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
-              <a href="/#team" className="text-4xl text-white hover:text-black m-6">Team</a>
-              <a href="/#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>
-              <a href="https://twitter.com/boringbananasco" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
-              <a href="https://discord.gg/8Wk9Hp6UyV" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
-            </nav>
-             
-          </div>
-          <div className="flex auth my-8 font-bold  justify-center items-center vw2">
-            {!signedIn ? <button onClick={signIn} className="montserrat inline-block border-2 border-black bg-white border-opacity-100 no-underline hover:text-black py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Connect Wallet with Metamask</button>
-            :
-            <button onClick={signOut} className="montserrat inline-block border-2 border-black bg-white border-opacity-100 no-underline hover:text-black py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Wallet Connected: {walletAddress}</button>}
-          </div>
+    <div>
+      <div className="flex items-center justify-between w-full shadow-lg pb-6 font-indie bg-gray-700">
+        <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
+          {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
+          <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+          <a href="#team" className=" text-white hover:text-black m-6">Team</a>
+          <a href="#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
+          <a href="https://twitter.com/IceCreamNFT" className=" hover:text-white m-6 text-blau">twitter</a>
+          <a href="https://discord.com/channels/876818020633313290/876819378623086624" className=" hover:text-white m-6 text-blau">discord</a>
+        </nav>       
+      </div>
+
+      <div className="flex auth my-8 font-bold  justify-center items-center vw2">
+        {!signedIn ? <button onClick={signIn} className="montserrat inline-block border-2 border-black bg-white border-opacity-100 no-underline py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Connect Wallet with Metamask</button>
+        :
+        <button onClick={signOut} className="montserrat inline-block border-2 border-black bg-white border-opacity-100 no-underline py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Wallet Connected: {walletAddress}</button>}
+      </div>
+    </div>
+
+    <div className="md:w-2/3 w-4/5">
+      <div className="mt-6 border-b-2 py-6">
+        <div className="flex flex-col items-center">
+          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED:  <span className="text-blau text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
+          <div id="mint" className="flex justify-around  mt-8 mx-6">
+          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
+          <input 
+            type="number" 
+            min="1"
+            max="20"
+            value={how_many_bananas}
+            onChange={ e => set_how_many_bananas(e.target.value) }
+            name="" 
+            className="Poppitandfinchsans pl-4 text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
+          />
+
+          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold"> ICE CREAM CONES!</span>
         </div>
 
-        <div className="md:w-2/3 w-4/5">
-       
+            {saleStarted ? 
+            <button onClick={() => mintBanana(how_many_bananas)} className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_bananas} bananas for {(bananaPrice * how_many_bananas) / (10 ** 18)} ETH + GAS</button>        
+              : <button className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
         
-          <div className="mt-6 border-b-2 py-6">
-
-            <div className="flex flex-col items-center">
-
-                <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL BANANAS MINTED:  <span className="text-blau text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
-
-                <div id="mint" className="flex justify-around  mt-8 mx-6">
-                  <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
-                  
-                  <input 
-                    type="number" 
-                    min="1"
-                    max="20"
-                    value={how_many_bananas}
-                    onChange={ e => set_how_many_bananas(e.target.value) }
-                    name="" 
-                    className="Poppitandfinchsans pl-4 text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
-                />
-
-                  <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">BANANAS!</span>
-    
-                </div>
-                {saleStarted ? 
-                <button onClick={() => mintBanana(how_many_bananas)} className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_bananas} bananas for {(bananaPrice * how_many_bananas) / (10 ** 18)} ETH + GAS</button>        
-                  : <button className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
-            
-              }
+          }
                 
-            </div> 
-            </div>
- 
-          </div>  
+        </div> 
+      </div>
     </div>  
-    )
-  }
+  </div>  
+  )
+}

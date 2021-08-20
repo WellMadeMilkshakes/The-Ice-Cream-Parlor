@@ -135,8 +135,9 @@ return (
       <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 
         <div className="">
-          <h3 className="text-2xl font-indie">Meet Our Team!</h3>
-          <p className="text-2xl my-4">Welcome! We are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
+          <h3 className="text-2xl font-indie">Meet Our Cone Heads!</h3>
+          <p className="text-2xl my-4">We've assembled a team of the worlds top performing ice cream scoopers!</p>
+          <p className="text-2xl my-4">We are aspiring to create something truly special. We are here to raise the standards of the NFT community.</p>
           <p className="text-2xl">Let's not forget why we came togther! #IntoTheUnknown #ConeLife</p>
         </div>
 
