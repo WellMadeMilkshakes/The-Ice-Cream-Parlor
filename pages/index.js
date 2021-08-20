@@ -85,7 +85,7 @@ return (
 
 {/* -------------------------------------------------------------------- */}
 
-    <div id="roadmap" className="content-center my-12">
+    <div id="roadmap" className="content-center">
       <img id="roadmap-img" className="pb-8 hidden md:block" src="/images/RoadmapNew.png"/>
       <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/RoadmapMobileNew.png"/>
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
