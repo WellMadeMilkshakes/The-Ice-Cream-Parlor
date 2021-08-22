@@ -90,19 +90,30 @@ return (
       <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/RoadmapMobileNew.png"/>
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
-        <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
         <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space with all our crazy ideas and your positive vibes! Thanks!  
         </p>
         <p className="text-2xl text-white text-center my-6">No more cheap projects that were done in a week, no more rug pulls where a product is promised and poorly delivered. Our goal is to push everyone to do better than before on delivering a good product that has purpose! We're making something special!</p>
         <p className="text-2xl text-white text-center my-6">Get ready to stuff the worlds best ice cream cones in your back pocket!</p>
 
-        <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">THE DIFFERENCE</h2>
+        
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">O</span>VER <span className="text-3xl text-blau"> ONE MILLION </span> COMBINATIONS<span className="text-3xl">!</span></p>
-        <p className="text-2xl text-white text-center my-6">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 sexy variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
-        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
-        <p className="text-2xl text-white text-center my-6">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
+          <div className="md:hidden block"></div>
+          <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/PirateGIF.gif"></img>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 sexy variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
+        </div>
 
-        <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
+        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
+          <div className="md:hidden block"></div>
+          <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
+        </div>
+        
+
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
 
         <p className="text-2xl text-white my-6">Fullfilling our roadmap will allow us to...</p>
         <ul className="">
@@ -115,13 +126,13 @@ return (
         <p className="text-2xl text-white my-6"> In addition, we have been, and continue to make <span className="font-bold underline"> high quality content for the NFT community!</span>
         </p>
 
-        <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4 mt-10">WHY BACK US?</h2>
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4 mt-10">WHY BACK US?</h2>
         <p className="text-2xl text-white text-center my-6">NO MORE UGLY ART!</p>
         <p className="text-2xl text-white text-center my-6"> After entering the NFT space we came to a conclusion. There are simply too many lazy projects! Not to mention, the art just looks too… random! We are sick and tired of clashing triple cheetah print robots… no artist would make that! The art is good but the individual items clash! We want all our cone holders to have a picture worthy of your profile! Thats the #coneStandard! We decided to make art that is intelligently designed. Art that is still randomized but will look good no matter how you put it! With this vision we are looking to raise the bar in the NFT space FOREVER!
         </p>
         <p className="text-2xl text-white text-center my-6">This is the new standard of NTFs! Let's raise a cone to that!</p>
 
-        <h2 className="text-3xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GUARENTEE</h2>
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GUARENTEE</h2>
         <p className="text-2xl text-white text-center my-6">We are in this for the long run!
         </p>
         <p className="text-2xl text-white text-center my-6">Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
@@ -245,13 +256,13 @@ return (
 
 <div id="Gallery" className="bg-gray-700 shadow-lg p-4">
     <h2 className="text-4xl md:text-7xl text-center my-8 text-gray-200 font-frederick">Art Gallery</h2>
-      <div className="grid gap-4 grid-cols-1 md:grid-cols-3 p-2 items-center pb-4">
-        <img className="rounded-md shadow-md" src="/images/gallery/Underwater-Scene-.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Sunflowers.png"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Locked.jpg"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Locked.jpg"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Locked.jpg"></img>
-        <img className="rounded-md shadow-md" src="/images/gallery/Locked.jpg"></img>
+      <div className="grid gap-4 grid-cols-1 md:grid-cols-4 lg:grid-cols-6 p-2 items-center pb-4">
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Underwater-Scene-.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Sunflowers.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Wedding_Scene.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
       </div>
     </div>
 {/* -------------------------------------------------------------------- */}
