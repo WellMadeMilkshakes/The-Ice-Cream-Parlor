@@ -68,7 +68,7 @@ return (
               </div> 
 
               <div className="col-span-1 md:col-span-2">
-                <img className="rounded-xl shadow-2xl" src="/images/NewGIF.gif"></img>
+                <img className="rounded-xl shadow-2xl" src="/images/FastGIF.gif"></img>
               </div>
 
             </div>
