@@ -78,7 +78,7 @@ return (
         
           <div className="flex flex-col items-center font-indie mt-10">
             {/* href="/mint" */}
-            <a href="" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Mint!</a>
+            <a href="https://discord.com/channels/876818020633313290/876819378623086624" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Come Visit Discord!</a>
           </div>
       </div>
     </div>
@@ -266,6 +266,11 @@ return (
       </div>
     </div>
 {/* -------------------------------------------------------------------- */}
+
+          <div className="flex flex-col items-center font-indie shadow-lg py-10 bg-gray-700">
+            {/* href="/mint" */}
+            <a href="https://discord.com/channels/876818020633313290/876819378623086624" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-gray-500 rounded-lg text-white hover:text-black py-2 px-6 ">See More On Discord!</a>
+          </div>
 
           <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
             <div className="flex flex-col justify-between py-6 ">
