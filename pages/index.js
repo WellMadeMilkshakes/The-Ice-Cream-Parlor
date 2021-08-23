@@ -260,8 +260,8 @@ return (
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Underwater-Scene-.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Sunflowers.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Wedding_Scene.png"></img>
-        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
-        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Women_Scene.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/IceCreamTruck.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
       </div>
     </div>
