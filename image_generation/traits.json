@@ -1,0 +1,122 @@
+[
+    {
+        "Background": "Background_03",
+        "Flavor": "Chocolate",
+        "Cone": "Waffle_Matcha",
+        "tokenId": 0
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Strawberry",
+        "Cone": "Regular Chocolate",
+        "tokenId": 1
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "French_Vanilla",
+        "Cone": "Regular_Plain",
+        "tokenId": 2
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Chocolate",
+        "Cone": "Tub_Dark",
+        "tokenId": 3
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "Strawberry",
+        "Cone": "Regular Chocolate",
+        "tokenId": 4
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Chocolate",
+        "Cone": "Regular_Plain",
+        "tokenId": 5
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "French_Vanilla",
+        "Cone": "Tub_Dark",
+        "tokenId": 6
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "Chocolate",
+        "Cone": "Regular Chocolate",
+        "tokenId": 7
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "Chocolate",
+        "Cone": "Regular_Plain",
+        "tokenId": 8
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Rainbow",
+        "Cone": "Tub_Dark",
+        "tokenId": 9
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Chocolate",
+        "Cone": "Regular Chocolate",
+        "tokenId": 10
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "Chocolate",
+        "Cone": "Tub_Dark",
+        "tokenId": 11
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Strawberry",
+        "Cone": "Tub_Dark",
+        "tokenId": 12
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Strawberry",
+        "Cone": "Regular_Plain",
+        "tokenId": 13
+    },
+    {
+        "Background": "Background_01",
+        "Flavor": "Rainbow",
+        "Cone": "Regular Chocolate",
+        "tokenId": 14
+    },
+    {
+        "Background": "Background_07",
+        "Flavor": "Chocolate",
+        "Cone": "Regular Chocolate",
+        "tokenId": 15
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "Strawberry",
+        "Cone": "Tub_Dark",
+        "tokenId": 16
+    },
+    {
+        "Background": "Background_07",
+        "Flavor": "Strawberry",
+        "Cone": "Regular_Plain",
+        "tokenId": 17
+    },
+    {
+        "Background": "Background_03",
+        "Flavor": "French_Vanilla",
+        "Cone": "Tub_Dark",
+        "tokenId": 18
+    },
+    {
+        "Background": "Background_07",
+        "Flavor": "Rainbow",
+        "Cone": "Waffle_Matcha",
+        "tokenId": 19
+    }
+]
