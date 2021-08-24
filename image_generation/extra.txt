@@ -1,0 +1,89 @@
+angelfiles = {
+    "Light_Robes": "Light_Robes.png",
+    "Dark_Robes": "Dark_Robes.png",
+    "Light_Wings": "Light_Wings.png",
+    "Dark_Wings": "Dark_Wings.png",
+}
+
+astronautfiles = {
+    "White_Suit": "White_Suit.png",
+    "Black_Suit": "Black_Suit.png",
+    "White_Glass": "White_Glass.png",
+    "Black_Glass": "Black_Glass.png",
+}
+
+beefiles = {
+    "White_Wings": "White_Wings.png",
+    "Blue_Wings": "Blue_Wings.png",
+    "Thick_Black": "Thick_Black.png",
+    "Thick_Yellow": "Thick_Yellow.png",
+    "Black_Hair": "Black_Hair.png",
+    "Anteni": "Anteni.png",
+}
+
+catfiles = {
+    "Black_Cat": "Black_Cat.png",
+    "Orange_Cat": "Orange_Cat.png",
+    "Cat_Nose": "Cat_Nose.png",
+}
+
+clownflies = {
+    "Clown_Makeup": "Clown_Makeup.png",
+    "Scary": "Scary.png",
+    "Blue": "Blue.png",
+    "Purple": "Purple.png",
+    "Round": "Round.png",
+    "Long": "Long.png",
+    "Orange_Parted": "Orange_Parted.png",
+    "Rainbow_Fro": "Rainbow_Fro.png",
+    "Red_Parted": "Red_Parted.png",
+    "Big_Purple": "Big_Purple.png",
+    "Big_Blue": "Big_Blue.png",
+    "Mini_Pink": "Mini_Pink.png",
+    "Mini_Purple": "Mini_Purple.png",
+    "Red_Balloon": "Red_Balloon.png",
+    "Green_Balloon": "Green_Balloon.png",
+    "Blue_Balloon": "Blue_Balloon.png",
+    "Yellow_Balloon": "Yellow_Balloon.png",
+}
+
+diverfiles = {
+    "Green": "Green.png",
+    "Orange": "Orange.png",
+    "Purple": "Purple.png",
+    "Blue": "Blue.png",
+    "Blue_Suit": "Blue_Suit.png",
+    "Blue_Suit_Zip": "Blue_Suit_Zip.png",
+    "Grey_Suit": "Grey_Suit.png",
+    "Grey_Suit_Zip": "Grey_Suit_Zip.png",
+}
+
+dogfiles = {
+    "Brown": "Brown.png",
+    "Grey": "Grey.png",
+    "Tongue": "Tongue.png",
+}
+
+dolphinfiles = {
+    "Pink": "Pink.png",
+    "Blue": "Blue.png",
+}
+
+fishbowlfiles = {
+    "White_Bowl": "White_Bowl.png",
+    "Goldfish": "Goldfish.png",
+    "Zebrafish": "Zebrafish.png",
+    "Starfish": "Starfish.png",
+    "Seaweed": "Seaweed.png",
+}
+
+goddessfiles = {
+    "Gold_Robes": "Gold_Robes.png",
+    "Silver_Robes": "Silver_Robes.png",
+    "Blond_Hair": "Blond_Hair.png",
+    "Brown_Hair": "Brown_Hair.png",
+    "Gold_Tiara": "Gold_Tiara.png",
+    "Silver_Tiara": "Silver_Tiara.png",
+    "Gold_Scepter": "Gold_Scepter.png",
+    "Silver_Scepter": "Silver_Scepter.png",
+}

@@ -1,521 +1,601 @@
 [
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Strawberry",
+        "Background": "Background_05",
+        "Cone": "Tub_White",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 1
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Vanilla",
+        "Background": "Background_01",
+        "Cone": "Tub_White",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "None"
         ],
         "tokenId": 2
     },
     {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
+        "Style": "Double",
+        "Background": "Background_10",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 3
     },
     {
         "Style": "Single",
         "Background": "Background_04",
-        "Cone": "Waffle_Plain",
-        "Flavor": "French_Vanilla",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 4
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
+        "Background": "Background_10",
         "Cone": "Tub_White",
-        "Flavor": "Neapolitan",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 5
     },
     {
         "Style": "Single",
         "Background": "Background_06",
-        "Cone": "Tub_White",
-        "Flavor": "Cotton_Candy",
+        "Cone": "Regular_Plain",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "None"
         ],
         "tokenId": 6
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
+        "Background": "Background_04",
         "Cone": "Regular_Matcha",
-        "Flavor": "Cotton_Candy",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 7
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Neapolitan",
+        "Background": "Background_02",
+        "Cone": "Regular_Plain",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "None"
         ],
         "tokenId": 8
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Plain",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_07",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 9
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Plain",
-        "Flavor": "Vanilla",
+        "Background": "Background_06",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 10
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Tub_Dark",
-        "Flavor": "Chocolate",
+        "Background": "Background_01",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "None"
         ],
         "tokenId": 11
     },
     {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Tiger",
+        "Style": "Double",
+        "Background": "Background_04",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 12
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
+        "Background": "Background_06",
         "Cone": "Tub_Grey",
-        "Flavor": "Lavender",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 13
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Strawberry",
+        "Background": "Background_09",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Tiger",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 14
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_01",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "None"
         ],
         "tokenId": 15
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Tub_White",
-        "Flavor": "Rainbow",
+        "Background": "Background_06",
+        "Cone": "Tub_Dark",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "None"
         ],
         "tokenId": 16
     },
     {
         "Style": "Single",
         "Background": "Background_09",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Chocolate",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 17
     },
     {
         "Style": "Single",
         "Background": "Background_07",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Rainbow",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Tiger",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 18
     },
     {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Plain",
-        "Flavor": "Cotton_Candy",
+        "Style": "Double",
+        "Background": "Background_10",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 19
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
+        "Background": "Background_02",
         "Cone": "Regular_Chocolate",
-        "Flavor": "Chocolate",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 20
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Rainbow",
+        "Background": "Background_10",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "None"
         ],
         "tokenId": 21
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_04",
+        "Cone": "Tub_Dark",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "None"
         ],
         "tokenId": 22
     },
     {
-        "Style": "Double",
-        "Background": "Background_09",
+        "Style": "Single",
+        "Background": "Background_08",
         "Cone": "Waffle_Strawberry",
-        "Flavor": "Mint",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 23
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_White",
-        "Flavor": "Strawberry",
+        "Background": "Background_08",
+        "Cone": "Tub_Grey",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "None"
         ],
         "tokenId": 24
     },
     {
         "Style": "Single",
         "Background": "Background_09",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Chocolate",
+        "Cone": "Tub_White",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 25
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
+        "Background": "Background_10",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 26
     },
     {
-        "Style": "Double",
+        "Style": "Single",
         "Background": "Background_03",
-        "Cone": "Tub_Dark",
-        "Flavor": "Neapolitan",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "None"
         ],
         "tokenId": 27
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Strawberry",
+        "Background": "Background_10",
+        "Cone": "Tub_White",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 28
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Dark",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
         "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 29
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Plain",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_05",
+        "Cone": "Tub_White",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 30
     },
     {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Cotton_Candy",
+        "Style": "Double",
+        "Background": "Background_02",
+        "Cone": "Tub_Dark",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 31
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Vanilla",
+        "Background": "Background_01",
+        "Cone": "Regular_Plain",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 32
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Tub_White",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_05",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 33
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Chocolate",
+        "Background": "Background_02",
+        "Cone": "Regular_Strawberry",
         "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 34
     },
     {
         "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Lavender",
+        "Background": "Background_05",
+        "Cone": "Tub_White",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 35
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Tub_Grey",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_02",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 36
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Chocolate",
+        "Background": "Background_04",
+        "Cone": "Regular_Plain",
         "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 37
     },
     {
         "Style": "Single",
-        "Background": "Background_04",
+        "Background": "Background_10",
         "Cone": "Regular_Chocolate",
-        "Flavor": "Tiger",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Silver_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 38
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Neapolitan",
+        "Background": "Background_02",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Silver_Tiara",
+            "Silver_Scepter"
         ],
         "tokenId": 39
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
+        "Background": "Background_02",
         "Cone": "Waffle_Chocolate",
         "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter"
         ],
         "tokenId": 40
     }
