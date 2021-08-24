@@ -1,462 +1,552 @@
 [
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Strawberry",
+        "Background": "Background_10",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Pirate",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Mini_Purple",
-            "Blue_Balloon"
+            "Right_Eyepatch",
+            "Hook_Left",
+            "Hook_Right",
+            "French",
+            "Red_Bandana",
+            "None",
+            "Eyes_Cute"
         ],
         "tokenId": 1
     },
     {
         "Style": "Single",
         "Background": "Background_07",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Vanilla",
+        "Cone": "Tub_Grey",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Astronaut",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Yellow_Balloon"
+            "White_Suit",
+            "White_Glass",
+            "Eyes_Sus"
         ],
         "tokenId": 2
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
+        "Background": "Background_06",
         "Cone": "Tub_Grey",
-        "Flavor": "Cotton_Candy",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Big_Purple",
-            "Red_Balloon"
+            "Caramel_Pour",
+            "Eyes_High"
         ],
         "tokenId": 3
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Tub_White",
-        "Flavor": "Vanilla",
+        "Background": "Background_09",
+        "Cone": "Tub_Grey",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Blue",
-            "Yellow_Balloon"
+            "Chocolate",
+            "Eyes_Normal"
         ],
         "tokenId": 4
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Dark",
-        "Flavor": "Lavender",
+        "Background": "Background_10",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "Big_Blue",
-            "Blue_Balloon"
+            "Sprinkles_Tons",
+            "Eyes_Normal"
         ],
         "tokenId": 5
     },
     {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Chocolate",
+        "Style": "Double",
+        "Background": "Background_04",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "None",
-            "Green_Balloon"
+            "Gold_Robes",
+            "Blonde_Hair",
+            "Silver_Tiara",
+            "Gold_Scepter",
+            "Eyes_Normal"
         ],
         "tokenId": 6
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Vanilla",
+        "Background": "Background_02",
+        "Cone": "Tub_White",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Angel",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "None",
-            "Red_Balloon"
+            "Dark_Wings",
+            "Light_Robes",
+            "Eyes_High"
         ],
         "tokenId": 7
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Strawberry",
+        "Background": "Background_05",
+        "Cone": "Tub_Dark",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Goddess",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "None"
+            "Gold_Robes",
+            "Brown_Hair",
+            "Gold_Tiara",
+            "Gold_Scepter",
+            "Eyes_Normal"
         ],
         "tokenId": 8
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Tiger",
+        "Background": "Background_03",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Green_Balloon"
+            "Black",
+            "Eyes_High"
         ],
         "tokenId": 9
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Plain",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_08",
+        "Cone": "Tub_Grey",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Hoodie",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Big_Blue",
-            "Blue_Balloon"
+            "Red_Hoodie",
+            "White",
+            "Red",
+            "None",
+            "Eyes_Sus"
         ],
         "tokenId": 10
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_White",
-        "Flavor": "Vanilla",
+        "Background": "Background_04",
+        "Cone": "Tub_Grey",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Big_Purple",
-            "None"
+            "Blue_Robes",
+            "Grey_Staff",
+            "Eyes_Normal"
         ],
         "tokenId": 11
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_09",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "Big_Purple",
-            "Green_Balloon"
+            "Chocolate_Pour",
+            "Eyes_Cute"
         ],
         "tokenId": 12
     },
     {
         "Style": "Single",
         "Background": "Background_01",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Strawberry",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "Big_Purple",
-            "Blue_Balloon"
+            "Cherry",
+            "Eyes_Normal"
         ],
         "tokenId": 13
     },
     {
         "Style": "Single",
         "Background": "Background_03",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Chocolate",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Bee",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "None",
-            "Red_Balloon"
+            "White_Wings",
+            "Thick_Black",
+            "Anteni",
+            "Eyes_Normal"
         ],
         "tokenId": 14
     },
     {
-        "Style": "Single",
-        "Background": "Background_05",
+        "Style": "Double",
+        "Background": "Background_07",
         "Cone": "Tub_Grey",
         "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Princess",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Blue",
-            "Yellow_Balloon"
+            "Pink_Dress",
+            "Blonde_Hair",
+            "None",
+            "Eyes_Red"
         ],
         "tokenId": 15
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_09",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "None",
-            "Yellow_Balloon"
+            "Caramel_Pour",
+            "Eyes_Sus"
         ],
         "tokenId": 16
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_Dark",
-        "Flavor": "Vanilla",
+        "Background": "Background_02",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Cat",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "None",
-            "Blue_Balloon"
+            "Orange_Cat",
+            "Cat_Nose",
+            "Eyes_Normal"
         ],
         "tokenId": 17
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
+        "Background": "Background_04",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Dog",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Mini_Purple",
-            "Red_Balloon"
+            "Grey",
+            "Tongue",
+            "Eyes_Normal"
         ],
         "tokenId": 18
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Plain",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_04",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Rambo",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "None"
+            "Red_Bandana",
+            "Black_Vest",
+            "Red",
+            "Shotgun",
+            "Eyes_Normal"
         ],
         "tokenId": 19
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Strawberry",
+        "Background": "Background_01",
+        "Cone": "Regular_Matcha",
         "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Dog",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Mini_Pink",
-            "Green_Balloon"
+            "Brown",
+            "Tongue",
+            "Eyes_High"
         ],
         "tokenId": 20
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
+        "Background": "Background_08",
         "Cone": "Regular_Strawberry",
-        "Flavor": "French_Vanilla",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Hippie",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Mini_Purple",
-            "None"
+            "Grey",
+            "Blue_Accs",
+            "Hand",
+            "Eyes_Normal"
         ],
         "tokenId": 21
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Tub_Dark",
-        "Flavor": "Rainbow",
+        "Background": "Background_06",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Green_Balloon"
+            "Blue",
+            "Eyes_Lashes"
         ],
         "tokenId": 22
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Tiger",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Red_Parted",
-            "Mini_Pink",
-            "Blue_Balloon"
-        ],
-        "tokenId": 23
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Chocolate",
+        "Background": "Background_10",
+        "Cone": "Waffle_Plain",
         "Flavor": "Vanilla",
         "Eye": "Normal",
         "Costume": "Clown",
         "CostumeVariation": [
             "Clown_Makeup",
             "Blue",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Blue_Balloon"
+            "Long",
+            "Red_Parted",
+            "Big_Blue",
+            "Green_Balloon",
+            "Eyes_Normal"
+        ],
+        "tokenId": 23
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Caramel_Pour",
+            "Eyes_High"
         ],
         "tokenId": 24
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Tub_Grey",
-        "Flavor": "Neapolitan",
+        "Background": "Background_04",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "Blue_Balloon"
+            "Strawberry",
+            "Eyes_Normal"
         ],
         "tokenId": 25
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Lavender",
+        "Background": "Background_03",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Mummy",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Mini_Pink",
-            "None"
+            "Eyes_Normal",
+            "Toilet_Paper",
+            "Eyes_Sus"
         ],
         "tokenId": 26
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Mint",
+        "Background": "Background_10",
+        "Cone": "Tub_Grey",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Hippie",
+        "CostumeVariation": [
+            "Grey_Beard",
+            "Blue_Accs",
+            "Mouth",
+            "Eyes_Sus"
+        ],
+        "tokenId": 27
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Plain",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Knight",
+        "CostumeVariation": [
+            "Dark_Shield",
+            "None",
+            "Eyes_Red"
+        ],
+        "tokenId": 28
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Tub_White",
+        "Flavor": "Rainbow",
+        "Eye": "Normal",
+        "Costume": "Astronaut",
+        "CostumeVariation": [
+            "Black_Suit",
+            "Black_Glass",
+            "Eyes_High"
+        ],
+        "tokenId": 29
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Hippie",
+        "CostumeVariation": [
+            "Blonde",
+            "Green_Accs",
+            "Hand",
+            "Eyes_Normal"
+        ],
+        "tokenId": 30
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose",
+            "Eyes_Normal"
+        ],
+        "tokenId": 31
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Tub_White",
+        "Flavor": "Tiger",
+        "Eye": "Normal",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Red",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Purple",
+            "Teeth_2",
+            "Eyes_Normal"
+        ],
+        "tokenId": 32
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Regular_Plain",
+        "Flavor": "Vanilla",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Cookie",
+            "Eyes_Normal"
+        ],
+        "tokenId": 33
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Rainbow",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Twist2",
+            "Eyes_Normal"
+        ],
+        "tokenId": 34
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Strawberry",
+            "Eyes_High"
+        ],
+        "tokenId": 35
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Tub_Grey",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Mermaid",
+        "CostumeVariation": [
+            "Blonde_Hair",
+            "Purple_Shells",
+            "Orange_Flower",
+            "Eyes_High"
+        ],
+        "tokenId": 36
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Mermaid",
+        "CostumeVariation": [
+            "Pink_Hair",
+            "Purple_Shells",
+            "Orange_Flower",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 37
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
         "Costume": "Clown",
         "CostumeVariation": [
             "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Blue_Balloon"
+            "Blue",
+            "Long",
+            "Orange_Parted",
+            "None",
+            "Green_Balloon",
+            "Eyes_Normal"
         ],
-        "tokenId": 27
+        "tokenId": 38
     },
     {
         "Style": "Single",
@@ -464,507 +554,263 @@
         "Cone": "Waffle_Plain",
         "Flavor": "Rainbow",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Pirate",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Orange_Parted",
-            "Big_Blue",
-            "Green_Balloon"
-        ],
-        "tokenId": 28
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Mini_Pink",
-            "Green_Balloon"
-        ],
-        "tokenId": 29
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Green_Balloon"
-        ],
-        "tokenId": 30
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Mini_Purple",
-            "Blue_Balloon"
-        ],
-        "tokenId": 31
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Tiger",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Red_Parted",
-            "Big_Purple",
-            "Yellow_Balloon"
-        ],
-        "tokenId": 32
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_04",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Red_Balloon"
-        ],
-        "tokenId": 33
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
+            "Right_Eyepatch",
+            "Sword_Left",
             "None",
-            "None"
-        ],
-        "tokenId": 34
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "Green_Balloon"
-        ],
-        "tokenId": 35
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Orange_Parted",
-            "Mini_Pink",
-            "Yellow_Balloon"
-        ],
-        "tokenId": 36
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Grey",
-        "Flavor": "Tiger",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Red_Parted",
-            "Big_Purple",
-            "Green_Balloon"
-        ],
-        "tokenId": 37
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Red_Parted",
-            "Big_Blue",
-            "Red_Balloon"
-        ],
-        "tokenId": 38
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Red_Balloon"
+            "Shifu",
+            "Red_Bandana",
+            "None",
+            "Eyes_Red"
         ],
         "tokenId": 39
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_White",
-        "Flavor": "Strawberry",
+        "Background": "Background_09",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Big_Purple",
-            "Green_Balloon"
+            "Chocolate_Pour",
+            "Eyes_Normal"
         ],
         "tokenId": 40
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Tub_White",
-        "Flavor": "Vanilla",
+        "Background": "Background_06",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Dolphin",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Green_Balloon"
+            "Pink",
+            "Eyes_Cute"
         ],
         "tokenId": 41
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Rambo",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "Yellow_Balloon"
+            "Green_Bandana",
+            "Blue_Vest",
+            "Red",
+            "Shotgun",
+            "Eyes_Cute"
         ],
         "tokenId": 42
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Plain",
-        "Flavor": "Tiger",
+        "Background": "Background_06",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Bee",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Orange_Parted",
-            "Big_Blue",
-            "Red_Balloon"
+            "White_Wings",
+            "Thick_Black",
+            "Black_Hair",
+            "Eyes_High"
         ],
         "tokenId": 43
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
+        "Background": "Background_08",
         "Cone": "Waffle_Chocolate",
-        "Flavor": "Chocolate",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Dog",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "Green_Balloon"
+            "Brown",
+            "None",
+            "Eyes_Normal"
         ],
         "tokenId": 44
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
+        "Background": "Background_07",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "Mini_Pink",
-            "Yellow_Balloon"
+            "Chocolate",
+            "Eyes_Normal"
         ],
         "tokenId": 45
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Neapolitan",
+        "Background": "Background_01",
+        "Cone": "Tub_Dark",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Astronaut",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Orange_Parted",
-            "Big_Purple",
-            "Green_Balloon"
+            "Black_Suit",
+            "Black_Glass",
+            "Eyes_Normal"
         ],
         "tokenId": 46
     },
     {
-        "Style": "Double",
-        "Background": "Background_05",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Mint",
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Plain",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Red_Parted",
-            "Mini_Purple",
-            "Yellow_Balloon"
+            "Cream",
+            "Eyes_Normal"
         ],
         "tokenId": 47
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Chocolate",
+        "Background": "Background_04",
+        "Cone": "Regular_Plain",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "None"
+            "Caramel",
+            "Eyes_High"
         ],
         "tokenId": 48
     },
     {
-        "Style": "Double",
-        "Background": "Background_03",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Dolphin",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Orange_Parted",
-            "Big_Purple",
-            "Yellow_Balloon"
+            "Blue",
+            "Eyes_High"
         ],
         "tokenId": 49
     },
     {
-        "Style": "Single",
+        "Style": "Double",
         "Background": "Background_02",
         "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Knight",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Mini_Purple",
-            "Yellow_Balloon"
+            "Blue_Shield",
+            "None",
+            "Eyes_Normal"
         ],
         "tokenId": 50
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Vanilla",
+        "Background": "Background_02",
+        "Cone": "Tub_White",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "None"
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Normal"
         ],
         "tokenId": 51
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Matcha",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_04",
+        "Cone": "Tub_White",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "None",
-            "Red_Balloon"
+            "Caramel",
+            "Eyes_Sus"
         ],
         "tokenId": 52
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Chocolate",
+        "Background": "Background_03",
+        "Cone": "Regular_Matcha",
+        "Flavor": "French_Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Red_Parted",
-            "Mini_Purple",
-            "Red_Balloon"
+            "Cape_Red",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Grey",
+            "Teeth_1",
+            "Eyes_Normal"
         ],
         "tokenId": 53
     },
     {
-        "Style": "Double",
-        "Background": "Background_06",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Red_Parted",
-            "Mini_Purple",
-            "Yellow_Balloon"
+            "Blue",
+            "Eyes_Normal"
         ],
         "tokenId": 54
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Dark",
-        "Flavor": "Mint",
+        "Background": "Background_10",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Cat",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Big_Blue",
-            "Red_Balloon"
+            "Black_Cat",
+            "Cat_Nose",
+            "Eyes_Normal"
         ],
         "tokenId": 55
     },
     {
         "Style": "Single",
         "Background": "Background_09",
-        "Cone": "Regular_Matcha",
-        "Flavor": "French_Vanilla",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Orange_Parted",
-            "None",
-            "Red_Balloon"
+            "Strawberry_Pour",
+            "Eyes_Lashes"
         ],
         "tokenId": 56
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Chocolate",
+        "Background": "Background_07",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Red_Balloon"
+            "Caramel_Pour",
+            "Eyes_Cute"
         ],
         "tokenId": 57
     },
@@ -972,307 +818,414 @@
         "Style": "Single",
         "Background": "Background_07",
         "Cone": "Regular_Plain",
-        "Flavor": "French_Vanilla",
+        "Flavor": "Tiger",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "None",
-            "Red_Balloon"
+            "Shrimp",
+            "Eyes_Red"
         ],
         "tokenId": 58
     },
     {
         "Style": "Single",
         "Background": "Background_02",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Strawberry",
+        "Cone": "Regular_Plain",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Pirate",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Big_Blue",
-            "None"
+            "Left_Eyepatch",
+            "Hook_Left",
+            "None",
+            "Mario",
+            "Blue_Bandana",
+            "None",
+            "Eyes_Cute"
         ],
         "tokenId": 59
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_White",
-        "Flavor": "Tiger",
+        "Background": "Background_05",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "None",
-            "Yellow_Balloon"
+            "Sprinkles_Tons",
+            "Eyes_Sus"
         ],
         "tokenId": 60
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Vanilla",
+        "Background": "Background_04",
+        "Cone": "Tub_Grey",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Blue_Balloon"
+            "Salmon",
+            "Eyes_Red"
         ],
         "tokenId": 61
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Cotton_Candy",
+        "Background": "Background_06",
+        "Cone": "Regular_Plain",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Bee",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Green_Balloon"
+            "White_Wings",
+            "Thick_Yellow",
+            "Black_Hair",
+            "Eyes_Normal"
         ],
         "tokenId": 62
     },
     {
-        "Style": "Double",
-        "Background": "Background_02",
-        "Cone": "Regular_Strawberry",
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Tub_Grey",
         "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Hippie",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Red_Balloon"
+            "Blonde_Beard",
+            "Blue_Accs",
+            "Mouth",
+            "Eyes_Normal"
         ],
         "tokenId": 63
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Chocolate",
+        "Background": "Background_04",
+        "Cone": "Tub_Dark",
+        "Flavor": "Mint",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Angel",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Big_Purple",
-            "Blue_Balloon"
+            "Dark_Wings",
+            "Light_Robes",
+            "Eyes_Normal"
         ],
         "tokenId": 64
     },
     {
         "Style": "Single",
         "Background": "Background_06",
-        "Cone": "Regular_Plain",
+        "Cone": "Waffle_Strawberry",
         "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Hippie",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
+            "Grey",
+            "Green_Accs",
             "None",
-            "Red_Balloon"
+            "Eyes_Normal"
         ],
         "tokenId": 65
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Neapolitan",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Hoodie",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "None"
+            "Red_Hoodie",
+            "None",
+            "Red",
+            "Cap_Backwards",
+            "Eyes_Normal"
         ],
         "tokenId": 66
     },
     {
-        "Style": "Double",
-        "Background": "Background_04",
+        "Style": "Single",
+        "Background": "Background_08",
         "Cone": "Waffle_Chocolate",
         "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Knight",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Blue_Balloon"
+            "Dark_Shield",
+            "None",
+            "Eyes_High"
         ],
         "tokenId": 67
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Mint",
+        "Background": "Background_02",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Fairy",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "None",
-            "Yellow_Balloon"
+            "Purple_Crown",
+            "Green_Wings",
+            "Eyes_Cute"
         ],
         "tokenId": 68
     },
     {
         "Style": "Single",
         "Background": "Background_02",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Neapolitan",
+        "Cone": "Tub_Dark",
+        "Flavor": "Lavender",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Cat",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Green_Balloon"
+            "Orange_Cat",
+            "Cat_Nose",
+            "Eyes_Cute"
         ],
         "tokenId": 69
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Tub_Dark",
-        "Flavor": "Chocolate",
+        "Background": "Background_08",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Neapolitan",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Mermaid",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Big_Purple",
-            "Yellow_Balloon"
+            "Pink_Hair",
+            "Purple_Shells",
+            "Blue_Flower",
+            "Eyes_Cute"
         ],
         "tokenId": 70
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Strawberry",
+        "Background": "Background_01",
+        "Cone": "Regular_Plain",
         "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Mummy",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Red_Parted",
-            "Mini_Purple",
-            "Yellow_Balloon"
+            "Eyes_Normal",
+            "Toilet_Paper",
+            "Eyes_Sus"
         ],
         "tokenId": 71
     },
     {
-        "Style": "Double",
-        "Background": "Background_10",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Lavender",
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Red_Balloon"
+            "Strawberry",
+            "Eyes_Lashes"
         ],
         "tokenId": 72
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Mint",
+        "Background": "Background_07",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Diver",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Red_Balloon"
+            "Green",
+            "Grey_Suit",
+            "Eyes_Normal"
         ],
         "tokenId": 73
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "French_Vanilla",
+        "Background": "Background_04",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Strawberry",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Green_Balloon"
+            "Cape_Purple",
+            "Ears_Grey",
+            "Hair_Black",
+            "Necklace_Purple",
+            "Teeth_4",
+            "Eyes_Sus"
         ],
         "tokenId": 74
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Tub_Grey",
-        "Flavor": "Lavender",
+        "Background": "Background_10",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Cotton_Candy",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Fairy",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Green_Balloon"
+            "Blue_Crown",
+            "Green_Wings",
+            "Eyes_Normal"
         ],
         "tokenId": 75
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_07",
+        "Cone": "Tub_Grey",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Mango",
+            "Eyes_Normal"
+        ],
+        "tokenId": 76
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Fishbowl",
+        "CostumeVariation": [
+            "White_Bowl",
+            "Goldfish",
+            "Zebrafish",
+            "Starfish",
+            "Seaweed",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 77
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Plain",
+        "Flavor": "Mint",
+        "Eye": "Normal",
+        "Costume": "Knight",
+        "CostumeVariation": [
+            "Dark_Shield",
+            "None",
+            "Eyes_Normal"
+        ],
+        "tokenId": 78
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_Grey",
+        "Flavor": "Tiger",
+        "Eye": "Normal",
+        "Costume": "Pirate",
+        "CostumeVariation": [
+            "Left_Eyepatch",
+            "Sword_Left",
+            "Hook_Right",
+            "French",
+            "Red_Bandana",
+            "None",
+            "Eyes_Sus"
+        ],
+        "tokenId": 79
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Pirate",
+        "CostumeVariation": [
+            "None",
+            "Sword_Left",
+            "None",
+            "Shifu",
+            "Blue_Bandana",
+            "Captain_Hat",
+            "Eyes_Red"
+        ],
+        "tokenId": 80
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Mermaid",
+        "CostumeVariation": [
+            "Blonde_Hair",
+            "Pink_Shells",
+            "Blue_Flower",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 81
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
+        "Flavor": "Vanilla",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Strawberry_Pour",
+            "Eyes_High"
+        ],
+        "tokenId": 82
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Angel",
+        "CostumeVariation": [
+            "Light_Wings",
+            "Dark_Robes",
+            "Eyes_Normal"
+        ],
+        "tokenId": 83
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Plain",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Grey",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_4",
+            "Eyes_Red"
+        ],
+        "tokenId": 84
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_06",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Chocolate",
+            "Eyes_Normal"
+        ],
+        "tokenId": 85
     },
     {
         "Style": "Single",
@@ -1280,186 +1233,27 @@
         "Cone": "Waffle_Chocolate",
         "Flavor": "Chocolate",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Angel",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Red_Parted",
-            "None",
-            "None"
-        ],
-        "tokenId": 76
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "Big_Purple",
-            "Yellow_Balloon"
-        ],
-        "tokenId": 77
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Long",
-            "Orange_Parted",
-            "Mini_Pink",
-            "Yellow_Balloon"
-        ],
-        "tokenId": 78
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Plain",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Orange_Parted",
-            "Big_Purple",
-            "Green_Balloon"
-        ],
-        "tokenId": 79
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "Mini_Purple",
-            "Blue_Balloon"
-        ],
-        "tokenId": 80
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_04",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Red_Parted",
-            "Big_Blue",
-            "None"
-        ],
-        "tokenId": 81
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Round",
-            "Red_Parted",
-            "Big_Blue",
-            "None"
-        ],
-        "tokenId": 82
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Red_Parted",
-            "Big_Purple",
-            "Green_Balloon"
-        ],
-        "tokenId": 83
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_08",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Big_Blue",
-            "Blue_Balloon"
-        ],
-        "tokenId": 84
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_10",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Round",
-            "Red_Parted",
-            "None",
-            "Green_Balloon"
-        ],
-        "tokenId": 85
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Purple",
-            "Long",
-            "Orange_Parted",
-            "Mini_Purple",
-            "Green_Balloon"
+            "Dark_Wings",
+            "Light_Robes",
+            "Eyes_Sus"
         ],
         "tokenId": 86
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "French_Vanilla",
+        "Eye": "Normal",
+        "Costume": "Knight",
+        "CostumeVariation": [
+            "Blue",
+            "Spear",
+            "Eyes_High"
+        ],
+        "tokenId": 87
     },
     {
         "Style": "Single",
@@ -1467,31 +1261,10 @@
         "Cone": "Tub_White",
         "Flavor": "Vanilla",
         "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "None",
-            "Yellow_Balloon"
-        ],
-        "tokenId": 87
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_02",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Scary",
-            "Round",
-            "Red_Parted",
-            "Mini_Pink",
-            "Red_Balloon"
+            "Mango",
+            "Eyes_Normal"
         ],
         "tokenId": 88
     }
