@@ -1,0 +1,522 @@
+[
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 1
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 2
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 3
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Plain",
+        "Flavor": "French_Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 4
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Tub_White",
+        "Flavor": "Neapolitan",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 5
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Tub_White",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 6
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 7
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Neapolitan",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 8
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Regular_Plain",
+        "Flavor": "French_Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 9
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Plain",
+        "Flavor": "Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 10
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Tub_Dark",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 11
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Tiger",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 12
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Tub_Grey",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 13
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 14
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 15
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Tub_White",
+        "Flavor": "Rainbow",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 16
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 17
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Rainbow",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 18
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Regular_Plain",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 19
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 20
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Rainbow",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 21
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 22
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_09",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Mint",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 23
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Tub_White",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 24
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Chocolate",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 25
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 26
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_03",
+        "Cone": "Tub_Dark",
+        "Flavor": "Neapolitan",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 27
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 28
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Tub_Dark",
+        "Flavor": "Strawberry",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 29
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Regular_Plain",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 30
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 31
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 32
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Tub_White",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 33
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Cotton_Candy",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 34
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Lavender",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 35
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Tub_Grey",
+        "Flavor": "French_Vanilla",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 36
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Mint",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 37
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Tiger",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 38
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Neapolitan",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Orange_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 39
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Neapolitan",
+        "Eye": "Normal",
+        "Costume": "Cat",
+        "CostumeVariation": [
+            "Black_Cat",
+            "Cat_Nose"
+        ],
+        "tokenId": 40
+    }
+]
