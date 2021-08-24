@@ -102,7 +102,7 @@ return (
         <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
           <div className="md:hidden block"></div>
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/PirateGIF.gif"></img>
-          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 cute variations! With 20+ costumes, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">Some of our cones have costumes. Each costume is randomized in and of itself. For example the pirates alone have more than 500 cute variations! With 20+ costumes/toppings, multiple flavors, cone types, expressions, backgrounds and toppings each piece will truly be unique and look good too! ;)</p>
         </div>
 
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">S</span>UPER RARE <span className="text-3xl text-blau"> DOUBLE CONES</span><span className="text-3xl">!</span></p>
