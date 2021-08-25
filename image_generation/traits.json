@@ -1,274 +1,263 @@
 [
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Pirate",
+        "Background": "Background_03",
+        "Cone": "Tub_Dark",
+        "Flavor": "Strawberry",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Right_Eyepatch",
-            "Hook_Left",
-            "Hook_Right",
-            "French",
-            "Red_Bandana",
-            "None",
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Grey",
+            "Teeth_2",
             "Eyes_Cute"
         ],
         "tokenId": 1
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
+        "Background": "Background_05",
         "Cone": "Tub_Grey",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Astronaut",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "White_Suit",
-            "White_Glass",
-            "Eyes_Sus"
+            "Purple_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Lashes"
         ],
         "tokenId": 2
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Tub_Grey",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
+        "Background": "Background_07",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Neapolitan",
         "Costume": "Topping",
         "CostumeVariation": [
-            "Caramel_Pour",
-            "Eyes_High"
+            "Mango",
+            "Eyes_Normal"
         ],
         "tokenId": 3
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Tub_Grey",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
+        "Background": "Background_03",
+        "Cone": "Tub_Dark",
+        "Flavor": "Tiger",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Chocolate",
+            "Cape_Purple",
+            "Ears_Grey",
+            "Hair_Black",
+            "Necklace_Purple",
+            "Teeth_3",
             "Eyes_Normal"
         ],
         "tokenId": 4
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Rainbow",
-        "Eye": "Normal",
-        "Costume": "Topping",
+        "Background": "Background_01",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Lavender",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Sprinkles_Tons",
+            "Purple_Robes",
+            "Grey_Staff",
             "Eyes_Normal"
         ],
         "tokenId": 5
     },
     {
-        "Style": "Double",
-        "Background": "Background_04",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Goddess",
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Gold_Robes",
-            "Blonde_Hair",
-            "Silver_Tiara",
-            "Gold_Scepter",
+            "Cape_Red",
+            "Ears_Grey",
+            "Hair_Black",
+            "Necklace_Purple",
+            "Teeth_3",
             "Eyes_Normal"
         ],
         "tokenId": 6
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_White",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Angel",
+        "Background": "Background_08",
+        "Cone": "Tub_Grey",
+        "Flavor": "Mint",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Dark_Wings",
-            "Light_Robes",
-            "Eyes_High"
+            "Cape_Red",
+            "Ears_Grey",
+            "Hair_Grey",
+            "Necklace_Red",
+            "Teeth_3",
+            "Eyes_Cute"
         ],
         "tokenId": 7
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
+        "Background": "Background_08",
         "Cone": "Tub_Dark",
         "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Goddess",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Gold_Robes",
-            "Brown_Hair",
-            "Gold_Tiara",
-            "Gold_Scepter",
+            "Cape_Red",
+            "Ears_Grey",
+            "None",
+            "Necklace_Purple",
+            "Teeth_4",
             "Eyes_Normal"
         ],
         "tokenId": 8
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Shark",
+        "Background": "Background_05",
+        "Cone": "Tub_Grey",
+        "Flavor": "Tiger",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Black",
-            "Eyes_High"
+            "Cape_Blue",
+            "Ears_Grey",
+            "None",
+            "Necklace_Grey",
+            "Teeth_3",
+            "Eyes_Normal"
         ],
         "tokenId": 9
     },
     {
-        "Style": "Single",
-        "Background": "Background_08",
+        "Style": "Double",
+        "Background": "Background_04",
         "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Hoodie",
+        "Flavor": "Lavender",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Red_Hoodie",
-            "White",
-            "Red",
-            "None",
-            "Eyes_Sus"
+            "Cherry",
+            "Eyes_Red"
         ],
         "tokenId": 10
     },
     {
         "Style": "Single",
         "Background": "Background_04",
-        "Cone": "Tub_Grey",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Wizard",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Rainbow",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Blue_Robes",
-            "Grey_Staff",
-            "Eyes_Normal"
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Grey",
+            "Teeth_2",
+            "Eyes_Sus"
         ],
         "tokenId": 11
     },
     {
         "Style": "Single",
         "Background": "Background_09",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
+        "Cone": "Tub_White",
+        "Flavor": "Chocolate",
         "Costume": "Topping",
         "CostumeVariation": [
-            "Chocolate_Pour",
-            "Eyes_Cute"
+            "Cherry",
+            "Eyes_Normal"
         ],
         "tokenId": 12
     },
     {
         "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Strawberry",
+        "Background": "Background_09",
+        "Cone": "Waffle_Plain",
         "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Cherry",
-            "Eyes_Normal"
+            "Blue",
+            "Eyes_Cute"
         ],
         "tokenId": 13
     },
     {
         "Style": "Single",
         "Background": "Background_03",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Bee",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Vanilla",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "White_Wings",
-            "Thick_Black",
-            "Anteni",
-            "Eyes_Normal"
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Red"
         ],
         "tokenId": 14
     },
     {
         "Style": "Double",
-        "Background": "Background_07",
-        "Cone": "Tub_Grey",
+        "Background": "Background_06",
+        "Cone": "Regular_Strawberry",
         "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Princess",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Pink_Dress",
-            "Blonde_Hair",
-            "None",
-            "Eyes_Red"
+            "Blue",
+            "Eyes_Lashes"
         ],
         "tokenId": 15
     },
     {
         "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Topping",
+        "Background": "Background_08",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Caramel_Pour",
-            "Eyes_Sus"
+            "Purple_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Normal"
         ],
         "tokenId": 16
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Waffle_Chocolate",
+        "Background": "Background_08",
+        "Cone": "Regular_Plain",
         "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Cat",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose",
-            "Eyes_Normal"
+            "Purple_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Red"
         ],
         "tokenId": 17
     },
     {
         "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Dog",
+        "Background": "Background_06",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Grey",
-            "Tongue",
-            "Eyes_Normal"
+            "Blue_Robes",
+            "Grey_Staff",
+            "Eyes_Lashes"
         ],
         "tokenId": 18
     },
     {
         "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Matcha",
+        "Background": "Background_01",
+        "Cone": "Regular_Chocolate",
         "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Rambo",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Red_Bandana",
-            "Black_Vest",
-            "Red",
-            "Shotgun",
-            "Eyes_Normal"
+            "Blue",
+            "Eyes_Cute"
         ],
         "tokenId": 19
     },
@@ -276,180 +265,624 @@
         "Style": "Single",
         "Background": "Background_01",
         "Cone": "Regular_Matcha",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Dog",
+        "Flavor": "Vanilla",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Brown",
-            "Tongue",
-            "Eyes_High"
+            "Blue",
+            "Eyes_Normal"
         ],
         "tokenId": 20
     },
     {
         "Style": "Single",
         "Background": "Background_08",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Hippie",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Rainbow",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Grey",
-            "Blue_Accs",
-            "Hand",
-            "Eyes_Normal"
+            "Blue",
+            "Eyes_Cute"
         ],
         "tokenId": 21
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Mint",
-        "Eye": "Normal",
+        "Background": "Background_10",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Chocolate",
         "Costume": "Shark",
         "CostumeVariation": [
             "Blue",
-            "Eyes_Lashes"
+            "Eyes_Normal"
         ],
         "tokenId": 22
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Plain",
+        "Background": "Background_09",
+        "Cone": "Waffle_Matcha",
         "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Red_Parted",
-            "Big_Blue",
-            "Green_Balloon",
-            "Eyes_Normal"
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_3",
+            "Eyes_Cute"
         ],
         "tokenId": 23
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
+        "Background": "Background_09",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Rainbow",
         "Costume": "Topping",
         "CostumeVariation": [
-            "Caramel_Pour",
-            "Eyes_High"
+            "Shrimp",
+            "Eyes_Red"
         ],
         "tokenId": 24
     },
     {
         "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
+        "Background": "Background_09",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Chocolate",
         "Costume": "Topping",
         "CostumeVariation": [
-            "Strawberry",
-            "Eyes_Normal"
+            "Caramel",
+            "Eyes_Lashes"
         ],
         "tokenId": 25
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Mummy",
+        "Background": "Background_08",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Tiger",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Eyes_Normal",
-            "Toilet_Paper",
-            "Eyes_Sus"
+            "Blue",
+            "Eyes_Normal"
         ],
         "tokenId": 26
     },
     {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_Grey",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Hippie",
+        "Style": "Double",
+        "Background": "Background_03",
+        "Cone": "Regular_Plain",
+        "Flavor": "Rainbow",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Grey_Beard",
-            "Blue_Accs",
-            "Mouth",
-            "Eyes_Sus"
+            "Caramel",
+            "Eyes_Normal"
         ],
         "tokenId": 27
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Knight",
+        "Background": "Background_09",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Mint",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Dark_Shield",
-            "None",
-            "Eyes_Red"
+            "Blue_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Cute"
         ],
         "tokenId": 28
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Tub_White",
-        "Flavor": "Rainbow",
-        "Eye": "Normal",
-        "Costume": "Astronaut",
+        "Background": "Background_01",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Chocolate",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Black_Suit",
-            "Black_Glass",
-            "Eyes_High"
+            "Black",
+            "Eyes_Cute"
         ],
         "tokenId": 29
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Hippie",
+        "Background": "Background_03",
+        "Cone": "Tub_Dark",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Blonde",
-            "Green_Accs",
-            "Hand",
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Grey",
+            "Teeth_3",
             "Eyes_Normal"
         ],
         "tokenId": 30
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Cat",
+        "Background": "Background_09",
+        "Cone": "Regular_Plain",
+        "Flavor": "Vanilla",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose",
-            "Eyes_Normal"
+            "Cherry",
+            "Eyes_Sus"
         ],
         "tokenId": 31
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
+        "Background": "Background_04",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 32
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Waffle_Plain",
+        "Flavor": "French_Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Grey_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 33
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_10",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Rainbow",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Black",
+            "Eyes_Normal"
+        ],
+        "tokenId": 34
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Lavender",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 35
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
         "Cone": "Tub_White",
+        "Flavor": "French_Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Sus"
+        ],
+        "tokenId": 36
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_10",
+        "Cone": "Regular_Plain",
+        "Flavor": "French_Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Red",
+            "Teeth_2",
+            "Eyes_Normal"
+        ],
+        "tokenId": 37
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_05",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Neapolitan",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Blue",
+            "Eyes_Normal"
+        ],
+        "tokenId": 38
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "French_Vanilla",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Blue",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 39
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Regular_Plain",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Red"
+        ],
+        "tokenId": 40
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Tub_White",
+        "Flavor": "Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Cherry",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 41
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 42
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
+        "Flavor": "Neapolitan",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Grey_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 43
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_Grey",
+        "Flavor": "French_Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Strawberry",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 44
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Strawberry",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Chocolate",
+            "Eyes_Sus"
+        ],
+        "tokenId": 45
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_08",
+        "Cone": "Tub_Dark",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Grey",
+            "Hair_Grey",
+            "Necklace_Red",
+            "Teeth_3",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 46
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Red",
+            "Ears_Grey",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_2",
+            "Eyes_Cute"
+        ],
+        "tokenId": 47
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_White",
+        "Flavor": "Neapolitan",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Black",
+            "Eyes_Normal"
+        ],
+        "tokenId": 48
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Plain",
+        "Flavor": "Rainbow",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Cute"
+        ],
+        "tokenId": 49
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_10",
+        "Cone": "Tub_Dark",
+        "Flavor": "French_Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Strawberry",
+            "Eyes_Normal"
+        ],
+        "tokenId": 50
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_Grey",
+        "Flavor": "Lavender",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Chocolate",
+            "Eyes_Normal"
+        ],
+        "tokenId": 51
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Tub_White",
+        "Flavor": "Vanilla",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Black",
+            "Eyes_Cute"
+        ],
+        "tokenId": 52
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_09",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "French_Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Caramel_Pour",
+            "Eyes_Normal"
+        ],
+        "tokenId": 53
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Neapolitan",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Caramel",
+            "Eyes_High"
+        ],
+        "tokenId": 54
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_03",
+        "Cone": "Tub_White",
+        "Flavor": "Mint",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Grey",
+            "Teeth_1",
+            "Eyes_Cute"
+        ],
+        "tokenId": 55
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "French_Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Cream",
+            "Eyes_Red"
+        ],
+        "tokenId": 56
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 57
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Neapolitan",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Twist1",
+            "Eyes_Normal"
+        ],
+        "tokenId": 58
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Neapolitan",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Caramel",
+            "Eyes_Cute"
+        ],
+        "tokenId": 59
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "French_Vanilla",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Blue",
+            "Eyes_Normal"
+        ],
+        "tokenId": 60
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Grey_Staff",
+            "Eyes_Cute"
+        ],
+        "tokenId": 61
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_01",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Neapolitan",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Blue",
+            "Eyes_Normal"
+        ],
+        "tokenId": 62
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_04",
+        "Cone": "Waffle_Plain",
+        "Flavor": "French_Vanilla",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Sprinkles",
+            "Eyes_High"
+        ],
+        "tokenId": 63
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_05",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Lavender",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 64
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_Dark",
+        "Flavor": "French_Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Grey_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 65
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Tub_Dark",
         "Flavor": "Tiger",
-        "Eye": "Normal",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Black",
+            "Eyes_Sus"
+        ],
+        "tokenId": 66
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Red",
+            "Teeth_3",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 67
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_04",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "French_Vanilla",
         "Costume": "Vampire",
         "CostumeVariation": [
             "Cape_Red",
@@ -459,813 +892,438 @@
             "Teeth_2",
             "Eyes_Normal"
         ],
-        "tokenId": 32
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Plain",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Cookie",
-            "Eyes_Normal"
-        ],
-        "tokenId": 33
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Rainbow",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Twist2",
-            "Eyes_Normal"
-        ],
-        "tokenId": 34
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Strawberry",
-            "Eyes_High"
-        ],
-        "tokenId": 35
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Tub_Grey",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Mermaid",
-        "CostumeVariation": [
-            "Blonde_Hair",
-            "Purple_Shells",
-            "Orange_Flower",
-            "Eyes_High"
-        ],
-        "tokenId": 36
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Mermaid",
-        "CostumeVariation": [
-            "Pink_Hair",
-            "Purple_Shells",
-            "Orange_Flower",
-            "Eyes_Lashes"
-        ],
-        "tokenId": 37
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Clown",
-        "CostumeVariation": [
-            "Clown_Makeup",
-            "Blue",
-            "Long",
-            "Orange_Parted",
-            "None",
-            "Green_Balloon",
-            "Eyes_Normal"
-        ],
-        "tokenId": 38
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Rainbow",
-        "Eye": "Normal",
-        "Costume": "Pirate",
-        "CostumeVariation": [
-            "Right_Eyepatch",
-            "Sword_Left",
-            "None",
-            "Shifu",
-            "Red_Bandana",
-            "None",
-            "Eyes_Red"
-        ],
-        "tokenId": 39
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Chocolate_Pour",
-            "Eyes_Normal"
-        ],
-        "tokenId": 40
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Dolphin",
-        "CostumeVariation": [
-            "Pink",
-            "Eyes_Cute"
-        ],
-        "tokenId": 41
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Tub_Grey",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Rambo",
-        "CostumeVariation": [
-            "Green_Bandana",
-            "Blue_Vest",
-            "Red",
-            "Shotgun",
-            "Eyes_Cute"
-        ],
-        "tokenId": 42
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Bee",
-        "CostumeVariation": [
-            "White_Wings",
-            "Thick_Black",
-            "Black_Hair",
-            "Eyes_High"
-        ],
-        "tokenId": 43
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Dog",
-        "CostumeVariation": [
-            "Brown",
-            "None",
-            "Eyes_Normal"
-        ],
-        "tokenId": 44
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Chocolate",
-            "Eyes_Normal"
-        ],
-        "tokenId": 45
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Tub_Dark",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Astronaut",
-        "CostumeVariation": [
-            "Black_Suit",
-            "Black_Glass",
-            "Eyes_Normal"
-        ],
-        "tokenId": 46
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Cream",
-            "Eyes_Normal"
-        ],
-        "tokenId": 47
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Plain",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Caramel",
-            "Eyes_High"
-        ],
-        "tokenId": 48
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Dolphin",
-        "CostumeVariation": [
-            "Blue",
-            "Eyes_High"
-        ],
-        "tokenId": 49
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_02",
-        "Cone": "Tub_Grey",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Knight",
-        "CostumeVariation": [
-            "Blue_Shield",
-            "None",
-            "Eyes_Normal"
-        ],
-        "tokenId": 50
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_White",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Wizard",
-        "CostumeVariation": [
-            "Blue_Robes",
-            "Dark_Brown_Staff",
-            "Eyes_Normal"
-        ],
-        "tokenId": 51
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Tub_White",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Caramel",
-            "Eyes_Sus"
-        ],
-        "tokenId": 52
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Matcha",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Vampire",
-        "CostumeVariation": [
-            "Cape_Red",
-            "Ears_Tan",
-            "Hair_Black",
-            "Necklace_Grey",
-            "Teeth_1",
-            "Eyes_Normal"
-        ],
-        "tokenId": 53
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Shark",
-        "CostumeVariation": [
-            "Blue",
-            "Eyes_Normal"
-        ],
-        "tokenId": 54
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Cat",
-        "CostumeVariation": [
-            "Black_Cat",
-            "Cat_Nose",
-            "Eyes_Normal"
-        ],
-        "tokenId": 55
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Strawberry_Pour",
-            "Eyes_Lashes"
-        ],
-        "tokenId": 56
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Caramel_Pour",
-            "Eyes_Cute"
-        ],
-        "tokenId": 57
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Plain",
-        "Flavor": "Tiger",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Shrimp",
-            "Eyes_Red"
-        ],
-        "tokenId": 58
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Plain",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Pirate",
-        "CostumeVariation": [
-            "Left_Eyepatch",
-            "Hook_Left",
-            "None",
-            "Mario",
-            "Blue_Bandana",
-            "None",
-            "Eyes_Cute"
-        ],
-        "tokenId": 59
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Sprinkles_Tons",
-            "Eyes_Sus"
-        ],
-        "tokenId": 60
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Tub_Grey",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Salmon",
-            "Eyes_Red"
-        ],
-        "tokenId": 61
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Regular_Plain",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Bee",
-        "CostumeVariation": [
-            "White_Wings",
-            "Thick_Yellow",
-            "Black_Hair",
-            "Eyes_Normal"
-        ],
-        "tokenId": 62
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_09",
-        "Cone": "Tub_Grey",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Hippie",
-        "CostumeVariation": [
-            "Blonde_Beard",
-            "Blue_Accs",
-            "Mouth",
-            "Eyes_Normal"
-        ],
-        "tokenId": 63
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Tub_Dark",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Angel",
-        "CostumeVariation": [
-            "Dark_Wings",
-            "Light_Robes",
-            "Eyes_Normal"
-        ],
-        "tokenId": 64
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Hippie",
-        "CostumeVariation": [
-            "Grey",
-            "Green_Accs",
-            "None",
-            "Eyes_Normal"
-        ],
-        "tokenId": 65
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Tub_Grey",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Hoodie",
-        "CostumeVariation": [
-            "Red_Hoodie",
-            "None",
-            "Red",
-            "Cap_Backwards",
-            "Eyes_Normal"
-        ],
-        "tokenId": 66
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Knight",
-        "CostumeVariation": [
-            "Dark_Shield",
-            "None",
-            "Eyes_High"
-        ],
-        "tokenId": 67
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Waffle_Matcha",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Fairy",
-        "CostumeVariation": [
-            "Purple_Crown",
-            "Green_Wings",
-            "Eyes_Cute"
-        ],
         "tokenId": 68
     },
     {
         "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Tub_Dark",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Cat",
+        "Background": "Background_10",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Tiger",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Orange_Cat",
-            "Cat_Nose",
-            "Eyes_Cute"
+            "Black",
+            "Eyes_Sus"
         ],
         "tokenId": 69
     },
     {
         "Style": "Single",
-        "Background": "Background_08",
-        "Cone": "Waffle_Plain",
-        "Flavor": "Neapolitan",
-        "Eye": "Normal",
-        "Costume": "Mermaid",
+        "Background": "Background_07",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Rainbow",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Pink_Hair",
-            "Purple_Shells",
-            "Blue_Flower",
-            "Eyes_Cute"
+            "Blue",
+            "Eyes_Normal"
         ],
         "tokenId": 70
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_01",
-        "Cone": "Regular_Plain",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Mummy",
-        "CostumeVariation": [
-            "Eyes_Normal",
-            "Toilet_Paper",
-            "Eyes_Sus"
-        ],
-        "tokenId": 71
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_02",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Strawberry",
-            "Eyes_Lashes"
-        ],
-        "tokenId": 72
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_07",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Diver",
-        "CostumeVariation": [
-            "Green",
-            "Grey_Suit",
-            "Eyes_Normal"
-        ],
-        "tokenId": 73
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_04",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Vampire",
-        "CostumeVariation": [
-            "Cape_Purple",
-            "Ears_Grey",
-            "Hair_Black",
-            "Necklace_Purple",
-            "Teeth_4",
-            "Eyes_Sus"
-        ],
-        "tokenId": 74
-    },
-    {
-        "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Waffle_Strawberry",
-        "Flavor": "Cotton_Candy",
-        "Eye": "Normal",
-        "Costume": "Fairy",
-        "CostumeVariation": [
-            "Blue_Crown",
-            "Green_Wings",
-            "Eyes_Normal"
-        ],
-        "tokenId": 75
-    },
-    {
-        "Style": "Double",
-        "Background": "Background_07",
-        "Cone": "Tub_Grey",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Topping",
-        "CostumeVariation": [
-            "Mango",
-            "Eyes_Normal"
-        ],
-        "tokenId": 76
     },
     {
         "Style": "Single",
         "Background": "Background_04",
         "Cone": "Waffle_Chocolate",
         "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Fishbowl",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "White_Bowl",
-            "Goldfish",
-            "Zebrafish",
-            "Starfish",
-            "Seaweed",
+            "Caramel",
             "Eyes_Lashes"
+        ],
+        "tokenId": 71
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_08",
+        "Cone": "Tub_White",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Red",
+            "Teeth_3",
+            "Eyes_Normal"
+        ],
+        "tokenId": 72
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Cute"
+        ],
+        "tokenId": 73
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Regular_Plain",
+        "Flavor": "French_Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "None",
+            "Necklace_Red",
+            "Teeth_4",
+            "Eyes_Normal"
+        ],
+        "tokenId": 74
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Tub_Grey",
+        "Flavor": "Vanilla",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Blue",
+            "Eyes_Normal"
+        ],
+        "tokenId": 75
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_2",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 76
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_08",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "Chocolate",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_1",
+            "Eyes_Normal"
         ],
         "tokenId": 77
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
+        "Background": "Background_02",
         "Cone": "Regular_Plain",
-        "Flavor": "Mint",
-        "Eye": "Normal",
-        "Costume": "Knight",
+        "Flavor": "Chocolate",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Dark_Shield",
-            "None",
-            "Eyes_Normal"
+            "Blue_Robes",
+            "Grey_Staff",
+            "Eyes_Red"
         ],
         "tokenId": 78
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Tub_Grey",
-        "Flavor": "Tiger",
-        "Eye": "Normal",
-        "Costume": "Pirate",
+        "Background": "Background_02",
+        "Cone": "Waffle_Chocolate",
+        "Flavor": "Chocolate",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Left_Eyepatch",
-            "Sword_Left",
-            "Hook_Right",
-            "French",
-            "Red_Bandana",
-            "None",
-            "Eyes_Sus"
+            "Salmon",
+            "Eyes_Normal"
         ],
         "tokenId": 79
     },
     {
         "Style": "Single",
         "Background": "Background_07",
-        "Cone": "Regular_Matcha",
-        "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Pirate",
+        "Cone": "Regular_Strawberry",
+        "Flavor": "Neapolitan",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "None",
-            "Sword_Left",
-            "None",
-            "Shifu",
-            "Blue_Bandana",
-            "Captain_Hat",
-            "Eyes_Red"
+            "Blue_Robes",
+            "Dark_Brown_Staff",
+            "Eyes_Cute"
         ],
         "tokenId": 80
     },
     {
         "Style": "Single",
-        "Background": "Background_10",
-        "Cone": "Regular_Strawberry",
+        "Background": "Background_05",
+        "Cone": "Regular_Matcha",
         "Flavor": "Lavender",
-        "Eye": "Normal",
-        "Costume": "Mermaid",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Blonde_Hair",
-            "Pink_Shells",
-            "Blue_Flower",
-            "Eyes_Lashes"
+            "Caramel",
+            "Eyes_Normal"
         ],
         "tokenId": 81
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Tub_Grey",
-        "Flavor": "Vanilla",
-        "Eye": "Normal",
-        "Costume": "Topping",
+        "Background": "Background_01",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Strawberry",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Strawberry_Pour",
-            "Eyes_High"
+            "Black",
+            "Eyes_Normal"
         ],
         "tokenId": 82
     },
     {
         "Style": "Single",
-        "Background": "Background_05",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Angel",
+        "Background": "Background_01",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Mint",
+        "Costume": "Vampire",
         "CostumeVariation": [
-            "Light_Wings",
-            "Dark_Robes",
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Grey",
+            "Teeth_1",
             "Eyes_Normal"
         ],
         "tokenId": 83
     },
     {
         "Style": "Single",
-        "Background": "Background_06",
-        "Cone": "Regular_Plain",
-        "Flavor": "Strawberry",
-        "Eye": "Normal",
-        "Costume": "Vampire",
+        "Background": "Background_08",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Neapolitan",
+        "Costume": "Shark",
         "CostumeVariation": [
-            "Cape_Purple",
-            "Ears_Grey",
-            "Hair_Grey",
-            "Necklace_Purple",
-            "Teeth_4",
-            "Eyes_Red"
+            "Blue",
+            "Eyes_Normal"
         ],
         "tokenId": 84
     },
     {
-        "Style": "Double",
-        "Background": "Background_06",
-        "Cone": "Regular_Chocolate",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Neapolitan",
         "Costume": "Topping",
         "CostumeVariation": [
-            "Chocolate",
-            "Eyes_Normal"
+            "Shrimp",
+            "Eyes_High"
         ],
         "tokenId": 85
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Waffle_Chocolate",
-        "Flavor": "Chocolate",
-        "Eye": "Normal",
-        "Costume": "Angel",
+        "Background": "Background_01",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "Strawberry",
+        "Costume": "Wizard",
         "CostumeVariation": [
-            "Dark_Wings",
-            "Light_Robes",
-            "Eyes_Sus"
+            "Blue_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Normal"
         ],
         "tokenId": 86
     },
     {
         "Style": "Single",
-        "Background": "Background_03",
-        "Cone": "Regular_Strawberry",
-        "Flavor": "French_Vanilla",
-        "Eye": "Normal",
-        "Costume": "Knight",
+        "Background": "Background_09",
+        "Cone": "Tub_Dark",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Topping",
         "CostumeVariation": [
-            "Blue",
-            "Spear",
-            "Eyes_High"
+            "Shrimp",
+            "Eyes_Sus"
         ],
         "tokenId": 87
     },
     {
         "Style": "Single",
-        "Background": "Background_07",
+        "Background": "Background_01",
         "Cone": "Tub_White",
+        "Flavor": "French_Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Purple",
+            "Teeth_1",
+            "Eyes_Cute"
+        ],
+        "tokenId": 88
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Waffle_Strawberry",
+        "Flavor": "Neapolitan",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Blue_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Normal"
+        ],
+        "tokenId": 89
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Regular_Chocolate",
+        "Flavor": "French_Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Light_Brown_Staff",
+            "Eyes_High"
+        ],
+        "tokenId": 90
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Neapolitan",
+        "Costume": "Shark",
+        "CostumeVariation": [
+            "Black",
+            "Eyes_Cute"
+        ],
+        "tokenId": 91
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_01",
+        "Cone": "Tub_White",
+        "Flavor": "Neapolitan",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Red",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Red",
+            "Teeth_4",
+            "Eyes_Normal"
+        ],
+        "tokenId": 92
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_06",
+        "Cone": "Regular_Strawberry",
         "Flavor": "Vanilla",
-        "Eye": "Normal",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Twist1",
+            "Eyes_Normal"
+        ],
+        "tokenId": 93
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_05",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Cotton_Candy",
+        "Costume": "Topping",
+        "CostumeVariation": [
+            "Salmon",
+            "Eyes_Sus"
+        ],
+        "tokenId": 94
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Waffle_Plain",
+        "Flavor": "Vanilla",
         "Costume": "Topping",
         "CostumeVariation": [
             "Mango",
+            "Eyes_High"
+        ],
+        "tokenId": 95
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_09",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Strawberry",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Green_Robes",
+            "Light_Brown_Staff",
+            "Eyes_Red"
+        ],
+        "tokenId": 96
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_10",
+        "Cone": "Tub_White",
+        "Flavor": "Vanilla",
+        "Costume": "Wizard",
+        "CostumeVariation": [
+            "Purple_Robes",
+            "Grey_Staff",
+            "Eyes_Red"
+        ],
+        "tokenId": 97
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_07",
+        "Cone": "Regular_Matcha",
+        "Flavor": "Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Red",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Red",
+            "Teeth_4",
+            "Eyes_Cute"
+        ],
+        "tokenId": 98
+    },
+    {
+        "Style": "Double",
+        "Background": "Background_09",
+        "Cone": "Tub_Dark",
+        "Flavor": "Mint",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Blue",
+            "Ears_Tan",
+            "Hair_Black",
+            "Necklace_Purple",
+            "Teeth_4",
             "Eyes_Normal"
         ],
-        "tokenId": 88
+        "tokenId": 99
+    },
+    {
+        "Style": "Single",
+        "Background": "Background_02",
+        "Cone": "Waffle_Matcha",
+        "Flavor": "French_Vanilla",
+        "Costume": "Vampire",
+        "CostumeVariation": [
+            "Cape_Purple",
+            "Ears_Tan",
+            "Hair_Grey",
+            "Necklace_Grey",
+            "Teeth_3",
+            "Eyes_Lashes"
+        ],
+        "tokenId": 100
     }
 ]

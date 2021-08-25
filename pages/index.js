@@ -57,14 +57,13 @@ return (
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
                 <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new standard of NFTs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
                 <div className="pl-auto">
-                  <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs200/szw256/szh108/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="152" height="44"></iframe>
-                  <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7y0i6hp/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/cacfff/cpcf00/pct/tcfff/fn3/fs250/szw576/szh243/iso2021-08-26T18:00:00" allowtransparency="true" frameborder="0" width="428" height="121"></iframe>
+                  <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw256/szh108/iso2021-08-30T20:00:00" allowtransparency="true" frameborder="0" width="228" height="65"></iframe>
+                  <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw576/szh243/iso2021-08-30T20:00:00" allowtransparency="true" frameborder="0" width="514" height="146"></iframe>
                 </div>
                 <p className="text-2xl text-gray-200 my-6">
-                  <strong>LAUNCH DATE:</strong> Thursday, 26 August 2021, 6pm EST. <br />‍
+                  <strong>LAUNCH DATE:</strong> Monday the 30th of August 2021, 8pm EST. <br />‍
                   <span className="text-gray-200 text-2xl"><strong>TOTAL SUPPLY:</strong> 8888 Cones.<br/><strong>PRICE:</strong> 0.04 ETH each.</span>
                 </p>
-                {/* <iframe src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-06-29T21:00:00" allowtransparency="true" frameBorder="0" width="425" height="25"></iframe> */}
               </div> 
 
               <div className="col-span-1 md:col-span-2">
