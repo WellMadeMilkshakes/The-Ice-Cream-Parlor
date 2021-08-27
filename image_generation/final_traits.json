@@ -1,392 +1,392 @@
 [
     {
         "tokenId": 1,
-        "Name": "Single Hoodie: Cone #1",
+        "Name": "Double Hippie: Cone #1",
         "Image": "1.png",
         "Attributes": {
-            "Style": "Single",
+            "Style": "Double",
             "Background": "Background_02",
-            "Cone": "Regular_Matcha",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Hoodie",
+            "Cone": "Double_Bowl_Grey",
+            "Flavor": "Chocolate",
+            "Costume": "Hippie",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 2,
-        "Name": "Single Topping: Cone #2",
+        "Name": "Double Topping: Cone #2",
         "Image": "2.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Tub_Dark",
-            "Flavor": "Tiger",
+            "Style": "Double",
+            "Background": "Background_05",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "Chocolate",
             "Costume": "Topping",
-            "Eyes": "Eyes_Sus"
+            "Eyes": "Eyes_Lashes"
         }
     },
     {
         "tokenId": 3,
-        "Name": "Single Vampire: Cone #3",
+        "Name": "Single Astronaut: Cone #3",
         "Image": "3.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Tub_Dark",
-            "Flavor": "Chocolate",
-            "Costume": "Vampire",
-            "Eyes": "Eyes_Red"
-        }
-    },
-    {
-        "tokenId": 4,
-        "Name": "Single Topping: Cone #4",
-        "Image": "4.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_06",
-            "Cone": "Waffle_Chocolate",
-            "Flavor": "Chocolate",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 5,
-        "Name": "Single Mermaid: Cone #5",
-        "Image": "5.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_05",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Lavender",
-            "Costume": "Mermaid",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 6,
-        "Name": "Single Fishbowl: Cone #6",
-        "Image": "6.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Waffle_Chocolate",
-            "Flavor": "Chocolate",
-            "Costume": "Fishbowl",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 7,
-        "Name": "Double Cat: Cone #7",
-        "Image": "7.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_10",
-            "Cone": "Double_Bowl_Grey",
-            "Flavor": "Neapolitan",
-            "Costume": "Cat",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 8,
-        "Name": "Double Hoodie: Cone #8",
-        "Image": "8.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_08",
-            "Cone": "Double_Bowl_Dark",
-            "Flavor": "Chocolate",
-            "Costume": "Hoodie",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 9,
-        "Name": "Double Mummy: Cone #9",
-        "Image": "9.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_04",
-            "Cone": "Double_Bowl_Grey",
-            "Flavor": "Neapolitan",
-            "Costume": "Mummy",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 10,
-        "Name": "Single Diver: Cone #10",
-        "Image": "10.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Mint",
-            "Costume": "Diver",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 11,
-        "Name": "Single Topping: Cone #11",
-        "Image": "11.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_06",
-            "Cone": "Waffle_Plain",
-            "Flavor": "French_Vanilla",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 12,
-        "Name": "Single Pirate: Cone #12",
-        "Image": "12.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_03",
-            "Cone": "Waffle_Plain",
-            "Flavor": "Mint",
-            "Costume": "Pirate",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 13,
-        "Name": "Double Diver: Cone #13",
-        "Image": "13.png",
-        "Attributes": {
-            "Style": "Double",
             "Background": "Background_09",
-            "Cone": "Double_Chocolate",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Diver",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 14,
-        "Name": "Double Astronaut: Cone #14",
-        "Image": "14.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_03",
-            "Cone": "Double_Bowl_Grey",
+            "Cone": "Tub_White",
             "Flavor": "Neapolitan",
             "Costume": "Astronaut",
             "Eyes": "Eyes_Normal"
         }
     },
     {
-        "tokenId": 15,
-        "Name": "Double Dolphin: Cone #15",
-        "Image": "15.png",
+        "tokenId": 4,
+        "Name": "Double Topping: Cone #4",
+        "Image": "4.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_04",
+            "Background": "Background_08",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 5,
+        "Name": "Single Topping: Cone #5",
+        "Image": "5.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_10",
+            "Cone": "Regular_Plain",
+            "Flavor": "Strawberry",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 6,
+        "Name": "Single Knight: Cone #6",
+        "Image": "6.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_02",
+            "Cone": "Waffle_Chocolate",
+            "Flavor": "Tiger",
+            "Costume": "Knight",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 7,
+        "Name": "Double Vampire: Cone #7",
+        "Image": "7.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Mint",
+            "Costume": "Vampire",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 8,
+        "Name": "Single Clown: Cone #8",
+        "Image": "8.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_05",
+            "Cone": "Regular_Matcha",
+            "Flavor": "Mint",
+            "Costume": "Clown",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 9,
+        "Name": "Double Knight: Cone #9",
+        "Image": "9.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_09",
             "Cone": "Double_Plain",
+            "Flavor": "Mint",
+            "Costume": "Knight",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 10,
+        "Name": "Double Goddess: Cone #10",
+        "Image": "10.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_09",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "French_Vanilla",
+            "Costume": "Goddess",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 11,
+        "Name": "Single Cat: Cone #11",
+        "Image": "11.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_06",
+            "Cone": "Waffle_Chocolate",
+            "Flavor": "Vanilla",
+            "Costume": "Cat",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 12,
+        "Name": "Double Goddess: Cone #12",
+        "Image": "12.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_01",
+            "Cone": "Double_Plain",
+            "Flavor": "Vanilla",
+            "Costume": "Goddess",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 13,
+        "Name": "Single Rambo: Cone #13",
+        "Image": "13.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_02",
+            "Cone": "Waffle_Strawberry",
+            "Flavor": "Strawberry",
+            "Costume": "Rambo",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 14,
+        "Name": "Single Clown: Cone #14",
+        "Image": "14.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_10",
+            "Cone": "Regular_Plain",
+            "Flavor": "Lavender",
+            "Costume": "Clown",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 15,
+        "Name": "Single Rambo: Cone #15",
+        "Image": "15.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_01",
+            "Cone": "Regular_Strawberry",
             "Flavor": "Chocolate",
-            "Costume": "Dolphin",
+            "Costume": "Rambo",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 16,
-        "Name": "Single Topping: Cone #16",
+        "Name": "Double Topping: Cone #16",
         "Image": "16.png",
         "Attributes": {
-            "Style": "Single",
+            "Style": "Double",
             "Background": "Background_03",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Neapolitan",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Sus"
-        }
-    },
-    {
-        "tokenId": 17,
-        "Name": "Single Topping: Cone #17",
-        "Image": "17.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_01",
-            "Cone": "Regular_Matcha",
-            "Flavor": "Cotton_Candy",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "Mint",
             "Costume": "Topping",
             "Eyes": "Eyes_Lashes"
         }
     },
     {
-        "tokenId": 18,
-        "Name": "Double Dolphin: Cone #18",
-        "Image": "18.png",
+        "tokenId": 17,
+        "Name": "Single Dolphin: Cone #17",
+        "Image": "17.png",
         "Attributes": {
-            "Style": "Double",
-            "Background": "Background_07",
-            "Cone": "Double_Plain",
-            "Flavor": "Chocolate",
-            "Costume": "Dolphin",
-            "Eyes": "Eyes_Sus"
-        }
-    },
-    {
-        "tokenId": 19,
-        "Name": "Double Dog: Cone #19",
-        "Image": "19.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_08",
-            "Cone": "Double_Bowl_Grey",
+            "Style": "Single",
+            "Background": "Background_09",
+            "Cone": "Regular_Chocolate",
             "Flavor": "Vanilla",
-            "Costume": "Dog",
+            "Costume": "Dolphin",
             "Eyes": "Eyes_Cute"
         }
     },
     {
-        "tokenId": 20,
-        "Name": "Single Topping: Cone #20",
-        "Image": "20.png",
+        "tokenId": 18,
+        "Name": "Single Topping: Cone #18",
+        "Image": "18.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Regular_Strawberry",
+            "Background": "Background_08",
+            "Cone": "Regular_Plain",
+            "Flavor": "Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 19,
+        "Name": "Single Mummy: Cone #19",
+        "Image": "19.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Waffle_Plain",
+            "Flavor": "French_Vanilla",
+            "Costume": "Mummy",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 20,
+        "Name": "Double Topping: Cone #20",
+        "Image": "20.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Plain",
+            "Flavor": "Rainbow",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 21,
+        "Name": "Single Hoodie: Cone #21",
+        "Image": "21.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_01",
+            "Cone": "Waffle_Plain",
+            "Flavor": "Mint",
+            "Costume": "Hoodie",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 22,
+        "Name": "Single Wizard: Cone #22",
+        "Image": "22.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_07",
+            "Cone": "Tub_White",
+            "Flavor": "Mint",
+            "Costume": "Wizard",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 23,
+        "Name": "Single Topping: Cone #23",
+        "Image": "23.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_01",
+            "Cone": "Waffle_Matcha",
+            "Flavor": "Chocolate",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 24,
+        "Name": "Double Vampire: Cone #24",
+        "Image": "24.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_04",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Neapolitan",
+            "Costume": "Vampire",
+            "Eyes": "Eyes_Red"
+        }
+    },
+    {
+        "tokenId": 25,
+        "Name": "Double Wizard: Cone #25",
+        "Image": "25.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_02",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Strawberry",
+            "Costume": "Wizard",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 26,
+        "Name": "Single Topping: Cone #26",
+        "Image": "26.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_02",
+            "Cone": "Tub_Dark",
+            "Flavor": "French_Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 27,
+        "Name": "Double Mummy: Cone #27",
+        "Image": "27.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_01",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Strawberry",
+            "Costume": "Mummy",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 28,
+        "Name": "Single Topping: Cone #28",
+        "Image": "28.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Tub_Dark",
             "Flavor": "French_Vanilla",
             "Costume": "Topping",
             "Eyes": "Eyes_Lashes"
         }
     },
     {
-        "tokenId": 21,
-        "Name": "Single Angel: Cone #21",
-        "Image": "21.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Strawberry",
-            "Costume": "Angel",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 22,
-        "Name": "Single Bee: Cone #22",
-        "Image": "22.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Tub_White",
-            "Flavor": "Lavender",
-            "Costume": "Bee",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 23,
-        "Name": "Double Dog: Cone #23",
-        "Image": "23.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_01",
-            "Cone": "Double_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Dog",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 24,
-        "Name": "Single Topping: Cone #24",
-        "Image": "24.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Waffle_Strawberry",
-            "Flavor": "Lavender",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 25,
-        "Name": "Single Fairy: Cone #25",
-        "Image": "25.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_04",
-            "Cone": "Regular_Matcha",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Fairy",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 26,
-        "Name": "Single Bee: Cone #26",
-        "Image": "26.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Mint",
-            "Costume": "Bee",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 27,
-        "Name": "Single Diver: Cone #27",
-        "Image": "27.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_01",
-            "Cone": "Waffle_Strawberry",
-            "Flavor": "Chocolate",
-            "Costume": "Diver",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 28,
-        "Name": "Double Topping: Cone #28",
-        "Image": "28.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_03",
-            "Cone": "Double_Bowl_Dark",
-            "Flavor": "Chocolate",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
         "tokenId": 29,
-        "Name": "Single Rambo: Cone #29",
+        "Name": "Double Goddess: Cone #29",
         "Image": "29.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Lavender",
-            "Costume": "Rambo",
-            "Eyes": "Eyes_Sus"
+            "Style": "Double",
+            "Background": "Background_06",
+            "Cone": "Double_Strawberry",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Goddess",
+            "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 30,
-        "Name": "Double Wizard: Cone #30",
+        "Name": "Single Topping: Cone #30",
         "Image": "30.png",
         "Attributes": {
-            "Style": "Double",
-            "Background": "Background_07",
-            "Cone": "Double_Bowl_Plain",
-            "Flavor": "Chocolate",
-            "Costume": "Wizard",
-            "Eyes": "Eyes_Normal"
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Tub_White",
+            "Flavor": "French_Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Sus"
         }
     },
     {
@@ -395,63 +395,63 @@
         "Image": "31.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_07",
-            "Cone": "Regular_Matcha",
-            "Flavor": "Chocolate",
+            "Background": "Background_10",
+            "Cone": "Waffle_Matcha",
+            "Flavor": "Rainbow",
             "Costume": "Topping",
-            "Eyes": "Eyes_Cute"
+            "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 32,
-        "Name": "Single Hoodie: Cone #32",
+        "Name": "Single Cat: Cone #32",
         "Image": "32.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Tub_Dark",
-            "Flavor": "Neapolitan",
-            "Costume": "Hoodie",
+            "Background": "Background_03",
+            "Cone": "Regular_Matcha",
+            "Flavor": "Strawberry",
+            "Costume": "Cat",
             "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 33,
-        "Name": "Single Clown: Cone #33",
+        "Name": "Double Topping: Cone #33",
         "Image": "33.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_01",
-            "Cone": "Tub_Grey",
-            "Flavor": "Vanilla",
-            "Costume": "Clown",
+            "Style": "Double",
+            "Background": "Background_06",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Topping",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 34,
-        "Name": "Single Knight: Cone #34",
+        "Name": "Single Hippie: Cone #34",
         "Image": "34.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Regular_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Knight",
-            "Eyes": "Eyes_Cute"
+            "Background": "Background_05",
+            "Cone": "Tub_Dark",
+            "Flavor": "Lavender",
+            "Costume": "Hippie",
+            "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 35,
-        "Name": "Double Pirate: Cone #35",
+        "Name": "Single Vampire: Cone #35",
         "Image": "35.png",
         "Attributes": {
-            "Style": "Double",
-            "Background": "Background_01",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Mint",
-            "Costume": "Pirate",
-            "Eyes": "Eyes_Normal"
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Tub_Dark",
+            "Flavor": "Rainbow",
+            "Costume": "Vampire",
+            "Eyes": "Eyes_Red"
         }
     },
     {
@@ -460,121 +460,69 @@
         "Image": "36.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_06",
-            "Cone": "Double_Plain",
-            "Flavor": "Cotton_Candy",
+            "Background": "Background_03",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "Mint",
             "Costume": "Wizard",
             "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 37,
-        "Name": "Double Topping: Cone #37",
+        "Name": "Single Bee: Cone #37",
         "Image": "37.png",
         "Attributes": {
-            "Style": "Double",
-            "Background": "Background_01",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Neapolitan",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Sus"
+            "Style": "Single",
+            "Background": "Background_03",
+            "Cone": "Waffle_Matcha",
+            "Flavor": "Strawberry",
+            "Costume": "Bee",
+            "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 38,
-        "Name": "Single Bee: Cone #38",
+        "Name": "Double Topping: Cone #38",
         "Image": "38.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Regular_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Bee",
-            "Eyes": "Eyes_Sus"
+            "Style": "Double",
+            "Background": "Background_06",
+            "Cone": "Double_Bowl_Grey",
+            "Flavor": "Tiger",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Lashes"
         }
     },
     {
         "tokenId": 39,
-        "Name": "Single Bee: Cone #39",
+        "Name": "Single Topping: Cone #39",
         "Image": "39.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_06",
+            "Background": "Background_05",
             "Cone": "Regular_Chocolate",
             "Flavor": "Chocolate",
-            "Costume": "Bee",
-            "Eyes": "Eyes_Sus"
+            "Costume": "Topping",
+            "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 40,
-        "Name": "Double Clown: Cone #40",
+        "Name": "Double Fairy: Cone #40",
         "Image": "40.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_02",
-            "Cone": "Double_Bowl_Plain",
-            "Flavor": "Strawberry",
-            "Costume": "Clown",
+            "Background": "Background_07",
+            "Cone": "Double_Plain",
+            "Flavor": "Mint",
+            "Costume": "Fairy",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 41,
-        "Name": "Single Rambo: Cone #41",
+        "Name": "Single Topping: Cone #41",
         "Image": "41.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_07",
-            "Cone": "Regular_Plain",
-            "Flavor": "Chocolate",
-            "Costume": "Rambo",
-            "Eyes": "Eyes_Sus"
-        }
-    },
-    {
-        "tokenId": 42,
-        "Name": "Double Princess: Cone #42",
-        "Image": "42.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_07",
-            "Cone": "Double_Plain",
-            "Flavor": "Strawberry",
-            "Costume": "Princess",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 43,
-        "Name": "Double Topping: Cone #43",
-        "Image": "43.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_03",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Lavender",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 44,
-        "Name": "Single Shark: Cone #44",
-        "Image": "44.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_08",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Chocolate",
-            "Costume": "Shark",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 45,
-        "Name": "Single Topping: Cone #45",
-        "Image": "45.png",
         "Attributes": {
             "Style": "Single",
             "Background": "Background_05",
@@ -585,68 +533,120 @@
         }
     },
     {
-        "tokenId": 46,
-        "Name": "Single Clown: Cone #46",
-        "Image": "46.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_05",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Vanilla",
-            "Costume": "Clown",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 47,
-        "Name": "Single Hippie: Cone #47",
-        "Image": "47.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Waffle_Chocolate",
-            "Flavor": "French_Vanilla",
-            "Costume": "Hippie",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 48,
-        "Name": "Single Cat: Cone #48",
-        "Image": "48.png",
+        "tokenId": 42,
+        "Name": "Single Dog: Cone #42",
+        "Image": "42.png",
         "Attributes": {
             "Style": "Single",
             "Background": "Background_07",
-            "Cone": "Regular_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Cat",
+            "Cone": "Waffle_Matcha",
+            "Flavor": "Mint",
+            "Costume": "Dog",
             "Eyes": "Eyes_Cute"
         }
     },
     {
-        "tokenId": 49,
-        "Name": "Single Goddess: Cone #49",
-        "Image": "49.png",
+        "tokenId": 43,
+        "Name": "Double Goddess: Cone #43",
+        "Image": "43.png",
         "Attributes": {
-            "Style": "Single",
+            "Style": "Double",
             "Background": "Background_01",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Rainbow",
+            "Cone": "Double_Bowl_Grey",
+            "Flavor": "Strawberry",
             "Costume": "Goddess",
             "Eyes": "Eyes_Normal"
         }
     },
     {
-        "tokenId": 50,
-        "Name": "Single Topping: Cone #50",
-        "Image": "50.png",
+        "tokenId": 44,
+        "Name": "Single Clown: Cone #44",
+        "Image": "44.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_05",
+            "Cone": "Tub_Dark",
+            "Flavor": "Rainbow",
+            "Costume": "Clown",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 45,
+        "Name": "Double Topping: Cone #45",
+        "Image": "45.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 46,
+        "Name": "Single Dolphin: Cone #46",
+        "Image": "46.png",
         "Attributes": {
             "Style": "Single",
             "Background": "Background_06",
+            "Cone": "Waffle_Plain",
+            "Flavor": "Neapolitan",
+            "Costume": "Dolphin",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 47,
+        "Name": "Single Bee: Cone #47",
+        "Image": "47.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_01",
             "Cone": "Tub_White",
+            "Flavor": "Tiger",
+            "Costume": "Bee",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 48,
+        "Name": "Double Topping: Cone #48",
+        "Image": "48.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Strawberry",
+            "Flavor": "Chocolate",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 49,
+        "Name": "Single Astronaut: Cone #49",
+        "Image": "49.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_06",
+            "Cone": "Regular_Matcha",
+            "Flavor": "Neapolitan",
+            "Costume": "Astronaut",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 50,
+        "Name": "Double Topping: Cone #50",
+        "Image": "50.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Bowl_Dark",
             "Flavor": "Cotton_Candy",
             "Costume": "Topping",
-            "Eyes": "Eyes_Cute"
+            "Eyes": "Eyes_Lashes"
         }
     },
     {
@@ -655,491 +655,491 @@
         "Image": "51.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_08",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Vanilla",
+            "Background": "Background_01",
+            "Cone": "Waffle_Strawberry",
+            "Flavor": "Strawberry",
             "Costume": "Topping",
-            "Eyes": "Eyes_Sus"
+            "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 52,
-        "Name": "Double Hippie: Cone #52",
+        "Name": "Double Dolphin: Cone #52",
         "Image": "52.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_04",
-            "Cone": "Double_Bowl_Dark",
-            "Flavor": "Tiger",
-            "Costume": "Hippie",
+            "Background": "Background_06",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Neapolitan",
+            "Costume": "Dolphin",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 53,
-        "Name": "Double Knight: Cone #53",
+        "Name": "Double Topping: Cone #53",
         "Image": "53.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_03",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Chocolate",
-            "Costume": "Knight",
-            "Eyes": "Eyes_Normal"
+            "Background": "Background_10",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "French_Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Sus"
         }
     },
     {
         "tokenId": 54,
-        "Name": "Single Bee: Cone #54",
+        "Name": "Double Topping: Cone #54",
         "Image": "54.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_04",
-            "Cone": "Waffle_Matcha",
+            "Style": "Double",
+            "Background": "Background_03",
+            "Cone": "Double_Bowl_Grey",
             "Flavor": "Cotton_Candy",
-            "Costume": "Bee",
+            "Costume": "Topping",
             "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 55,
-        "Name": "Single Vampire: Cone #55",
+        "Name": "Double Topping: Cone #55",
         "Image": "55.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Waffle_Strawberry",
-            "Flavor": "French_Vanilla",
-            "Costume": "Vampire",
+            "Style": "Double",
+            "Background": "Background_06",
+            "Cone": "Double_Strawberry",
+            "Flavor": "Strawberry",
+            "Costume": "Topping",
             "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 56,
-        "Name": "Single Hippie: Cone #56",
+        "Name": "Double Angel: Cone #56",
         "Image": "56.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_08",
-            "Cone": "Tub_Grey",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Hippie",
+            "Style": "Double",
+            "Background": "Background_10",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Vanilla",
+            "Costume": "Angel",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 57,
-        "Name": "Double Astronaut: Cone #57",
+        "Name": "Double Topping: Cone #57",
         "Image": "57.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_09",
-            "Cone": "Double_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Astronaut",
-            "Eyes": "Eyes_Normal"
+            "Background": "Background_02",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "French_Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 58,
-        "Name": "Single Cat: Cone #58",
+        "Name": "Single Topping: Cone #58",
         "Image": "58.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Neapolitan",
-            "Costume": "Cat",
+            "Background": "Background_05",
+            "Cone": "Regular_Plain",
+            "Flavor": "Chocolate",
+            "Costume": "Topping",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 59,
-        "Name": "Double Topping: Cone #59",
+        "Name": "Double Bee: Cone #59",
         "Image": "59.png",
         "Attributes": {
             "Style": "Double",
+            "Background": "Background_03",
+            "Cone": "Double_Plain",
+            "Flavor": "Mint",
+            "Costume": "Bee",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 60,
+        "Name": "Single Princess: Cone #60",
+        "Image": "60.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_10",
+            "Cone": "Tub_Grey",
+            "Flavor": "Neapolitan",
+            "Costume": "Princess",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 61,
+        "Name": "Single Astronaut: Cone #61",
+        "Image": "61.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_04",
+            "Cone": "Waffle_Strawberry",
+            "Flavor": "Mint",
+            "Costume": "Astronaut",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 62,
+        "Name": "Single Fishbowl: Cone #62",
+        "Image": "62.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Regular_Strawberry",
+            "Flavor": "Vanilla",
+            "Costume": "Fishbowl",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 63,
+        "Name": "Single Hoodie: Cone #63",
+        "Image": "63.png",
+        "Attributes": {
+            "Style": "Single",
             "Background": "Background_02",
+            "Cone": "Tub_White",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Hoodie",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 64,
+        "Name": "Double Pirate: Cone #64",
+        "Image": "64.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_04",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Strawberry",
+            "Costume": "Pirate",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 65,
+        "Name": "Double Topping: Cone #65",
+        "Image": "65.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_02",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Tiger",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 66,
+        "Name": "Double Mermaid: Cone #66",
+        "Image": "66.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_03",
             "Cone": "Double_Bowl_Plain",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Mermaid",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 67,
+        "Name": "Single Goddess: Cone #67",
+        "Image": "67.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Waffle_Plain",
+            "Flavor": "Neapolitan",
+            "Costume": "Goddess",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 68,
+        "Name": "Single Angel: Cone #68",
+        "Image": "68.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_07",
+            "Cone": "Tub_Dark",
+            "Flavor": "Mint",
+            "Costume": "Angel",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 69,
+        "Name": "Single Fishbowl: Cone #69",
+        "Image": "69.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_10",
+            "Cone": "Regular_Plain",
+            "Flavor": "Chocolate",
+            "Costume": "Fishbowl",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 70,
+        "Name": "Single Topping: Cone #70",
+        "Image": "70.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_05",
+            "Cone": "Waffle_Strawberry",
+            "Flavor": "French_Vanilla",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 71,
+        "Name": "Double Pirate: Cone #71",
+        "Image": "71.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_02",
+            "Cone": "Double_Bowl_Grey",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Pirate",
+            "Eyes": "Eyes_Lashes"
+        }
+    },
+    {
+        "tokenId": 72,
+        "Name": "Double Diver: Cone #72",
+        "Image": "72.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_05",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Chocolate",
+            "Costume": "Diver",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 73,
+        "Name": "Single Diver: Cone #73",
+        "Image": "73.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_08",
+            "Cone": "Tub_White",
+            "Flavor": "Rainbow",
+            "Costume": "Diver",
+            "Eyes": "Eyes_Normal"
+        }
+    },
+    {
+        "tokenId": 74,
+        "Name": "Double Vampire: Cone #74",
+        "Image": "74.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_08",
+            "Cone": "Double_Plain",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Vampire",
+            "Eyes": "Eyes_Red"
+        }
+    },
+    {
+        "tokenId": 75,
+        "Name": "Double Topping: Cone #75",
+        "Image": "75.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_04",
+            "Cone": "Double_Strawberry",
             "Flavor": "Rainbow",
             "Costume": "Topping",
             "Eyes": "Eyes_Normal"
         }
     },
     {
-        "tokenId": 60,
-        "Name": "Double Fishbowl: Cone #60",
-        "Image": "60.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_01",
-            "Cone": "Double_Plain",
-            "Flavor": "Mint",
-            "Costume": "Fishbowl",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 61,
-        "Name": "Double Knight: Cone #61",
-        "Image": "61.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_09",
-            "Cone": "Double_Bowl_Dark",
-            "Flavor": "Neapolitan",
-            "Costume": "Knight",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 62,
-        "Name": "Double Mummy: Cone #62",
-        "Image": "62.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_02",
-            "Cone": "Double_Plain",
-            "Flavor": "Neapolitan",
-            "Costume": "Mummy",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 63,
-        "Name": "Single Topping: Cone #63",
-        "Image": "63.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_05",
-            "Cone": "Waffle_Chocolate",
-            "Flavor": "Mint",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 64,
-        "Name": "Double Mermaid: Cone #64",
-        "Image": "64.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_09",
-            "Cone": "Double_Bowl_Grey",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Mermaid",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 65,
-        "Name": "Single Topping: Cone #65",
-        "Image": "65.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Tub_Dark",
-            "Flavor": "Mint",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 66,
-        "Name": "Single Dog: Cone #66",
-        "Image": "66.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_07",
-            "Cone": "Regular_Matcha",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Dog",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 67,
-        "Name": "Double Vampire: Cone #67",
-        "Image": "67.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_01",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Vampire",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 68,
-        "Name": "Double Fairy: Cone #68",
-        "Image": "68.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_04",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Lavender",
-            "Costume": "Fairy",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 69,
-        "Name": "Single Topping: Cone #69",
-        "Image": "69.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Regular_Plain",
-            "Flavor": "Neapolitan",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 70,
-        "Name": "Double Cat: Cone #70",
-        "Image": "70.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_05",
-            "Cone": "Double_Strawberry",
-            "Flavor": "Neapolitan",
-            "Costume": "Cat",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 71,
-        "Name": "Double Rambo: Cone #71",
-        "Image": "71.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_10",
-            "Cone": "Double_Plain",
-            "Flavor": "Lavender",
-            "Costume": "Rambo",
-            "Eyes": "Eyes_Cute"
-        }
-    },
-    {
-        "tokenId": 72,
-        "Name": "Single Pirate: Cone #72",
-        "Image": "72.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_10",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Vanilla",
-            "Costume": "Pirate",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 73,
-        "Name": "Double Topping: Cone #73",
-        "Image": "73.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_09",
-            "Cone": "Double_Bowl_Grey",
-            "Flavor": "Tiger",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Sus"
-        }
-    },
-    {
-        "tokenId": 74,
-        "Name": "Single Cat: Cone #74",
-        "Image": "74.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Mint",
-            "Costume": "Cat",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 75,
-        "Name": "Double Dolphin: Cone #75",
-        "Image": "75.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_08",
-            "Cone": "Double_Bowl_Grey",
-            "Flavor": "Vanilla",
-            "Costume": "Dolphin",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
         "tokenId": 76,
-        "Name": "Single Goddess: Cone #76",
+        "Name": "Single Mummy: Cone #76",
         "Image": "76.png",
         "Attributes": {
             "Style": "Single",
             "Background": "Background_05",
-            "Cone": "Tub_Grey",
-            "Flavor": "Lavender",
-            "Costume": "Goddess",
-            "Eyes": "Eyes_Cute"
+            "Cone": "Waffle_Chocolate",
+            "Flavor": "Strawberry",
+            "Costume": "Mummy",
+            "Eyes": "Eyes_Sus"
         }
     },
     {
         "tokenId": 77,
-        "Name": "Single Pirate: Cone #77",
+        "Name": "Double Topping: Cone #77",
         "Image": "77.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_09",
-            "Cone": "Regular_Plain",
-            "Flavor": "Vanilla",
-            "Costume": "Pirate",
+            "Style": "Double",
+            "Background": "Background_07",
+            "Cone": "Double_Bowl_Dark",
+            "Flavor": "Strawberry",
+            "Costume": "Topping",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 78,
-        "Name": "Single Mummy: Cone #78",
+        "Name": "Single Topping: Cone #78",
         "Image": "78.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_03",
-            "Cone": "Regular_Chocolate",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Mummy",
-            "Eyes": "Eyes_Normal"
+            "Background": "Background_10",
+            "Cone": "Waffle_Matcha",
+            "Flavor": "Tiger",
+            "Costume": "Topping",
+            "Eyes": "Eyes_Lashes"
         }
     },
     {
         "tokenId": 79,
-        "Name": "Single Hippie: Cone #79",
+        "Name": "Double Clown: Cone #79",
         "Image": "79.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_08",
-            "Cone": "Waffle_Plain",
-            "Flavor": "Neapolitan",
-            "Costume": "Hippie",
+            "Style": "Double",
+            "Background": "Background_05",
+            "Cone": "Double_Chocolate",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Clown",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 80,
-        "Name": "Single Topping: Cone #80",
+        "Name": "Double Topping: Cone #80",
         "Image": "80.png",
         "Attributes": {
-            "Style": "Single",
-            "Background": "Background_07",
-            "Cone": "Tub_Dark",
-            "Flavor": "Neapolitan",
+            "Style": "Double",
+            "Background": "Background_09",
+            "Cone": "Double_Bowl_Plain",
+            "Flavor": "Lavender",
             "Costume": "Topping",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 81,
-        "Name": "Double Bee: Cone #81",
+        "Name": "Single Rambo: Cone #81",
         "Image": "81.png",
         "Attributes": {
-            "Style": "Double",
-            "Background": "Background_06",
-            "Cone": "Double_Plain",
-            "Flavor": "French_Vanilla",
-            "Costume": "Bee",
-            "Eyes": "Eyes_Sus"
+            "Style": "Single",
+            "Background": "Background_07",
+            "Cone": "Tub_Dark",
+            "Flavor": "Chocolate",
+            "Costume": "Rambo",
+            "Eyes": "Eyes_Cute"
         }
     },
     {
         "tokenId": 82,
-        "Name": "Single Mermaid: Cone #82",
+        "Name": "Single Pirate: Cone #82",
         "Image": "82.png",
         "Attributes": {
             "Style": "Single",
-            "Background": "Background_02",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Lavender",
-            "Costume": "Mermaid",
+            "Background": "Background_04",
+            "Cone": "Regular_Plain",
+            "Flavor": "Vanilla",
+            "Costume": "Pirate",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 83,
-        "Name": "Single Topping: Cone #83",
+        "Name": "Double Fishbowl: Cone #83",
         "Image": "83.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_05",
-            "Cone": "Waffle_Matcha",
-            "Flavor": "Lavender",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 84,
-        "Name": "Single Fishbowl: Cone #84",
-        "Image": "84.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_06",
-            "Cone": "Tub_Grey",
-            "Flavor": "Vanilla",
-            "Costume": "Fishbowl",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 85,
-        "Name": "Single Topping: Cone #85",
-        "Image": "85.png",
-        "Attributes": {
-            "Style": "Single",
-            "Background": "Background_08",
-            "Cone": "Regular_Strawberry",
-            "Flavor": "Cotton_Candy",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Normal"
-        }
-    },
-    {
-        "tokenId": 86,
-        "Name": "Double Topping: Cone #86",
-        "Image": "86.png",
-        "Attributes": {
-            "Style": "Double",
-            "Background": "Background_02",
-            "Cone": "Double_Bowl_Plain",
-            "Flavor": "Chocolate",
-            "Costume": "Topping",
-            "Eyes": "Eyes_Lashes"
-        }
-    },
-    {
-        "tokenId": 87,
-        "Name": "Double Clown: Cone #87",
-        "Image": "87.png",
         "Attributes": {
             "Style": "Double",
             "Background": "Background_08",
             "Cone": "Double_Plain",
+            "Flavor": "Strawberry",
+            "Costume": "Fishbowl",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 84,
+        "Name": "Double Dolphin: Cone #84",
+        "Image": "84.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_04",
+            "Cone": "Double_Plain",
             "Flavor": "Mint",
-            "Costume": "Clown",
+            "Costume": "Dolphin",
+            "Eyes": "Eyes_Cute"
+        }
+    },
+    {
+        "tokenId": 85,
+        "Name": "Single Wizard: Cone #85",
+        "Image": "85.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_07",
+            "Cone": "Regular_Strawberry",
+            "Flavor": "Neapolitan",
+            "Costume": "Wizard",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 86,
+        "Name": "Single Fishbowl: Cone #86",
+        "Image": "86.png",
+        "Attributes": {
+            "Style": "Single",
+            "Background": "Background_09",
+            "Cone": "Waffle_Chocolate",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Fishbowl",
+            "Eyes": "Eyes_Sus"
+        }
+    },
+    {
+        "tokenId": 87,
+        "Name": "Double Mermaid: Cone #87",
+        "Image": "87.png",
+        "Attributes": {
+            "Style": "Double",
+            "Background": "Background_07",
+            "Cone": "Double_Plain",
+            "Flavor": "Vanilla",
+            "Costume": "Mermaid",
             "Eyes": "Eyes_Normal"
         }
     },
     {
         "tokenId": 88,
-        "Name": "Double Diver: Cone #88",
+        "Name": "Double Shark: Cone #88",
         "Image": "88.png",
         "Attributes": {
             "Style": "Double",
-            "Background": "Background_02",
+            "Background": "Background_08",
             "Cone": "Double_Chocolate",
-            "Flavor": "Neapolitan",
-            "Costume": "Diver",
+            "Flavor": "Cotton_Candy",
+            "Costume": "Shark",
             "Eyes": "Eyes_Normal"
         }
     }
