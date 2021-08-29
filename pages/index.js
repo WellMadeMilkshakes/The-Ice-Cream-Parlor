@@ -161,7 +161,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-pacifico font-medium">Jasmine</p>
               <p class="font-pacifico">Art Director</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/FlowerConeNFT">@FlowerConeNFT</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/FlowerConeNFT">@FlowerConeNFT</a>
             </div>
           </div>
 
@@ -172,7 +172,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">thepirateking</p>
               <p class="">Community Admin</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/NFTPirateKing">@NFTPirateKing</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/NFTPirateKing">@NFTPirateKing</a>
             </div>
           </div>
 
@@ -184,7 +184,7 @@ return (
               <p class="text-xl font-medium">wellMadeMilkshakes</p>
               <p class="">Project Development</p>
               <p class="">Front End Developer</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/wellMadeShakes">@wellMadeShakes</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/wellMadeShakes">@wellMadeShakes</a>
             </div>
           </div>  
 
@@ -195,7 +195,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">TheScoopy1</p>
               <p class="">Marketing</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
             </div>
           </div> 
 
@@ -210,7 +210,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">Abby</p>
               <p class="">Senior Artist</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
             </div>
           </div>
 
@@ -221,7 +221,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">Shaphan</p>
               <p class="">Consultant</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
             </div>
           </div>
 
@@ -232,7 +232,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">MetaverseMogul</p>
               <p class="">Developer</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
             </div>
           </div>
 
@@ -243,7 +243,7 @@ return (
             <div className="description col-span-2">
               <p class="text-xl font-medium">BennaginsETH</p>
               <p class="">Developer</p>
-              <a class="text-lg text-blau font-indie" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
+              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
             </div>
           </div>
 
