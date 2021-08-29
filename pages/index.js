@@ -31,11 +31,11 @@ return (
     <div className="flex items-center justify-between">
       <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
         {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
-        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="#roadmap" className="text-white hov  er:text-black m-6">Roadmap</a>
         <a href="#team" className=" text-white hover:text-black m-6">Team</a>
         <a href="#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
-        <a href="https://twitter.com/IceCreamNFT" className=" hover:text-white m-6 text-blau">twitter</a>
-        <a href="https://discord.com/channels/876818020633313290/876819378623086624" className=" hover:text-white m-6 text-blau">discord</a>
+        <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
+        <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
       {/* <a href="/" className=""><img src="/images/Ice_Cream_gif.gif" width="240" alt="" className="logo-image" /></a> */}
     </div>
@@ -241,9 +241,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Shark.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">Annonymous</p>
+              <p class="text-xl font-medium">BennaginsETH</p>
               <p class="">Developer</p>
-              {/* <a class="text-lg text-blau font-indie" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a> */}
+              <a class="text-lg text-blau font-indie" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
             </div>
           </div>
 
