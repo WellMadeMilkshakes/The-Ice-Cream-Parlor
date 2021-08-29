@@ -24,7 +24,7 @@ return (
   </Head>
 
   <div className="" id="Art">
-    <img id="MainWelcomePhoto" src="/images/Banner.png"></img>
+    <img id="MainWelcomePhoto" src="/images/Banner.jpg"></img>
   </div>
 
   <div className="bg-gray-700 w-full shadow-md font-indie">
@@ -260,9 +260,11 @@ return (
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Sunflowers.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Wedding_Scene.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Women_Scene.png"></img>
-        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Candy_Lang.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Disco.png"></img>
-        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Graveyard.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Graveyard.jpg"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Candy_Land.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/City_Background_.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
       </div>
     </div>
 {/* -------------------------------------------------------------------- */}
