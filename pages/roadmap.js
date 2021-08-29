@@ -25,7 +25,7 @@ return (
   </Head>
 
   <div className="" id="Art">
-    <img id="MainWelcomePhoto" src="/images/Welcome2.png"></img>
+    <img id="MainWelcomePhoto" src="/images/Banner.png"></img>
   </div>
 
   <div className="bg-gray-700 w-full shadow-md font-indie">
