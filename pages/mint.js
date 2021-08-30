@@ -137,6 +137,7 @@ return (
           <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
           <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
           <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
+          <a href="https://opensea.io/collection/theicecreamparlor" target="_blank" className=" hover:text-white m-6 text-blau">opensea</a>
         </nav>
       </div>
       <div className="w-11/12">
