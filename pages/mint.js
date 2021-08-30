@@ -128,7 +128,7 @@ return (
     </Head>
 
 
-    <div>
+    <div className="m-auto">
       <div className="flex items-center justify-between w-full shadow-lg pb-6 font-indie bg-gray-700">
         <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
           {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
@@ -139,7 +139,9 @@ return (
           <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
         </nav>       
       </div>
-
+      <div className="w-11/12">
+      <h1 className="text-center text-2xl md:text-8xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
+      </div>
       <div className="flex auth my-8 font-bold  justify-center items-center vw2">
         {!signedIn ? <button onClick={signIn} className="montserrat inline-block border-2 border-black bg-white border-opacity-100 no-underline py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Connect Wallet with Metamask</button>
         :
@@ -147,9 +149,9 @@ return (
       </div>
     </div>
 
-    <div className="md:w-2/3 w-4/5">
+    <div className="md:w-2/3 w-4/5 m-auto">
       <div className="mt-6 py-6">
-        <div className="flex flex-col items-center">
+        <div className="flex flex-col items-center mb-6">
           <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-blau text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
           <div id="mint" className="flex justify-around  mt-8 mx-6">
           <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
@@ -176,10 +178,6 @@ return (
       </div>
     </div>
 
-    <div className="flex flex-col items-center font-indie shadow-lg py-10 bg-gray-700">
-        {/* href="/mint" */}
-        <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-gray-500 rounded-lg text-white hover:text-black py-2 px-6 ">See More On Discord!</a>
-    </div>
 
     <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
         <div className="flex flex-col justify-between py-6 ">
