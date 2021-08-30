@@ -114,6 +114,13 @@ return (
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
           <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
         </div>
+
+        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">R</span>EWARDS AND <span className="text-3xl text-blau">RECIPES</span><span className="text-3xl">!</span></p>
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
+          <div className="md:hidden block"></div>
+          <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/Small.gif"></img>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="/roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
+        </div>
         
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
