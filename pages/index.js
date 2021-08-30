@@ -30,17 +30,10 @@ return (
   <div className="bg-gray-700 w-full shadow-md font-indie">
     <div className="flex items-center justify-between">
       <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
-<<<<<<< HEAD
-        <a href="/" className="hidden md:block text-white hover:text-black m-6">Home</a>
-        <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
-        <a href="https://theicecreamparlor.io/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
-        <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
-=======
         <a href="#" className="hidden md:block text-white hover:text-black m-6">Home</a>
         <a href="#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
         <a href="https://theicecreamparlor.io/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
         <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
->>>>>>> 18534715d0923ff8dacbe69ceb8707acacc17f37
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
         <a href="https://opensea.io/collection/theicecreamparlor" target="_blank" className=" hover:text-white m-6 text-blau">opensea</a>
@@ -127,11 +120,7 @@ return (
         <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
           <div className="md:hidden block"></div>
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/Small.gif"></img>
-<<<<<<< HEAD
-          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="https://theicecreamparlor.io/roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
-=======
           <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="#roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
->>>>>>> 18534715d0923ff8dacbe69ceb8707acacc17f37
         </div>
 
 
