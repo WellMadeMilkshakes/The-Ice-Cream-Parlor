@@ -75,7 +75,7 @@ export default function Mint() {
     const totalSupply = await coneContract.methods.totalSupply().call()
     setTotalSupply(totalSupply)
 
-    const conePrice = await coneContract.methods.CryptonadePrice().call()
+    const conePrice = await coneContract.methods.IcecreamConePrice().call()
     setConePrice(conePrice)
   }
   

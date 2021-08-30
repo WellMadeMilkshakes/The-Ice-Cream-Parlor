@@ -42,7 +42,7 @@ return (
   </div>
 
   <div id="Rewards" className="content-center font-pacifico">
-      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4">
+      <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4">
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">REWARDS</h2>
         
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">L</span>OYALTY <span className="text-3xl">C</span>ARDS <span className="text-3xl">!</span></p>
