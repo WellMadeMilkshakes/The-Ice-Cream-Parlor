@@ -30,9 +30,9 @@ return (
   <div className="bg-gray-700 w-full shadow-md font-indie">
     <div className="flex items-center justify-between">
       <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
-        <a href="/" className="hidden md:block text-white hover:text-black m-6">Home</a>
-        <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
-        <a href="/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="#" className="hidden md:block text-white hover:text-black m-6">Home</a>
+        <a href="#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
+        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
         <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
@@ -88,7 +88,7 @@ return (
       <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
 
       <div className="flex flex-col items-center font-indie shadow-lg py-10">
-        <a href="/roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
+        <a href="#roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
       </div>
 
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
@@ -119,7 +119,7 @@ return (
         <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
           <div className="md:hidden block"></div>
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/Small.gif"></img>
-          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="/roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="#roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
         </div>
 
 
