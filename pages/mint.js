@@ -152,9 +152,9 @@ return (
     <div className="w-4/5 m-auto bg-gray-700 mb-4 shadow-lg rounded-xl">
       <div className="mt-6 py-6">
         <div className="flex flex-col items-center mb-6">
-          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-blau text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
+          <span className="flex Poppitandfinchsans text-2xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-blau text-2xl md:text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
           <div id="mint" className="flex justify-around  mt-8 mx-6">
-          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
+          <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
           <input 
             type="number" 
             min="1"
@@ -162,15 +162,15 @@ return (
             value={how_many_cones}
             onChange={ e => set_how_many_cones(e.target.value) }
             name="" 
-            className="Poppitandfinchsans pl-4 text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
+            className="Poppitandfinchsans pl-4 text-3xl md:text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
           />
 
-          <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold"> CONES!</span>
+          <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold"> CONES!</span>
         </div>
 
             {saleStarted ? 
-            <button onClick={() => mintCone(how_many_cones)} className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
-              : <button className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
+            <button onClick={() => mintCone(how_many_cones)} className="mt-4 Poppitandfinchsans text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
+              : <button className="mt-4 Poppitandfinchsans text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
         
           }
                 
@@ -178,7 +178,7 @@ return (
       </div>
     </div>
 
-    <div className="w-4/5 m-auto grid gap-4 grid-cols-6 mb-10">
+    <div className="w-4/5 m-auto grid gap-4 grid-cols-3 md:grid-cols-6 mb-10">
       <div className="bg-gray-700 rounded-xl">
         <img className="rounded-xl shadow-2xl" src="/images/FastGIF.gif"></img>
       </div>
@@ -188,13 +188,13 @@ return (
       <div className="bg-gray-700 rounded-xl">
         <img className="rounded-xl shadow-2xl" src="/images/NewGIF.gif"></img>
       </div>
-      <div className="bg-gray-700 rounded-xl">
+      <div className="bg-gray-700 rounded-xl hidden md:block">
         <img className="rounded-xl shadow-2xl" src="/images/FastGIF.gif"></img>
       </div>
-      <div className="bg-gray-700 rounded-xl">
+      <div className="bg-gray-700 rounded-xl hidden md:block">
         <img className="rounded-xl shadow-2xl" src="/images/PirateGIF.gif"></img>
       </div>
-      <div className="bg-gray-700 rounded-xl">
+      <div className="bg-gray-700 rounded-xl hidden md:block">
         <img className="rounded-xl shadow-2xl" src="/images/Medium.gif"></img>
       </div>
     </div>
