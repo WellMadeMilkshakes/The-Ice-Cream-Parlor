@@ -32,7 +32,7 @@ return (
 
     <div className="flex items-center justify-between">
       <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
-        <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">Home</a>
+        <a href="https://theicecreamparlor.io" className="text-white hover:text-black m-6">Home</a>
         <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
         <a href="https://theicecreamparlor.io/roadmap" className="hidden md:block text-white hover:text-black m-6">Roadmap</a>
         <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
