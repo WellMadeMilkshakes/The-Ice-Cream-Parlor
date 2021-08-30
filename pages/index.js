@@ -32,8 +32,8 @@ return (
       <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
         <a href="#" className="hidden md:block text-white hover:text-black m-6">Home</a>
         <a href="#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
-        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
-        <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
+        <a href="https://theicecreamparlor.io/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
@@ -88,7 +88,7 @@ return (
       <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
 
       <div className="flex flex-col items-center font-indie shadow-lg py-10">
-        <a href="#roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
+        <a href="https://theicecreamparlor.io/roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
       </div>
 
       <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
