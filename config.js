@@ -1,7 +1,7 @@
 
 // GET YOUR INFURA API ENDPOINT FROM https://infura.io/
 export const INFURA_ADDRESS = ""
-export const ADDRESS = "0xd1D75E521e357C3736a919e8Bf99BC2991EE2EDF" // TEST CONTRACT
+export const ADDRESS = "0xDAB8bb5cABAb51A82A89b179f7BC8bEFeFd27DF3" // TEST CONTRACT
 
 export const ABI = [
 	{"inputs": [], "stateMutability": "nonpayable", "type": "constructor"}, {

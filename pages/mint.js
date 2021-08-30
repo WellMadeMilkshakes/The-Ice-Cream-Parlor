@@ -80,17 +80,17 @@ export default function Mint() {
   }
   
   async function mintCone(how_many_cones) {
-    if (conesContract) {
+    if (coneContract) {
  
-      const price = Number(conesPrice)  * how_many_cones
+      const price = Number(conePrice)  * how_many_cones
 
-      const gasAmount = await coneContract.methods.mintCone(how_many_cones).estimateGas({from: walletAddress, value: price})
+      const gasAmount = await coneContract.methods.mintIcecreamCones(how_many_cones).estimateGas({from: walletAddress, value: price})
       console.log("estimated gas",gasAmount)
 
       console.log({from: walletAddress, value: price})
 
       coneContract.methods
-            .mintCone(how_many_cones)
+            .mintIcecreamCones(how_many_cones)
             .send({from: walletAddress, value: price, gas: String(gasAmount)})
             .on('transactionHash', function(hash){
               console.log("transactionHash", hash)
@@ -148,7 +148,7 @@ return (
     </div>
 
     <div className="md:w-2/3 w-4/5">
-      <div className="mt-6 border-b-2 py-6">
+      <div className="mt-6 py-6">
         <div className="flex flex-col items-center">
           <span className="flex Poppitandfinchsans text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-blau text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
           <div id="mint" className="flex justify-around  mt-8 mx-6">
