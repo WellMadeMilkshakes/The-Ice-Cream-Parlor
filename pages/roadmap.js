@@ -31,53 +31,56 @@ return (
   <div className="bg-gray-700 w-full shadow-md font-indie">
 
     <div className="flex items-center justify-between">
-      <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
-        {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
+      <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
         <a href="/" className="text-white hover:text-black m-6">Home</a>
+        <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
+        <a href="/roadmap" className="hidden md:block text-white hover:text-black m-6">Roadmap</a>
+        <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
-      {/* <a href="/" className=""><img src="/images/Ice_Cream_gif.gif" width="240" alt="" className="logo-image" /></a> */}
     </div>
   </div>
 
+
   <div id="Rewards" className="content-center font-pacifico">
-      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4">
+    <div className="w-11/12 m-auto mb-10">
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">REWARDS</h2>
-        
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">L</span>OYALTY <span className="text-3xl">C</span>ARDS <span className="text-3xl">!</span></p>
-        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-500 rounded-3xl p-4 shadow-lg">
-          <div className="md:hidden block"></div>
-          <img className="rounded-full shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
-          <div className="col-span-4">
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-700 rounded-3xl p-4 shadow-lg">
+            <div className="md:hidden block"></div>
+            <img className="rounded-full col-span-2 md:col-span-1" src="/images/Loyalty_Card.png"></img>
+            <div className="col-span-4">
             <p className="text-2xl text-white text-center md:text-left my-6">This reward is the perfect gift to those who came to add a cone to their collection and who support the community one cone at a time!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Hold 1 cone to get a loyalty card NFT!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Each loyalty card will allow you to use the <span className="underline">Ice Cream Factory</span> 4 times!</p>
-          </div>
+            </div>
         </div>
 
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">I</span>CE <span className="text-3xl">C</span>REAM <span className="text-3xl">S</span>TANDS<span className="text-3xl">!</span></p>
-        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-500 rounded-3xl p-4 shadow-lg">
-          <div className="md:hidden block"></div>
-          <img className="rounded-full shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
-          <div className="col-span-4">
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-700 rounded-3xl p-4 shadow-lg">
+            <div className="md:hidden block"></div>
+            <img className="rounded-full col-span-2 md:col-span-1" src="/images/Cart.png"></img>
+            <div className="col-span-4">
             <p className="text-2xl text-white text-center md:text-left my-6">This is the perfect reward for the NFT investor! This package is perfect for those who want to flip NFTs, as well as collect a few on the way!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Hold 6 cones to get an ice cream cart NFT!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Each ice cream cart will allow you to use the <span className="underline">Ice Cream Factory</span> 8 times!</p>
-          </div>
+            </div>
         </div>
 
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">I</span>CE <span className="text-3xl">C</span>REAM <span className="text-3xl">T</span>RUCKS<span className="text-3xl">!</span></p>
-        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-500 rounded-3xl p-4 shadow-lg">
-          <div className="md:hidden block"></div>
-          <img className="rounded-full shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
-          <div className="col-span-4">
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-700 rounded-3xl p-4 shadow-lg">
+            <div className="md:hidden block"></div>
+            <img className="rounded-full col-span-2 md:col-span-1" src="/images/Truck.png"></img>
+            <div className="col-span-4">
             <p className="text-2xl text-white text-center md:text-left my-6">Our ice cream trucks were made for only the most serious investors. Those who fully believe in the #coneStandard and want to spread the joy and love to as many inner fat kids as possible!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Hold 15 cones to get yourself an ice cream truck NFT!</p>
             <p className="text-2xl text-white text-center md:text-left my-6">- Each ice cream truck will allow you to use the <span className="underline">Ice Cream Factory</span> 15 times!</p>
-          </div>
+            </div>
         </div>
-        
+    </div>
+
+      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">RECIPES</h2>
 
