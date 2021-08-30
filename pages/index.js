@@ -24,7 +24,7 @@ return (
   </Head>
 
   <div className="" id="Art">
-    <img id="MainWelcomePhoto" src="/images/Welcome2.png"></img>
+    <img id="MainWelcomePhoto" src="/images/Banner.jpg"></img>
   </div>
 
   <div className="bg-gray-700 w-full shadow-md font-indie">
@@ -260,26 +260,29 @@ return (
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Sunflowers.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Wedding_Scene.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Women_Scene.png"></img>
-        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/IceCreamTruck.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Disco.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Graveyard.jpg"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Candy_Land.png"></img>
+        <img className="rounded-md shadow-md col-span-2" src="/images/gallery/City_Background_.png"></img>
         <img className="rounded-md shadow-md col-span-2" src="/images/gallery/Locked.jpg"></img>
       </div>
     </div>
 {/* -------------------------------------------------------------------- */}
 
-          <div className="flex flex-col items-center font-indie shadow-lg py-10 bg-gray-700">
-            {/* href="/mint" */}
-            <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-gray-500 rounded-lg text-white hover:text-black py-2 px-6 ">See More On Discord!</a>
-          </div>
+      <div className="flex flex-col items-center font-indie shadow-lg py-10 bg-gray-700">
+        {/* href="/mint" */}
+        <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-gray-500 rounded-lg text-white hover:text-black py-2 px-6 ">See More On Discord!</a>
+      </div>
 
-          <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
-            <div className="flex flex-col justify-between py-6 ">
-              <h2 className="text-blau text-3xl text-center font-indie">We'd Love to Hear From You!</h2>
-              <p className="text-xl text-white my-6 montserrat">Reach out to us on Twitter <a className="text-blau underline font-bold" target="_blank" href="https://twitter.com/IceCreamNFT">@theIceCreamParlor</a><br/> 
-              Or alternatively, join our <a className="text-bla underline font-bold" target="_blank" href="https://discord.com/channels/876818020633313290/876819378623086624">Discord Server</a>.
-              </p>
-            </div>
-          </div>   
-      </div>  
-    </div>  
-    )
-  }
+      <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
+        <div className="flex flex-col justify-between py-6 ">
+          <h2 className="text-blau text-3xl text-center font-indie">We'd Love to Hear From You!</h2>
+          <p className="text-xl text-white my-6 montserrat">Reach out to us on Twitter <a className="text-blau underline font-bold" target="_blank" href="https://twitter.com/IceCreamNFT">@theIceCreamParlor</a><br/> 
+          Or alternatively, join our <a className="text-bla underline font-bold" target="_blank" href="https://discord.com/channels/876818020633313290/876819378623086624">Discord Server</a>.
+          </p>
+        </div>
+      </div>   
+  </div>  
+</div>  
+)
+}
