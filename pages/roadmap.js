@@ -80,7 +80,7 @@ return (
         </div>
     </div>
 
-      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
+      <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">RECIPES</h2>
 

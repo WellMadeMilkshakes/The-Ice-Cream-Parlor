@@ -91,7 +91,7 @@ return (
         <a href="#roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
       </div>
 
-      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
+      <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
         <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space!  
