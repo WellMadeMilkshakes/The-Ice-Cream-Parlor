@@ -29,15 +29,14 @@ return (
 
   <div className="bg-gray-700 w-full shadow-md font-indie">
     <div className="flex items-center justify-between">
-      <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
-        {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
-        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
-        <a href="#team" className=" text-white hover:text-black m-6">Team</a>
-        <a href="#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
+      <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
+        <a href="/" className="hidden md:block text-white hover:text-black m-6">Home</a>
+        <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
+        <a href="/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
-      {/* <a href="/" className=""><img src="/images/Ice_Cream_gif.gif" width="240" alt="" className="logo-image" /></a> */}
     </div>
   </div>
 
@@ -77,7 +76,7 @@ return (
         
           <div className="flex flex-col items-center font-indie mt-10">
             {/* href="/mint" */}
-            <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Come Visit Discord!</a>
+            <a href="/mint" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">MINT!</a>
           </div>
       </div>
     </div>
@@ -85,9 +84,14 @@ return (
 {/* -------------------------------------------------------------------- */}
 
     <div id="roadmap" className="content-center">
-      <img id="roadmap-img" className="pb-8 hidden md:block" src="/images/RoadmapNew.png"/>
-      <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/RoadmapMobileNew.png"/>
-      <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
+      <img id="roadmap-img" className="p-8 hidden md:block" src="/images/FinalMap.png"/>
+      <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
+
+      <div className="flex flex-col items-center font-indie shadow-lg py-10">
+        <a href="/roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
+      </div>
+
+      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
         <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space!  
@@ -110,7 +114,14 @@ return (
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/gallery/Double-Cone-Sneak-Peak.png"></img>
           <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">We are pushing the industry by having an 8% chance when you mint you will get <span className="underline">TWO cones in one photo</span> instead of just one. Double cone photos coming to the ART GALLERY soon!</p>
         </div>
-        
+
+        <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">R</span>EWARDS AND <span className="text-3xl text-blau">RECIPES</span><span className="text-3xl">!</span></p>
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
+          <div className="md:hidden block"></div>
+          <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/Small.gif"></img>
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="/roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
+        </div>
+
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
 
