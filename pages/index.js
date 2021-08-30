@@ -143,7 +143,7 @@ return (
         </p>
         <p className="text-2xl text-white text-center my-6">This is the new standard of NTFs! Let's raise a cone to that!</p>
 
-        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GUARENTEE</h2>
+        <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR GUARANTEE</h2>
         <p className="text-2xl text-white text-center my-6">We are in this for the long run!
         </p>
         <p className="text-2xl text-white text-center my-6">Our plan is to do a slow drop. Why over excite the market and jack up gas prices for no reason?
