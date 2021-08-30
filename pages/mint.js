@@ -129,15 +129,15 @@ return (
 
 
     <div className="m-auto">
-      <div className="flex items-center justify-between w-full shadow-lg pb-6 font-indie bg-gray-700">
-        <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
-          {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
-          <a href="https://theicecreamparlor.io/#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
-          <a href="https://theicecreamparlor.io/#team" className=" text-white hover:text-black m-6">Team</a>
-          <a href="https://theicecreamparlor.io/#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
+      <div className="flex items-center justify-between bg-gray-700">
+        <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
+          <a href="/" className="text-white hover:text-black m-6">Home</a>
+          <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
+          <a href="/roadmap" className="hidden md:block text-white hover:text-black m-6">Roadmap</a>
+          <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
           <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
           <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
-        </nav>       
+        </nav>
       </div>
       <div className="w-11/12">
       <h1 className="text-center text-2xl md:text-8xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>

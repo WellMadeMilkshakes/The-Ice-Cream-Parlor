@@ -84,8 +84,13 @@ return (
 {/* -------------------------------------------------------------------- */}
 
     <div id="roadmap" className="content-center">
-      <img id="roadmap-img" className="pb-8 hidden md:block" src="/images/RoadmapNew.png"/>
-      <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/RoadmapMobileNew.png"/>
+      <img id="roadmap-img" className="p-8 hidden md:block" src="/images/FinalMap.png"/>
+      <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
+
+      <div className="flex flex-col items-center font-indie shadow-lg py-10">
+        <a href="/roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
+      </div>
+
       <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>

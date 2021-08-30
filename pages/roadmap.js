@@ -44,7 +44,7 @@ return (
 
 
   <div id="Rewards" className="content-center font-pacifico">
-    <div className="w-11/12 m-auto mb-10">
+    <div className="w-9/12 m-auto mb-10">
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">REWARDS</h2>
         <p className="text-xl text-white text-center my-6 font-indie animate-pulse"><span className="text-3xl">L</span>OYALTY <span className="text-3xl">C</span>ARDS <span className="text-3xl">!</span></p>
         <div className="grid grid-cols-4 gap-4 md:grid-cols-5 bg-gray-700 rounded-3xl p-4 shadow-lg">
@@ -103,10 +103,8 @@ return (
       </div>
     </div>
 
-
-    <div className="flex flex-col items-center font-indie shadow-lg py-10 bg-gray-700">
-        {/* href="/mint" */}
-        <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-gray-500 rounded-lg text-white hover:text-black py-2 px-6 ">See More On Discord!</a>
+    <div className="flex flex-col items-center font-indie py-10 bg-gray-700">
+        <a href="/mint" className="animate-bounce shadow-lg Poppitandfinchsans text-3xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">MINT!</a>
     </div>
 
     <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
