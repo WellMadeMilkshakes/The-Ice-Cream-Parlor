@@ -30,12 +30,20 @@ return (
   <div className="bg-gray-700 w-full shadow-md font-indie">
     <div className="flex items-center justify-between">
       <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
+<<<<<<< HEAD
         <a href="/" className="hidden md:block text-white hover:text-black m-6">Home</a>
         <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
         <a href="https://theicecreamparlor.io/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
         <a href="/mint" className="text-white hover:text-black m-6">MINT!</a>
+=======
+        <a href="#" className="hidden md:block text-white hover:text-black m-6">Home</a>
+        <a href="#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
+        <a href="https://theicecreamparlor.io/roadmap" className="text-white hover:text-black m-6">Roadmap</a>
+        <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
+>>>>>>> 18534715d0923ff8dacbe69ceb8707acacc17f37
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
+        <a href="https://opensea.io/collection/theicecreamparlor" target="_blank" className=" hover:text-white m-6 text-blau">opensea</a>
       </nav>
     </div>
   </div>
@@ -45,7 +53,7 @@ return (
 {/* -------------------------------------------------------------------- */}
     
 
-    <div class="w-11/12 md:w-10/12 m-auto mt-10">
+    <div className="w-11/12 md:w-10/12 m-auto mt-10">
       <div id="countdown" className="p-0 content-center my-8">
         <div className="flex flex-wrap lg:flex-nowrap justify-around items-center mt-8">
           <div className="items-center justify-center">
@@ -56,8 +64,8 @@ return (
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
                 <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new standard of NFTs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
                 <div className="pl-auto">
-                  <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw256/szh108/iso2021-08-30T20:00:00" allowtransparency="true" frameborder="0" width="228" height="65"></iframe>
-                  <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw576/szh243/iso2021-08-30T20:00:00" allowtransparency="true" frameborder="0" width="514" height="146"></iframe>
+                  <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw256/szh108/iso2021-08-30T20:00:00" allowtransparency="true" frameBorder="0" width="228" height="65"></iframe>
+                  <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw576/szh243/iso2021-08-30T20:00:00" allowtransparency="true" frameBorder="0" width="514" height="146"></iframe>
                 </div>
                 <p className="text-2xl text-gray-200 my-6">
                   <strong>LAUNCH DATE:</strong> Monday the 30th of August 2021, 8pm EST. <br />‍
@@ -91,7 +99,7 @@ return (
         <a href="https://theicecreamparlor.io/roadmap" className="animate-bounce shadow-lg Poppitandfinchsans text-4xl border-6 bg-blau rounded-lg text-white hover:text-black py-2 px-6 ">Read More!</a>
       </div>
 
-      <div class="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
+      <div className="px-10 md:px-40 bg-gray-700 shadow-lg p-4 rounded-t-3xl">
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">OUR VISION</h2>
         <p className="text-2xl text-white text-center my-6"> Simple. Our vision is to push the industry in the NFT space!  
@@ -119,9 +127,13 @@ return (
         <div className="grid grid-cols-4 gap-4 md:grid-cols-5">
           <div className="md:hidden block"></div>
           <img className="rounded-md shadow-md col-span-2 md:col-span-1" src="/images/Small.gif"></img>
+<<<<<<< HEAD
           <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="https://theicecreamparlor.io/roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
+=======
+          <p className="text-2xl text-white text-center md:text-left my-6 col-span-4">After sell out we will be airdropping recipes to our cone holders! With your recipes in hand you will get access to the <a href="#roadmap" className="text-blau underline">Ice Cream Factory</a>! A place where you can mix and match recipes to change you existing cones in all kinds of cute and crazy ways!</p>
+>>>>>>> 18534715d0923ff8dacbe69ceb8707acacc17f37
         </div>
-        
+
 
         <h2 className="text-4xl md:text-6xl text-center text-gray-200 font-frederick my-4">GIVING BACK</h2>
 
@@ -170,9 +182,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Jasmine.jpg"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-pacifico font-medium">Jasmine</p>
-              <p class="font-pacifico">Art Director</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/FlowerConeNFT">@FlowerConeNFT</a>
+              <p className="text-xl font-pacifico font-medium">Jasmine</p>
+              <p className="font-pacifico">Art Director</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/FlowerConeNFT">@FlowerConeNFT</a>
             </div>
           </div>
 
@@ -181,9 +193,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Pirate.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">thepirateking</p>
-              <p class="">Community Admin</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/NFTPirateKing">@NFTPirateKing</a>
+              <p className="text-xl font-medium">thepirateking</p>
+              <p className="">Community Admin</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/NFTPirateKing">@NFTPirateKing</a>
             </div>
           </div>
 
@@ -192,10 +204,10 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hippie.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">wellMadeMilkshakes</p>
-              <p class="">Project Development</p>
-              <p class="">Front End Developer</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/wellMadeShakes">@wellMadeShakes</a>
+              <p className="text-xl font-medium">wellMadeMilkshakes</p>
+              <p className="">Project Development</p>
+              <p className="">Front End Developer</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/wellMadeShakes">@wellMadeShakes</a>
             </div>
           </div>  
 
@@ -204,9 +216,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Mummy.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">TheScoopy1</p>
-              <p class="">Marketing</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
+              <p className="text-xl font-medium">TheScoopy1</p>
+              <p className="">Marketing</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
             </div>
           </div> 
 
@@ -219,9 +231,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Abby.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">Abby</p>
-              <p class="">Senior Artist</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
+              <p className="text-xl font-medium">Abby</p>
+              <p className="">Senior Artist</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
             </div>
           </div>
 
@@ -230,9 +242,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hoodie.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">Shaphan</p>
-              <p class="">Consultant</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
+              <p className="text-xl font-medium">Shaphan</p>
+              <p className="">Consultant</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
             </div>
           </div>
 
@@ -241,9 +253,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Astronaut.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">MetaverseMogul</p>
-              <p class="">Developer</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
+              <p className="text-xl font-medium">MetaverseMogul</p>
+              <p className="">Developer</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
             </div>
           </div>
 
@@ -252,9 +264,9 @@ return (
               <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Shark.png"></img>
             </div>
             <div className="description col-span-2">
-              <p class="text-xl font-medium">BennaginsETH</p>
-              <p class="">Developer</p>
-              <a class="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
+              <p className="text-xl font-medium">BennaginsETH</p>
+              <p className="">Developer</p>
+              <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
             </div>
           </div>
 

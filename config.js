@@ -1,10 +1,10 @@
 
 // GET YOUR INFURA API ENDPOINT FROM https://infura.io/
 export const INFURA_ADDRESS = "https://mainnet.infura.io/v3/4c10bb441a3d45d19143c54df642fee4"
-export const ADDRESS = "0xDAB8bb5cABAb51A82A89b179f7BC8bEFeFd27DF3" // TEST CONTRACT
+export const ADDRESS = "0xf5618B3751641b16EEF76DE36e3bF63e42fb2733" // CONTRACT
+// export const ADDRESS = "0xd9E4A7fe9dfe54c8582955B59f725bb745183e93" // TEST CONTRACT
 
-export const ABI = [
-	{"inputs": [], "stateMutability": "nonpayable", "type": "constructor"}, {
+export const ABI = [{"inputs": [], "stateMutability": "nonpayable", "type": "constructor"}, {
 	"anonymous": false,
 	"inputs": [{"indexed": true, "internalType": "address", "name": "owner", "type": "address"}, {
 		"indexed": true,
@@ -46,7 +46,7 @@ export const ABI = [
 	"type": "event"
 }, {
 	"inputs": [],
-	"name": "CryptonadePrice",
+	"name": "IcecreamConePrice",
 	"outputs": [{"internalType": "uint256", "name": "", "type": "uint256"}],
 	"stateMutability": "view",
 	"type": "function"
@@ -98,7 +98,7 @@ export const ABI = [
 	"type": "function"
 }, {
 	"inputs": [],
-	"name": "maxCryptonadePurchase",
+	"name": "maxIcecreamConePurchase",
 	"outputs": [{"internalType": "uint256", "name": "", "type": "uint256"}],
 	"stateMutability": "view",
 	"type": "function"
