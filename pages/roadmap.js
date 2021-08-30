@@ -33,9 +33,7 @@ return (
     <div className="flex items-center justify-between">
       <nav className="ml-4 md:ml-10 flex flex-wrap flex-row text-xl md:text-4xl">
         {/* <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a> */}
-        <a href="#roadmap" className="text-white hover:text-black m-6">Roadmap</a>
-        <a href="#team" className=" text-white hover:text-black m-6">Team</a>
-        <a href="#Gallery" className=" hidden md:block text-white hover:text-black m-6">Gallery</a>
+        <a href="/" className="text-white hover:text-black m-6">Home</a>
         <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
         <a href="https://discord.com/channels/876818020633313290/876819378623086624" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
       </nav>
