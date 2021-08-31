@@ -55,10 +55,9 @@ return (
             <div className="grid gap-4 sm:grid-cols-0 md:grid-cols-5">
 
               <div className="col-span-1 md:col-span-3 shadow-lg rounded-lg bg-gray-700 p-6">
-                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new standard of NFTs, we can't wait to see you all show your cones with pride! Relax! You've made it and the party starts soon!</h2>
-                <div className="pl-auto">
-                  <iframe className="block md:hidden" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw256/szh108/iso2021-08-30T20:00:00" allowtransparency="true" frameBorder="0" width="228" height="65"></iframe>
-                  <iframe className="hidden md:block" src="https://free.timeanddate.com/countdown/i7ybsbfz/n1170/cf12/cm0/cu4/ct2/cs1/ca0/co0/cr0/ss0/caceee/cpc900/pct/tcfff/fn3/fs300/szw576/szh243/iso2021-08-30T20:00:00" allowtransparency="true" frameBorder="0" width="514" height="146"></iframe>
+                <h2 className="text-3xl text-gray-200 mt-3">Welcome to the new standard of NFTs, we love to see you all show your cones with pride! Thank you all for a smooth launch!</h2>
+                <div className="m-auto p-auto mt-3">
+                  <a href="https://theicecreamparlor.io/mint" className="font-indie mt-3 text-3xl text-blau text-center">MINTING NOW OPEN</a>
                 </div>
                 <p className="text-2xl text-gray-200 my-6">
                   <strong>LAUNCH DATE:</strong> Monday the 30th of August 2021, 8pm EST. <br />‍
