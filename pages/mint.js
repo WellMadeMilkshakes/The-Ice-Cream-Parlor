@@ -130,8 +130,8 @@ return (
     <div className="bg-porple" id="MintNow">
       <img src="/images/new/FROSTING_1.png"></img>
 
-      <div className="grid grid-cols-5 gap-4 w-9/12 m-auto absolute top-0">
-        <a className="col-span-1 m-3 hover:m-0" href="/">
+      <div className="grid grid-cols-5 gap-4 w-9/12 m-auto absolute top-0 pb-5">
+        <a className="col-span-2 md:col-span-1 m-3 hover:m-0" href="/">
           <img src="/images/new/home.png"></img>
         </a>
       </div>
