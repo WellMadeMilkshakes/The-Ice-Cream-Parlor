@@ -127,90 +127,53 @@ return (
       <meta name="twitter:image" content="https://theicecreamparlor/images/profile/Hippie.png" key="twimage" />
     </Head>
 
+    <div className="bg-porple" id="MintNow">
+      <img src="/images/new/FROSTING_1.png"></img>
 
-    <div className="m-auto">
-      <div className="flex items-center justify-between bg-gray-700">
-        <nav className="m-auto flex flex-wrap flex-row text-xl md:text-4xl">
-          <a href="https://theicecreamparlor.io" className="text-white hover:text-black m-6">Home</a>
-          <a href="https://theicecreamparlor.io/#team" className="hidden md:block text-white hover:text-black m-6">Team</a>
-          <a href="https://theicecreamparlor.io/roadmap" className="hidden md:block text-white hover:text-black m-6">Roadmap</a>
-          <a href="https://theicecreamparlor.io/mint" className="text-white hover:text-black m-6">MINT!</a>
-          <a href="https://twitter.com/IceCreamNFT" target="_blank" className=" hover:text-white m-6 text-blau">twitter</a>
-          <a href="https://discord.com/invite/BhYadTj2KD" target="_blank" className=" hover:text-white m-6 text-blau">discord</a>
-          <a href="https://opensea.io/collection/theicecreamparlor" target="_blank" className=" hover:text-white m-6 text-blau">opensea</a>
-        </nav>
+      <div className="grid grid-cols-5 gap-4 w-9/12 m-auto absolute top-0">
+        <a className="col-span-1 m-3 hover:m-0" href="/">
+          <img src="/images/new/home.png"></img>
+        </a>
       </div>
-      <div className="w-11/12">
-      <h1 className="text-center text-2xl md:text-8xl my-10 text-white font-indie text-blau">THE ICE CREAM PARLOR</h1>
-      </div>
-      <div className="flex auth my-8 font-bold  justify-center items-center vw2">
-        {!signedIn ? <button onClick={signIn} className="montserrat inline-block rounded bg-white border-opacity-100 no-underline py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">Connect Wallet with Metamask</button>
+
+      <div className="flex auth my-8 font-arial justify-center items-center vw2">
+        {!signedIn ? <button onClick={signIn} className="text-porple inline-block rounded bg-white border-opacity-100 no-underline py-2 px-4 mx-4 shadow-lg hover:bg-blue-500 hover:text-gray-100">connect to metamask</button>
         :
-        <button onClick={signOut} className="text-w montserrat inline-block rounded no-underline p-6 px-4 mx-4 shadow-lg bg-blue-500 hover:bg-blue-400 text-gray-100">Wallet Connected: {walletAddress}</button>}
+        <button onClick={signOut} className="text-w inline-block rounded no-underline p-6 px-4 mx-4 shadow-lg bg-blue-500 hover:bg-blue-400 text-gray-100">Wallet Connected: {walletAddress}</button>}
       </div>
-    </div>
 
-    <div className="w-4/5 m-auto bg-gray-700 mb-4 shadow-lg rounded-xl">
-      <div className="mt-6 py-6">
-        <div className="flex flex-col items-center mb-6">
-          <span className="flex Poppitandfinchsans text-2xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-blau text-2xl md:text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
-          <div id="mint" className="flex justify-around  mt-8 mx-6">
-          <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
-          <input 
-            type="number" 
-            min="1"
-            max="20"
-            value={how_many_cones}
-            onChange={ e => set_how_many_cones(e.target.value) }
-            name="" 
-            className="Poppitandfinchsans pl-4 text-3xl md:text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
-          />
+      <div className="w-4/5 m-auto bg-mint mb-4 shadow-lg rounded-xl">
+        <div className="mt-6 py-6">
+          <div className="flex flex-col items-center mb-6">
+            <span className="flex Poppitandfinchsans text-2xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none my-4 ">TOTAL CONES MINTED: &nbsp;<span className="text-white font-arial text-2xl md:text-6xl"> {!signedIn ?  <>-</>  :  <>{totalSupply}</> } / 8888</span></span>
+            <div id="mint" className="flex justify-around  mt-8 mx-6">
+              <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold">GIMME</span>
+              <input 
+                type="number" 
+                min="1"
+                max="20"
+                value={how_many_cones}
+                onChange={ e => set_how_many_cones(e.target.value) }
+                name="" 
+                className="Poppitandfinchsans pl-4 text-3xl md:text-4xl inline bg-grey-lighter py-2 rounded text-grey-darkest font-bold"
+              />
 
-          <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold"> CONES!</span>
-        </div>
+              <span className="flex Poppitandfinchsans text-3xl md:text-5xl text-white items-center bg-grey-lighter rounded rounded-r-none px-3 font-bold"> CONES!</span>
+            </div>
 
             {saleStarted ? 
-            <button onClick={() => mintCone(how_many_cones)} className="mt-4 Poppitandfinchsans text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
-              : <button className="mt-4 Poppitandfinchsans text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
+            <button onClick={() => mintCone(how_many_cones)} className="mt-4 font-arial text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
+              : <button className="mt-4 font-arial text-xl md:text-2xl border-6 bg-punk rounded-lg text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
         
-          }
-                
-        </div> 
-      </div>
-    </div>
-
-    <div className="w-4/5 m-auto grid gap-4 grid-cols-3 md:grid-cols-6 mb-10">
-      <div className="bg-gray-700 rounded-xl">
-        <img className="rounded-xl shadow-2xl" src="/images/FastGIF.gif"></img>
-      </div>
-      <div className="bg-gray-700 rounded-xl">
-        <img className="rounded-xl shadow-2xl" src="/images/Small.gif"></img>
-      </div>
-      <div className="bg-gray-700 rounded-xl">
-        <img className="rounded-xl shadow-2xl" src="/images/NewGIF.gif"></img>
-      </div>
-      <div className="bg-gray-700 rounded-xl hidden md:block">
-        <img className="rounded-xl shadow-2xl" src="/images/FastGIF.gif"></img>
-      </div>
-      <div className="bg-gray-700 rounded-xl hidden md:block">
-        <img className="rounded-xl shadow-2xl" src="/images/PirateGIF.gif"></img>
-      </div>
-      <div className="bg-gray-700 rounded-xl hidden md:block">
-        <img className="rounded-xl shadow-2xl" src="/images/Medium.gif"></img>
-      </div>
-    </div>
-
-
-    <div id="contact" className="flex flex-wrap justify-around items-center bg-gray-900 py-6">
-        <div className="flex flex-col justify-between py-6 ">
-            <h2 className="text-blau text-3xl text-center font-indie">We'd Love to Hear From You!</h2>
-            <p className="text-xl text-white my-6 montserrat">Reach out to us on Twitter <a className="text-blau underline font-bold" target="_blank" href="https://twitter.com/IceCreamNFT">@theIceCreamParlor</a><br/> 
-            Or alternatively, join our <a className="text-bla underline font-bold" target="_blank" href="https://discord.com/invite/BhYadTj2KD">Discord Server</a>.
-            </p>
+            }
+                  
+          </div> 
         </div>
-    </div> 
+      </div>
 
+      <img src="/images/new/FROSTING_2.png"></img>
 
+    </div>
   </div>  
   )
 }
