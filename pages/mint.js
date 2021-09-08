@@ -162,7 +162,7 @@ return (
             </div>
 
             {saleStarted ? 
-            <button onClick={() => mintCone(how_many_cones)} className="mt-4 font-arial text-xl md:text-4xl border-6 bg-blau  text-white hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
+            <button onClick={() => mintCone(how_many_cones)} className="mt-4 font-arial text-xl md:text-4xl border-6 bg-white text-porple rounded-lg hover:text-black p-2 ">MINT {how_many_cones} Cones for {(conePrice * how_many_cones) / (10 ** 18)} ETH + GAS</button>
               : <button className="mt-4 font-arial text-xl md:text-2xl border-6 bg-punk rounded-lg text-white hover:text-black p-2 ">SALE IS NOT ACTIVE OR NO WALLET IS CONNECTED</button>        
         
             }
