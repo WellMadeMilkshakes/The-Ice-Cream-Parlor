@@ -90,9 +90,14 @@ return (
     <img src="/images/new/FROSTING_2_FLIP.png"></img>
   </div>
 
-  <div className="h-screen bg-white" id="Scoop">
+  <div className="bg-white" id="Scoop">
     <h1 className="text-center text-mint text-5xl md:text-8xl py-5 font-arial">THE SCOOP</h1>
-    <p className="text-mint text-lg text-center">Coming very soon!</p>
+    <p className="text-mint text-lg text-center w-8/12 m-auto">Once upon a scoop, in a bucket not too far away in the land 
+    of freezers. There was a cone who aspired to be more than just cream in a box. With determination and 
+    extreme force, our hero became the scoop of ice cream that they wanted to be. With their goal accomplished 
+    they aspired to spread their happiness to the world. One scoop at a time. As he saves up for their ice cream 
+    truck, the word begins to spread across the opensea about their fame and idea to start their own icecream 
+    factory! Join them in their epic quest to find all the legendary flavors and toppings across the world!</p>
   </div>
 
   <div className="bg-punk text-white" id="Team">
