@@ -27,7 +27,7 @@ return (
 
     <div className="grid gap-4 grid-cols-6 w-11/12 m-auto">
 
-      <div className="col-span-3 my-auto text-white text-6xl">
+      <div className="col-span-3 my-auto text-white text-xl md:text-6xl">
         <h2 className="font-indie">THE ICE CREAM PARLOR</h2>
       </div>
 
@@ -60,14 +60,14 @@ return (
   <div className="bg-porple" id="MintNow">
     <img src="/images/new/FROSTING_1.png"></img>
 
-    <div className="grid gap-9 grid-cols-2 w-9/12 mx-auto mt-10">
+    <div className="grid gap-9 grid-cols-1 md:grid-cols-2 w-9/12 mx-auto mt-10">
 
       <div className="col-span-1 rounded-3xl border-8 border-white bg-gray-200">
         <img className="rounded-3xl" src="/images/new/nobg.gif"></img>
       </div>
 
       <div className="mt-10 col-span-1 mx-auto">
-        <a href="/mint" className="font-arial shadow-lg Poppitandfinchsans text-7xl bg-white rounded-2xl text-mint py-2 px-6 hover:bg-gray-200">MINT NOW</a>
+        <a href="/mint" className="font-arial shadow-lg Poppitandfinchsans text-3xl md:text-7xl bg-white rounded-2xl text-mint py-2 px-6 hover:bg-gray-200">MINT NOW</a>
         <p className="text-white text-2xl pt-10 text-center">The Ice Cream Parlor is a collection of 8,888 generated ice cream cones on the Ethereum blockchain. Come stuff your face with 200 plus unique traits! Join us on our mission to bring communities together one ice cream cone at a time! We scream, you scream, we all scream for ice cream!</p>
       </div>
 
@@ -79,7 +79,7 @@ return (
   <div className="bg-mint" id="Roadmap">
     <img src="/images/new/FROSTING_1_FLIP.png"></img>
 
-    <h1 className="text-center text-white text-8xl pt-5 font-arial m-auto">ROADMAP</h1>
+    <h1 className="text-center text-white text-4xl md:text-8xl pt-5 font-arial m-auto">ROADMAP</h1>
     <img id="roadmap-img" className="p-8 hidden md:block" src="/images/FinalMap.png"/>
     <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
 
@@ -87,14 +87,14 @@ return (
   </div>
 
   <div className="h-screen bg-white" id="Scoop">
-    <h1 className="text-center text-mint text-8xl py-5 font-arial">THE SCOOP</h1>
+    <h1 className="text-center text-mint text-4xl md:text-8xl py-5 font-arial">THE SCOOP</h1>
     <p className="text-mint text-lg text-center">Coming very soon!</p>
   </div>
 
   <div className="bg-punk text-white" id="Team">
     <img src="/images/new/FROSTING_1.png"></img>
 
-    <h1 className="text-center text-white text-8xl py-10 font-arial">TEAM</h1>
+    <h1 className="text-center text-white text-4xl md:text-8xl py-10 font-arial">TEAM</h1>
 
     <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 w-9/12 m-auto">
       <div className="md:col-span-2 lg:col-span-1">  
