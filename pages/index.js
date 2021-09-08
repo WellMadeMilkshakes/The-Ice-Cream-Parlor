@@ -92,7 +92,7 @@ return (
 
   <div className="bg-white" id="Scoop">
     <h1 className="text-center text-mint text-5xl md:text-8xl py-5 font-arial">THE SCOOP</h1>
-    <p className="text-mint text-lg text-center w-8/12 m-auto">Once upon a scoop, in a bucket not too far away in the land 
+    <p className="text-mint text-xl md:text-3xl text-center w-8/12 m-auto">Once upon a scoop, in a bucket not too far away in the land 
     of freezers. There was a cone who aspired to be more than just cream in a box. With determination and 
     extreme force, our hero became the scoop of ice cream that they wanted to be. With their goal accomplished 
     they aspired to spread their happiness to the world. One scoop at a time. As he saves up for their ice cream 
