@@ -25,9 +25,9 @@ return (
 
   <div className="bg-punk" id="WelcomeNav">
 
-    <div className="grid gap-4 grid-cols-6 w-11/12 m-auto">
+    <div className="grid grid-cols-3 md:grid-cols-10 w-11/12 m-auto py-10">
 
-      <div className="col-span-3 my-auto text-white text-xl md:text-6xl">
+      <div className="col-span-3 md:col-span-7 text-white text-4xl md:text-6xl my-10">
         <h2 className="font-indie">THE ICE CREAM PARLOR</h2>
       </div>
 
@@ -79,7 +79,7 @@ return (
   <div className="bg-mint" id="Roadmap">
     <img src="/images/new/FROSTING_1_FLIP.png"></img>
 
-    <h1 className="text-center text-white text-4xl md:text-8xl pt-5 font-arial m-auto">ROADMAP</h1>
+    <h1 className="text-center text-white text-5xl md:text-8xl pt-5 font-arial m-auto">ROADMAP</h1>
     <img id="roadmap-img" className="p-8 hidden md:block" src="/images/FinalMap.png"/>
     <img id="roadmap-img" className="pb-8 block md:hidden" src="/images/FinalMapMobile.png"/>
 
@@ -87,14 +87,14 @@ return (
   </div>
 
   <div className="h-screen bg-white" id="Scoop">
-    <h1 className="text-center text-mint text-4xl md:text-8xl py-5 font-arial">THE SCOOP</h1>
+    <h1 className="text-center text-mint text-5xl md:text-8xl py-5 font-arial">THE SCOOP</h1>
     <p className="text-mint text-lg text-center">Coming very soon!</p>
   </div>
 
   <div className="bg-punk text-white" id="Team">
     <img src="/images/new/FROSTING_1.png"></img>
 
-    <h1 className="text-center text-white text-4xl md:text-8xl py-10 font-arial">TEAM</h1>
+    <h1 className="text-center text-white text-5xl md:text-8xl py-10 font-arial">TEAM</h1>
 
     <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 w-9/12 m-auto">
       <div className="md:col-span-2 lg:col-span-1">  
