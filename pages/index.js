@@ -27,7 +27,7 @@ return (
 
     <div className="grid grid-cols-3 md:grid-cols-10 w-11/12 m-auto py-10">
 
-      <div className="col-span-3 md:col-span-7 text-white text-4xl md:text-6xl my-10">
+      <div className="hidden md:block col-span-7 text-white text-6xl my-10">
         <h2 className="font-indie">THE ICE CREAM PARLOR</h2>
       </div>
 
@@ -47,6 +47,10 @@ return (
         <a href="https://opensea.io/collection/theicecreamparlor" target="_blank">
           <img src="/images/new/opensea.png"></img>
         </a>
+      </div>
+
+      <div className="block md:hidden col-span-3 text-white text-4xl my-10 text-center">
+        <h2 className="font-indie">THE ICE CREAM PARLOR</h2>
       </div>
 
     </div>
