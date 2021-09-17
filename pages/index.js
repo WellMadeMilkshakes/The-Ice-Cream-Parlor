@@ -159,12 +159,12 @@ return (
 
         <div className="grid gap-4 grid-cols-3 p-2 items-center">
           <div className="image">
-            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hoodie.png"></img>
+            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Abby.png"></img>
           </div>
           <div className="description col-span-2">
-            <p className="text-xl font-medium">Shaphan</p>
-            <p className="">Consultant</p>
-            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/ShaphanBowen">@ShaphanBowen</a>
+            <p className="text-xl font-medium">Abby</p>
+            <p className="">Senior Artist</p>
+            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
           </div>
         </div>
 
@@ -192,15 +192,13 @@ return (
 
         <div className="grid gap-4 grid-cols-3 p-2 items-center">
           <div className="image">
-            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Abby.png"></img>
+            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hoodie.png"></img>
           </div>
           <div className="description col-span-2">
-            <p className="text-xl font-medium">Abby</p>
-            <p className="">Senior Artist</p>
-            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
+            <p className="text-xl font-medium">Anonymous</p>
+            <p className="">Consultant</p>
           </div>
         </div>
-
       </div>
     </div>
 
