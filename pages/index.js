@@ -140,19 +140,7 @@ return (
             <p className="">Project Development</p> 
             <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/wellMadeShakes">@wellMadeShakes</a>
           </div>
-        </div>  
-
-        <div className="grid gap-4 grid-cols-3 p-2 items-center">
-          <div className="image">
-            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Mummy.png"></img>
-          </div>
-          <div className="description col-span-2">
-            <p className="text-xl font-medium">TheScoopy1</p>
-            <p className="">Marketing</p>
-            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
-          </div>
-        </div> 
-
+        </div>
       </div>
 
       <div className="md:col-span-2 lg:col-span-1">
@@ -167,29 +155,6 @@ return (
             <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/UnderTheSeaNFT">@UnderTheSeaNFT</a>
           </div>
         </div>
-
-        <div className="grid gap-4 grid-cols-3 p-2 items-center">
-          <div className="image">
-            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Astronaut.png"></img>
-          </div>
-          <div className="description col-span-2">
-            <p className="text-xl font-medium">MetaverseMogul</p>
-            <p className="">Developer</p>
-            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/MetaverseMogul">@MetaverseMogul</a>
-          </div>
-        </div>
-
-        <div className="grid gap-4 grid-cols-3 p-2 items-center">
-          <div className="image">
-            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Shark.png"></img>
-          </div>
-          <div className="description col-span-2">
-            <p className="text-xl font-medium">BennaginsETH</p>
-            <p className="">Developer</p>
-            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/BennaginsETH">@BennaginsETH</a>
-          </div>
-        </div>
-
         <div className="grid gap-4 grid-cols-3 p-2 items-center">
           <div className="image">
             <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Hoodie.png"></img>
@@ -199,6 +164,18 @@ return (
             <p className="">Consultant</p>
           </div>
         </div>
+
+        <div className="grid gap-4 grid-cols-3 p-2 items-center">
+          <div className="image">
+            <img className="rounded-full shadow-lg hover:animate-spin" src="/images/profiles/Mummy.png"></img>
+          </div>
+          <div className="description col-span-2">
+            <p className="text-xl font-medium">TheScoopy1</p>
+            <p className="">Marketing</p>
+            <a className="text-lg text-blau font-indie" target="_blank" href="https://twitter.com/TheScoopy1">@TheScoopy1</a>
+          </div>
+        </div>
+
       </div>
     </div>
 
